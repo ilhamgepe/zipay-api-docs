@@ -1,0 +1,37 @@
+[
+  {
+    "id": "UMI",
+    "description": "Usaha Mikro",
+    "fee": 0.7
+  },
+  {
+    "id": "UKE",
+    "description": "Usaha Kecil",
+    "fee": 0.8
+  },
+  {
+    "id": "UME",
+    "description": "Usaha Menengah",
+    "fee": 0.9
+  },
+  {
+    "id": "UBE",
+    "description": "Usaha Besar",
+    "fee": 1
+  },
+  {
+    "id": "URE",
+    "description": "Usaha Reguler",
+    "fee": 1.1
+  },
+  {
+    "id": "PSO",
+    "description": "Public Service Obligation",
+    "fee": 1.2
+  },
+  {
+    "id": "BLU",
+    "description": "Badan Layanan Umum",
+    "fee": 1.3
+  }
+]

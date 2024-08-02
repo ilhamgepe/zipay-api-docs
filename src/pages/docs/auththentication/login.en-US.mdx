@@ -1,0 +1,60 @@
+---
+title: Login Documentation
+description: Comprehensive guide to logging into our system, including steps, requirements, and troubleshooting solutions.
+---
+
+# Login
+
+Welcome to the comprehensive guide for logging into our system. This guide covers the necessary steps, requirements, and solutions for common issues.
+
+## Endpoint URL
+
+```plaintext copy
+  https://api.zipay.com/auth/login
+```
+
+## Request
+
+- **URL**: `https://api.zipay.com/auth/login`
+- **Method**: `POST`
+- **Headers**:
+  - `Content-Type`: `application/json` or `x-www-form-urlencoded`
+
+### Request Body
+
+#### Example Request
+
+```json copy filename="json"
+{
+  "userId": "MyUserId",
+  "password": "MySecretPassword!"
+}
+```
+
+The login API requires two fields: `userId` and `password`. The `userId` is your unique identifier within our system, and the `password` is your secret passcode for authentication. Below is a table describing each mandatory field and its purpose.
+
+| Field    | Mandatory | Description                               |
+| -------- | --------- | ----------------------------------------- |
+| userId   | Yes       | Your unique identifier within our system. |
+| password | Yes       | Your secret passcode for authentication.  |
+
+### Response
+
+```json copy
+{
+  "status": 200,
+  "success": true,
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI5YzljYTMzZC1mNGY2LTQ2NjQtODRkZS1kOGIwNTkwNTY3YWUiLCJqdGkiOiIyMWRmMTczYWQzZGRmMDIxMWUwZmNjYTYyZDZiMTM4ZTdhOWNlZjlkMGJkNjZkNDk0ODIyMzZlZWMyODRjMTcyNmVkNjAzMWMxODQxMTRkZSIsImlhdCI6MTcyMjQ5NjcwNS4wMTE2MzYsIm5iZiI6MTcyMjQ5NjcwNS4wMTE2MzcsImV4cCI6MTc1NDAzMjcwNC45OTUyOCwic3ViIjoiMiIsInNjb3BlcyI6W119.Mtaq4SbWrRUtcP1Q7QyA_9gQUNMYT6M74dqcFcwWfA-Gg-2vodBrsFO1wYoIlfvfxU_omWGE0he4qyjoGbzFV06t3a0JO7MTOYlGQk5mbrsmZS1IWSfmdlNoj06YOyDwWLVFcovKSY3KKR_mCDmEQ6M8El3ZzqYvbl415UCU67oa4ZogpzzHz-5OHrleo9wqsV4oBqAT0JekQ6WflkZ5hkuFquNuqHsHDi4u2d8W-9ELQvIu7MQVPdT0p5E2uOPDyYnSO6jDUS67PpNySzEbkIcxjn171tHRb_ohgjQH6PpLBOwIRgcfx0ZPLcmt7Y6C8xuNGPYt0QypIZ4kF0BTRG66YwErInODrK1g0ftBSMvAFKFXJc-UkNfsdWf2RAaNNKZxmTrvqXwb01c1V55Byh-OKQo3LB8OH5jDb8kYRGdR_f_Svmj_Ye95XCkp_5zCM5R3za3PPsjWpzykHzGciABGEvu5M37OUYl2jRvMOx8E-O-A-BgeBJ_JXnF-HbHc82yOCM6XrP_-6lbakIQpV4bMglBmzCvNCsc-FcLbawjQy1xPS7P0KeOitZ",
+    "expired_token": "2025-08-01 14:18:24"
+  }
+}
+```
+
+| Field         | Description                                                                                                                                                                                                      |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| status        | The HTTP status code of the response. A value of 200 indicates success.                                                                                                                                          |
+| success       | A boolean indicating if the login operation was successful.                                                                                                                                                      |
+| data          | An object containing the response details.                                                                                                                                                                       |
+| access_token  | The token used for accessing protected resources. This token must be included in the Authorization header of subsequent API requests to authorize actions like creating QRIS codes and accessing other services. |
+| expired_token | The date and time when the access token will expire. The token is valid for 1 year before it expires.                                                                                                            |

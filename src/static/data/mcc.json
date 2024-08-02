@@ -1,0 +1,2874 @@
+[
+    {
+        "MCC": "0742",
+        "DETAIL": "VETERINARY SERVICES"
+    },
+    {
+        "MCC": "0763",
+        "DETAIL": "AGRICULTURAL CO-OPERATIVE"
+    },
+    {
+        "MCC": "0780",
+        "DETAIL": "LANDSCAPING & HORTICULTURAL SERVICES"
+    },
+    {
+        "MCC": "1520",
+        "DETAIL": "GENERAL CONTRACTORS - RESIDENTIAL & COMMERCIAL"
+    },
+    {
+        "MCC": "1711",
+        "DETAIL": "HEATING, PLUMBING, & AIR CONDITIONING CONTRACTORS"
+    },
+    {
+        "MCC": "1731",
+        "DETAIL": "ELECTRICAL CONTRACTORS"
+    },
+    {
+        "MCC": "1740",
+        "DETAIL": "MASONRY, STONEWORK, TILE SETTING, PLASTERING & INSULATION CONTRACTORS"
+    },
+    {
+        "MCC": "1750",
+        "DETAIL": "CARPENTRY CONTRACTORS"
+    },
+    {
+        "MCC": "1761",
+        "DETAIL": "ROOFING, SIDING, AND SHEET METAL WORK CONTRANTORS"
+    },
+    {
+        "MCC": "1771",
+        "DETAIL": "CONTRACTORS-CONCRETE WORK"
+    },
+    {
+        "MCC": "1799",
+        "DETAIL": "SPECIAL TRADE CONTRACTORS (NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "2222",
+        "DETAIL": "OTHERS-NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+        "MCC": "2741",
+        "DETAIL": "MISCELLANEOUS PUBLISHING & PRINTING"
+    },
+    {
+        "MCC": "2791",
+        "DETAIL": "TYPESETTING, PLATE MAKING, & RELATED SERVICES"
+    },
+    {
+        "MCC": "2842",
+        "DETAIL": "SPECIALTY CLEANING, POLISHING, & SANITATION PREPARATIONS"
+    },
+    {
+        "MCC": "3103",
+        "DETAIL": "Garuda (Indonesia)--GARUDA"
+    },
+    {
+        "MCC": "3333",
+        "DETAIL": "OTHERS-NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+        "MCC": "3351",
+        "DETAIL": "AFFILIATED AUTO RENTAL"
+    },
+    {
+        "MCC": "3352",
+        "DETAIL": "AMERICAN INTL RENT-A-CAR"
+    },
+    {
+        "MCC": "3353",
+        "DETAIL": "BROOKS RENT-A-CAR"
+    },
+    {
+        "MCC": "3354",
+        "DETAIL": "ACTION AUTO RENTAL"
+    },
+    {
+        "MCC": "3355",
+        "DETAIL": "SIXT CAR RENTAL"
+    },
+    {
+        "MCC": "3357",
+        "DETAIL": "HERTZ"
+    },
+    {
+        "MCC": "3359",
+        "DETAIL": "PAYLESS CAR RENTAL"
+    },
+    {
+        "MCC": "3361",
+        "DETAIL": "AIRWAYS RENT-A-CAR"
+    },
+    {
+        "MCC": "3362",
+        "DETAIL": "ALTRA AUTO RENTAL"
+    },
+    {
+        "MCC": "3364",
+        "DETAIL": "AGENCY RENT-A-CAR"
+    },
+    {
+        "MCC": "3366",
+        "DETAIL": "BUDGET RENT-A-CAR"
+    },
+    {
+        "MCC": "3368",
+        "DETAIL": "HOLIDAY RENT-A-CAR"
+    },
+    {
+        "MCC": "3370",
+        "DETAIL": "RENT A WRECK"
+    },
+    {
+        "MCC": "3374",
+        "DETAIL": "ACCENT RENT-A-CAR"
+    },
+    {
+        "MCC": "3376",
+        "DETAIL": "AJAX RENT-A-CAR"
+    },
+    {
+        "MCC": "3380",
+        "DETAIL": "TRIANGLE RENT-A-CAR"
+    },
+    {
+        "MCC": "3381",
+        "DETAIL": "EUROP CAR"
+    },
+    {
+        "MCC": "3385",
+        "DETAIL": "TROPICAL RENT-A-CAR"
+    },
+    {
+        "MCC": "3386",
+        "DETAIL": "SHOWCASE RENTAL CARS"
+    },
+    {
+        "MCC": "3387",
+        "DETAIL": "ALAMO RENT-A-CAR"
+    },
+    {
+        "MCC": "3388",
+        "DETAIL": "MERCHANTS RENT-A-CAR"
+    },
+    {
+        "MCC": "3389",
+        "DETAIL": "AVIS RENT-A-CAR"
+    },
+    {
+        "MCC": "3390",
+        "DETAIL": "DOLLAR RENT-A-CAR"
+    },
+    {
+        "MCC": "3391",
+        "DETAIL": "EUROPE BY CAR"
+    },
+    {
+        "MCC": "3393",
+        "DETAIL": "NATIONAL CAR RENTAL"
+    },
+    {
+        "MCC": "3394",
+        "DETAIL": "KEMWELL GROUP RENT-A-CAR"
+    },
+    {
+        "MCC": "3395",
+        "DETAIL": "THRIFTY CAR RENTAL"
+    },
+    {
+        "MCC": "3396",
+        "DETAIL": "TILDEN RENT-A-CAR"
+    },
+    {
+        "MCC": "3398",
+        "DETAIL": "ECONO-CAR RENT-A-CAR"
+    },
+    {
+        "MCC": "3399",
+        "DETAIL": "AMEREX RENT-A-CAR"
+    },
+    {
+        "MCC": "3400",
+        "DETAIL": "AUTO HOST CAR RENTALS"
+    },
+    {
+        "MCC": "3405",
+        "DETAIL": "ENTERPRISE RENT-A-CAR"
+    },
+    {
+        "MCC": "3409",
+        "DETAIL": "GENERAL RENT-A-CAR"
+    },
+    {
+        "MCC": "3411",
+        "DETAIL": "ATLANTA RENT-A-CAR"
+    },
+    {
+        "MCC": "3412",
+        "DETAIL": "A1 RENT-A-CAR"
+    },
+    {
+        "MCC": "3414",
+        "DETAIL": "GODFREY NATL RENT-A-CAR"
+    },
+    {
+        "MCC": "3419",
+        "DETAIL": "ALPHA RENT-A-CAR"
+    },
+    {
+        "MCC": "3420",
+        "DETAIL": "ANSA INTL RENT-A-CAR"
+    },
+    {
+        "MCC": "3421",
+        "DETAIL": "ALLSTATE RENT-A-CAR"
+    },
+    {
+        "MCC": "3423",
+        "DETAIL": "AVCAR RENT-A-CAR"
+    },
+    {
+        "MCC": "3425",
+        "DETAIL": "AUTOMATE RENT-A-CAR"
+    },
+    {
+        "MCC": "3427",
+        "DETAIL": "AVON RENT-A-CAR"
+    },
+    {
+        "MCC": "3428",
+        "DETAIL": "CAREY RENT-A-CAR"
+    },
+    {
+        "MCC": "3429",
+        "DETAIL": "INSURANCE RENT-A-CAR"
+    },
+    {
+        "MCC": "3430",
+        "DETAIL": "MAJOR RENT-A-CAR"
+    },
+    {
+        "MCC": "3431",
+        "DETAIL": "REPLACEMENT RENT-A-CAR"
+    },
+    {
+        "MCC": "3432",
+        "DETAIL": "RESERVE RENT-A-CAR"
+    },
+    {
+        "MCC": "3433",
+        "DETAIL": "UGLY DUCKLING RENT-A-CAR"
+    },
+    {
+        "MCC": "3434",
+        "DETAIL": "USA RENT-A-CAR"
+    },
+    {
+        "MCC": "3435",
+        "DETAIL": "VALUE RENT-A-CAR"
+    },
+    {
+        "MCC": "3436",
+        "DETAIL": "AUTOHANSA RENT-A-CAR"
+    },
+    {
+        "MCC": "3437",
+        "DETAIL": "CITE RENT-A-CAR"
+    },
+    {
+        "MCC": "3438",
+        "DETAIL": "INTERENT RENT-A-CAR"
+    },
+    {
+        "MCC": "3439",
+        "DETAIL": "MILLEVILLE RENT-A-CAR"
+    },
+    {
+        "MCC": "3440",
+        "DETAIL": "VIA ROUTE"
+    },
+    {
+        "MCC": "3441",
+        "DETAIL": "ADVANTAGE RENT-A-CAR"
+    },
+    {
+        "MCC": "3501",
+        "DETAIL": "HOLIDAY INN EXPRESS # HOLIDAY INNS"
+    },
+    {
+        "MCC": "3502",
+        "DETAIL": "BEST WESTERN HOTELS"
+    },
+    {
+        "MCC": "3503",
+        "DETAIL": "SHERATON HOTELS"
+    },
+    {
+        "MCC": "3504",
+        "DETAIL": "HILTON HOTELS"
+    },
+    {
+        "MCC": "3505",
+        "DETAIL": "FORTE HOTELS"
+    },
+    {
+        "MCC": "3506",
+        "DETAIL": "GOLDEN TULIP HOTELS"
+    },
+    {
+        "MCC": "3507",
+        "DETAIL": "FRIENDSHIP INNS"
+    },
+    {
+        "MCC": "3508",
+        "DETAIL": "QUALITY INNS"
+    },
+    {
+        "MCC": "3509",
+        "DETAIL": "MARRIOTT"
+    },
+    {
+        "MCC": "3510",
+        "DETAIL": "DAYS INNS"
+    },
+    {
+        "MCC": "3511",
+        "DETAIL": "ARABELLA HOTELS"
+    },
+    {
+        "MCC": "3512",
+        "DETAIL": "INTER-CONTINENTAL HOTELS"
+    },
+    {
+        "MCC": "3513",
+        "DETAIL": "WESTIN (WESTIN HOTELS)"
+    },
+    {
+        "MCC": "3514",
+        "DETAIL": "AMERISUITES"
+    },
+    {
+        "MCC": "3515",
+        "DETAIL": "RODEWAY INNS"
+    },
+    {
+        "MCC": "3516",
+        "DETAIL": "LA QUINTA MOTOR INNS"
+    },
+    {
+        "MCC": "3517",
+        "DETAIL": "AMERICANA HOTELS"
+    },
+    {
+        "MCC": "3518",
+        "DETAIL": "SOL HOTELS"
+    },
+    {
+        "MCC": "3519",
+        "DETAIL": "PULLMAN INTERNATIONAL HOTELS"
+    },
+    {
+        "MCC": "3520",
+        "DETAIL": "MERIDIEN HOTELS"
+    },
+    {
+        "MCC": "3521",
+        "DETAIL": "ROYAL LAHAINA RESORTS"
+    },
+    {
+        "MCC": "3522",
+        "DETAIL": "TOKYO HOTEL"
+    },
+    {
+        "MCC": "3523",
+        "DETAIL": "PENINSULA HOTEL"
+    },
+    {
+        "MCC": "3524",
+        "DETAIL": "WELCOMGROUP HOTELS"
+    },
+    {
+        "MCC": "3525",
+        "DETAIL": "DUNFEY HOTELS"
+    },
+    {
+        "MCC": "3526",
+        "DETAIL": "PRINCE HOTELS"
+    },
+    {
+        "MCC": "3527",
+        "DETAIL": "DOWNTOWNER-PASSPORT HOTEL"
+    },
+    {
+        "MCC": "3529",
+        "DETAIL": "CP (CANADIAN PACIFIC) HOTELS"
+    },
+    {
+        "MCC": "3530",
+        "DETAIL": "RENAISSANCE HOTELS"
+    },
+    {
+        "MCC": "3531",
+        "DETAIL": "KAUAI COCONUT BEACH RESORT"
+    },
+    {
+        "MCC": "3532",
+        "DETAIL": "ROYAL KONA RESORT"
+    },
+    {
+        "MCC": "3533",
+        "DETAIL": "HOTEL IBIS"
+    },
+    {
+        "MCC": "3534",
+        "DETAIL": "SOUTHERN PACIFIC HOTELS"
+    },
+    {
+        "MCC": "3535",
+        "DETAIL": "HILTON INTERNATIONALS"
+    },
+    {
+        "MCC": "3536",
+        "DETAIL": "AMFAC HOTELS"
+    },
+    {
+        "MCC": "3537",
+        "DETAIL": "ANA HOTELS"
+    },
+    {
+        "MCC": "3538",
+        "DETAIL": "CONCORDE HOTELS"
+    },
+    {
+        "MCC": "3539",
+        "DETAIL": "SUMMERFIELD SUITES HOTELS"
+    },
+    {
+        "MCC": "3540",
+        "DETAIL": "IBEROTEL HOTELS"
+    },
+    {
+        "MCC": "3541",
+        "DETAIL": "HOTEL OKURA"
+    },
+    {
+        "MCC": "3542",
+        "DETAIL": "ROYAL HOTELS"
+    },
+    {
+        "MCC": "3543",
+        "DETAIL": "FOUR SEASONS HOTELS"
+    },
+    {
+        "MCC": "3544",
+        "DETAIL": "CIGA HOTELS"
+    },
+    {
+        "MCC": "3545",
+        "DETAIL": "SHANGRI-LA INTERNATIONAL"
+    },
+    {
+        "MCC": "3546",
+        "DETAIL": "SIERRA SUITES HOTELS"
+    },
+    {
+        "MCC": "3547",
+        "DETAIL": "BREAKERS RESORT"
+    },
+    {
+        "MCC": "3548",
+        "DETAIL": "HOTELS MELIA"
+    },
+    {
+        "MCC": "3549",
+        "DETAIL": "AUBERGE DES GOVERNEURS"
+    },
+    {
+        "MCC": "3550",
+        "DETAIL": "REGAL 8 INNS"
+    },
+    {
+        "MCC": "3551",
+        "DETAIL": "MIRAGE HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3552",
+        "DETAIL": "COAST HOTELS"
+    },
+    {
+        "MCC": "3553",
+        "DETAIL": "PARK INNS INTERNATIONAL"
+    },
+    {
+        "MCC": "3554",
+        "DETAIL": "PINEHURST RESORT"
+    },
+    {
+        "MCC": "3555",
+        "DETAIL": "TREASURE ISLAND HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3556",
+        "DETAIL": "BARTON CREEK RESORT"
+    },
+    {
+        "MCC": "3557",
+        "DETAIL": "MANHATTAN EAST SUITE HOTELS"
+    },
+    {
+        "MCC": "3558",
+        "DETAIL": "JOLLY HOTELS"
+    },
+    {
+        "MCC": "3559",
+        "DETAIL": "CANDLEWOOD SUITES"
+    },
+    {
+        "MCC": "3560",
+        "DETAIL": "ALADDIN RESORT AND CASINO"
+    },
+    {
+        "MCC": "3561",
+        "DETAIL": "GOLDEN NUGGET"
+    },
+    {
+        "MCC": "3562",
+        "DETAIL": "COMFORT INNS"
+    },
+    {
+        "MCC": "3563",
+        "DETAIL": "JOURNEY�S END MOTELS"
+    },
+    {
+        "MCC": "3564",
+        "DETAIL": "SAM�S TOWN HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3565",
+        "DETAIL": "RELAX INNS"
+    },
+    {
+        "MCC": "3565",
+        "DETAIL": "RELAX INNS"
+    },
+    {
+        "MCC": "3566",
+        "DETAIL": "GARDEN PLACE HOTEL"
+    },
+    {
+        "MCC": "3567",
+        "DETAIL": "SOHO GRAND HOTEL"
+    },
+    {
+        "MCC": "3568",
+        "DETAIL": "LADBROKE HOTELS"
+    },
+    {
+        "MCC": "3569",
+        "DETAIL": "TRIBECA GRAND HOTEL"
+    },
+    {
+        "MCC": "3570",
+        "DETAIL": "FORUM HOTELS"
+    },
+    {
+        "MCC": "3571",
+        "DETAIL": "GRAND WAILEA RESORT"
+    },
+    {
+        "MCC": "3572",
+        "DETAIL": "MIYAKO HOTELS"
+    },
+    {
+        "MCC": "3573",
+        "DETAIL": "SANDMAN HOTELS"
+    },
+    {
+        "MCC": "3574",
+        "DETAIL": "VENTURE INNS"
+    },
+    {
+        "MCC": "3575",
+        "DETAIL": "VAGABOND HOTELS"
+    },
+    {
+        "MCC": "3576",
+        "DETAIL": "LA QUINTA RESORT"
+    },
+    {
+        "MCC": "3577",
+        "DETAIL": "MANDARIN ORIENTAL HOTEL"
+    },
+    {
+        "MCC": "3578",
+        "DETAIL": "FRANKENMUTH BAVARIAN"
+    },
+    {
+        "MCC": "3579",
+        "DETAIL": "HOTEL MERCURE"
+    },
+    {
+        "MCC": "3580",
+        "DETAIL": "HOTEL DEL CORONADO"
+    },
+    {
+        "MCC": "3581",
+        "DETAIL": "DELTA HOTEL"
+    },
+    {
+        "MCC": "3582",
+        "DETAIL": "CALIFORNIA HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3583",
+        "DETAIL": "RADISSON BLU"
+    },
+    {
+        "MCC": "3583",
+        "DETAIL": "SAS HOTELS"
+    },
+    {
+        "MCC": "3584",
+        "DETAIL": "PRINCESS HOTELS INTERNATIONAL"
+    },
+    {
+        "MCC": "3585",
+        "DETAIL": "HUNGAR HOTELS"
+    },
+    {
+        "MCC": "3586",
+        "DETAIL": "SOKOS HOTELS"
+    },
+    {
+        "MCC": "3587",
+        "DETAIL": "DORAL HOTELS"
+    },
+    {
+        "MCC": "3588",
+        "DETAIL": "HELMSLEY HOTELS"
+    },
+    {
+        "MCC": "3589",
+        "DETAIL": "DORAL GOLF RESORT"
+    },
+    {
+        "MCC": "3590",
+        "DETAIL": "FAIRMONT HOTELS"
+    },
+    {
+        "MCC": "3591",
+        "DETAIL": "SONESTA HOTELS"
+    },
+    {
+        "MCC": "3592",
+        "DETAIL": "OMNI HOTELS"
+    },
+    {
+        "MCC": "3593",
+        "DETAIL": "CUNARD HOTELS"
+    },
+    {
+        "MCC": "3594",
+        "DETAIL": "ARIZONA BILTMORE"
+    },
+    {
+        "MCC": "3595",
+        "DETAIL": "HOSPITALITY INNS"
+    },
+    {
+        "MCC": "3596",
+        "DETAIL": "WYNN LAS VEGAS"
+    },
+    {
+        "MCC": "3597",
+        "DETAIL": "RIVERSIDE RESORT HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3598",
+        "DETAIL": "REGENT INTERNATIONAL HOTELS"
+    },
+    {
+        "MCC": "3599",
+        "DETAIL": "PANNONIA HOTELS"
+    },
+    {
+        "MCC": "3600",
+        "DETAIL": "SADDLEBROOK RESORT TAMPA"
+    },
+    {
+        "MCC": "3601",
+        "DETAIL": "TRADEWINDS RESORTS"
+    },
+    {
+        "MCC": "3602",
+        "DETAIL": "HUDSON HOTEL"
+    },
+    {
+        "MCC": "3603",
+        "DETAIL": "NOAH�S HOTELS"
+    },
+    {
+        "MCC": "3604",
+        "DETAIL": "HILTON GARDEN INN"
+    },
+    {
+        "MCC": "3605",
+        "DETAIL": "JURYS DOYLE HOTEL GROUP"
+    },
+    {
+        "MCC": "3606",
+        "DETAIL": "JEFFERSON HOTEL"
+    },
+    {
+        "MCC": "3607",
+        "DETAIL": "FONTAINEBLEAU RESORTS"
+    },
+    {
+        "MCC": "3608",
+        "DETAIL": "GAYLORD OPRYLAND"
+    },
+    {
+        "MCC": "3609",
+        "DETAIL": "GAYLORD PALMS"
+    },
+    {
+        "MCC": "3610",
+        "DETAIL": "GAYLORD TEXAN"
+    },
+    {
+        "MCC": "3611",
+        "DETAIL": "C MON INN"
+    },
+    {
+        "MCC": "3612",
+        "DETAIL": "MOEVENPICK HOTELS"
+    },
+    {
+        "MCC": "3613",
+        "DETAIL": "MICROTEL INNS & SUITES"
+    },
+    {
+        "MCC": "3614",
+        "DETAIL": "AMERICINN"
+    },
+    {
+        "MCC": "3615",
+        "DETAIL": "TRAVELODGE"
+    },
+    {
+        "MCC": "3616",
+        "DETAIL": "HERMITAGE HOTELS"
+    },
+    {
+        "MCC": "3617",
+        "DETAIL": "AMERICA�S BEST VALUE INN"
+    },
+    {
+        "MCC": "3618",
+        "DETAIL": "GREAT WOLF"
+    },
+    {
+        "MCC": "3619",
+        "DETAIL": "ALOFT"
+    },
+    {
+        "MCC": "3620",
+        "DETAIL": "BINION�S HORSESHOE CLUB"
+    },
+    {
+        "MCC": "3621",
+        "DETAIL": "EXTENDED STAY"
+    },
+    {
+        "MCC": "3622",
+        "DETAIL": "MERLIN HOTELS"
+    },
+    {
+        "MCC": "3623",
+        "DETAIL": "DORINT HOTELS"
+    },
+    {
+        "MCC": "3624",
+        "DETAIL": "LADY LUCK HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3625",
+        "DETAIL": "HOTEL UNIVERSALE"
+    },
+    {
+        "MCC": "3626",
+        "DETAIL": "STUDIO PLUS"
+    },
+    {
+        "MCC": "3627",
+        "DETAIL": "EXTENDED STAY AMERICA"
+    },
+    {
+        "MCC": "3628",
+        "DETAIL": "EXCALIBUR HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3629",
+        "DETAIL": "DAN HOTELS"
+    },
+    {
+        "MCC": "3630",
+        "DETAIL": "EXTENDED STAY DELUXE"
+    },
+    {
+        "MCC": "3631",
+        "DETAIL": "SLEEP INN"
+    },
+    {
+        "MCC": "3632",
+        "DETAIL": "THE PHOENICIAN"
+    },
+    {
+        "MCC": "3633",
+        "DETAIL": "RANK HOTELS"
+    },
+    {
+        "MCC": "3634",
+        "DETAIL": "SWISSOTEL"
+    },
+    {
+        "MCC": "3635",
+        "DETAIL": "RESO HOTELS"
+    },
+    {
+        "MCC": "3636",
+        "DETAIL": "SAROVA HOTELS"
+    },
+    {
+        "MCC": "3637",
+        "DETAIL": "RAMADA INNS"
+    },
+    {
+        "MCC": "3638",
+        "DETAIL": "HOWARD JOHNSON"
+    },
+    {
+        "MCC": "3639",
+        "DETAIL": "MOUNT CHARLOTTE THISTLE"
+    },
+    {
+        "MCC": "3640",
+        "DETAIL": "Hyatt Hotels"
+    },
+    {
+        "MCC": "3641",
+        "DETAIL": "SOFITEL HOTELS"
+    },
+    {
+        "MCC": "3642",
+        "DETAIL": "NOVOTEL HOTELS"
+    },
+    {
+        "MCC": "3643",
+        "DETAIL": "STEIGENBERGER HOTELS"
+    },
+    {
+        "MCC": "3644",
+        "DETAIL": "ECONO LODGES"
+    },
+    {
+        "MCC": "3645",
+        "DETAIL": "QUEENS MOAT HOUSES"
+    },
+    {
+        "MCC": "3646",
+        "DETAIL": "SWALLOW HOTELS"
+    },
+    {
+        "MCC": "3647",
+        "DETAIL": "HUSA HOTELS"
+    },
+    {
+        "MCC": "3648",
+        "DETAIL": "DE VERE HOTELS"
+    },
+    {
+        "MCC": "3649",
+        "DETAIL": "RADISSON HOTELS"
+    },
+    {
+        "MCC": "3650",
+        "DETAIL": "RED ROOF INNS"
+    },
+    {
+        "MCC": "3651",
+        "DETAIL": "IMPERIAL LONDON HOTEL"
+    },
+    {
+        "MCC": "3652",
+        "DETAIL": "EMBASSY HOTELS"
+    },
+    {
+        "MCC": "3653",
+        "DETAIL": "PENTA HOTELS"
+    },
+    {
+        "MCC": "3654",
+        "DETAIL": "LOEWS HOTELS"
+    },
+    {
+        "MCC": "3655",
+        "DETAIL": "SCANDIC HOTELS"
+    },
+    {
+        "MCC": "3656",
+        "DETAIL": "SARA HOTELS"
+    },
+    {
+        "MCC": "3657",
+        "DETAIL": "OBEROI HOTELS"
+    },
+    {
+        "MCC": "3658",
+        "DETAIL": "NEW OTANI HOTELS"
+    },
+    {
+        "MCC": "3659",
+        "DETAIL": "TAJ HOTELS INTERNATIONAL"
+    },
+    {
+        "MCC": "3660",
+        "DETAIL": "KNIGHTS INNS"
+    },
+    {
+        "MCC": "3661",
+        "DETAIL": "METROPOLE HOTELS"
+    },
+    {
+        "MCC": "3662",
+        "DETAIL": "CIRCUS CIRCUS HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3663",
+        "DETAIL": "HOTELES EL PRESIDENTE"
+    },
+    {
+        "MCC": "3664",
+        "DETAIL": "FLAG INN"
+    },
+    {
+        "MCC": "3665",
+        "DETAIL": "HAMPTON INNS"
+    },
+    {
+        "MCC": "3666",
+        "DETAIL": "STAKIS HOTELS"
+    },
+    {
+        "MCC": "3667",
+        "DETAIL": "LUXOR HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3668",
+        "DETAIL": "MARITIM HOTELS"
+    },
+    {
+        "MCC": "3669",
+        "DETAIL": "ELDORADO HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3670",
+        "DETAIL": "ARCADE HOTELS"
+    },
+    {
+        "MCC": "3671",
+        "DETAIL": "ARCTIA HOTELS"
+    },
+    {
+        "MCC": "3672",
+        "DETAIL": "CAMPANILE HOTELS"
+    },
+    {
+        "MCC": "3673",
+        "DETAIL": "IBUSZ HOTELS"
+    },
+    {
+        "MCC": "3674",
+        "DETAIL": "RANTASIPI HOTELS"
+    },
+    {
+        "MCC": "3675",
+        "DETAIL": "INTERHOTEL CEDOK"
+    },
+    {
+        "MCC": "3676",
+        "DETAIL": "MONTE CARLO HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3677",
+        "DETAIL": "CLIMAT DE FRANCE HOTELS"
+    },
+    {
+        "MCC": "3678",
+        "DETAIL": "CUMULUS HOTELS"
+    },
+    {
+        "MCC": "3679",
+        "DETAIL": "SILVER LEGACY HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3680",
+        "DETAIL": "HOTEIS OTHAN"
+    },
+    {
+        "MCC": "3681",
+        "DETAIL": "ADAMS MARK HOTELS"
+    },
+    {
+        "MCC": "3682",
+        "DETAIL": "SAHARA HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3683",
+        "DETAIL": "BRADBURY SUITES"
+    },
+    {
+        "MCC": "3684",
+        "DETAIL": "BUDGET HOST INN"
+    },
+    {
+        "MCC": "3685",
+        "DETAIL": "BUDGETEL HOTELS"
+    },
+    {
+        "MCC": "3686",
+        "DETAIL": "SUSSE CHALET"
+    },
+    {
+        "MCC": "3687",
+        "DETAIL": "CLARION HOTELS"
+    },
+    {
+        "MCC": "3688",
+        "DETAIL": "COMPRI HOTELS"
+    },
+    {
+        "MCC": "3690",
+        "DETAIL": "COURTYARD BY MARRIOTT"
+    },
+    {
+        "MCC": "3691",
+        "DETAIL": "DILLON INNS"
+    },
+    {
+        "MCC": "3692",
+        "DETAIL": "DOUBLETREE HOTELS"
+    },
+    {
+        "MCC": "3693",
+        "DETAIL": "DRURY INNS"
+    },
+    {
+        "MCC": "3694",
+        "DETAIL": "ECONOMY INNS OF AMERICA"
+    },
+    {
+        "MCC": "3695",
+        "DETAIL": "EMBASSY SUITES"
+    },
+    {
+        "MCC": "3696",
+        "DETAIL": "EXEL INNS"
+    },
+    {
+        "MCC": "3697",
+        "DETAIL": "FAIRFIELD HOTELS"
+    },
+    {
+        "MCC": "3698",
+        "DETAIL": "HARLEY HOTELS"
+    },
+    {
+        "MCC": "3699",
+        "DETAIL": "MIDWAY MOTOR LODGE"
+    },
+    {
+        "MCC": "3700",
+        "DETAIL": "MOTEL 6"
+    },
+    {
+        "MCC": "3701",
+        "DETAIL": "LA MANSION DEL RIO"
+    },
+    {
+        "MCC": "3702",
+        "DETAIL": "THE REGISTRY HOTELS"
+    },
+    {
+        "MCC": "3703",
+        "DETAIL": "RESIDENCE INNS"
+    },
+    {
+        "MCC": "3704",
+        "DETAIL": "ROYCE HOTELS"
+    },
+    {
+        "MCC": "3705",
+        "DETAIL": "SANDMAN INNS"
+    },
+    {
+        "MCC": "3706",
+        "DETAIL": "SHILO INNS"
+    },
+    {
+        "MCC": "3707",
+        "DETAIL": "SHONEY'S INNS"
+    },
+    {
+        "MCC": "3708",
+        "DETAIL": "VIRGIN RIVER HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3709",
+        "DETAIL": "SUPER 8 MOTELS"
+    },
+    {
+        "MCC": "3710",
+        "DETAIL": "THE RITZ-CARLTON"
+    },
+    {
+        "MCC": "3711",
+        "DETAIL": "FLAG INNS (AUSTRALIA)"
+    },
+    {
+        "MCC": "3712",
+        "DETAIL": "BUFFALO BILL�S HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3713",
+        "DETAIL": "QUALITY PACIFIC HOTEL"
+    },
+    {
+        "MCC": "3714",
+        "DETAIL": "FOUR SEASONS HOTEL (AUSTRALIA)"
+    },
+    {
+        "MCC": "3715",
+        "DETAIL": "FAIRFIELD INN"
+    },
+    {
+        "MCC": "3716",
+        "DETAIL": "CARLTON HOTELS"
+    },
+    {
+        "MCC": "3717",
+        "DETAIL": "CITY LODGE HOTELS"
+    },
+    {
+        "MCC": "3718",
+        "DETAIL": "KAROS HOTELS"
+    },
+    {
+        "MCC": "3719",
+        "DETAIL": "PROTEA HOTELS"
+    },
+    {
+        "MCC": "3720",
+        "DETAIL": "SOUTHERN SUN HOTELS"
+    },
+    {
+        "MCC": "3721",
+        "DETAIL": "HILTON CONRAD"
+    },
+    {
+        "MCC": "3722",
+        "DETAIL": "WYNDHAM"
+    },
+    {
+        "MCC": "3723",
+        "DETAIL": "RICA HOTELS"
+    },
+    {
+        "MCC": "3724",
+        "DETAIL": "INTER NOR HOTELS"
+    },
+    {
+        "MCC": "3725",
+        "DETAIL": "SEA PINES RESORT"
+    },
+    {
+        "MCC": "3726",
+        "DETAIL": "RIO SUITES"
+    },
+    {
+        "MCC": "3727",
+        "DETAIL": "BROADMOOR HOTEL"
+    },
+    {
+        "MCC": "3728",
+        "DETAIL": "BALLY�S HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3729",
+        "DETAIL": "JOHN ASCUAGA�S NUGGET"
+    },
+    {
+        "MCC": "3730",
+        "DETAIL": "MGM GRAND HOTEL"
+    },
+    {
+        "MCC": "3731",
+        "DETAIL": "HARRAHS HOTELS / CASINOS"
+    },
+    {
+        "MCC": "3732",
+        "DETAIL": "OPRYLAND HOTEL"
+    },
+    {
+        "MCC": "3733",
+        "DETAIL": "BOCA RATON RESORT"
+    },
+    {
+        "MCC": "3734",
+        "DETAIL": "HARVEY/BRISTOL HOTELS"
+    },
+    {
+        "MCC": "3735",
+        "DETAIL": "MASTERS ECONOMY INNS"
+    },
+    {
+        "MCC": "3736",
+        "DETAIL": "COLORADO BELLE/EDGEWATER RESORT"
+    },
+    {
+        "MCC": "3737",
+        "DETAIL": "RIVIERA HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3738",
+        "DETAIL": "TROPICANA RESORT & CASINO"
+    },
+    {
+        "MCC": "3739",
+        "DETAIL": "WOODSIDE HOTELS & RESORTS"
+    },
+    {
+        "MCC": "3740",
+        "DETAIL": "TOWNEPLACE SUITES"
+    },
+    {
+        "MCC": "3741",
+        "DETAIL": "MILLENNIUM HOTELS"
+    },
+    {
+        "MCC": "3742",
+        "DETAIL": "CLUB MED"
+    },
+    {
+        "MCC": "3743",
+        "DETAIL": "BILTMORE HOTEL & SUITES"
+    },
+    {
+        "MCC": "3744",
+        "DETAIL": "CAREFREE RESORTS"
+    },
+    {
+        "MCC": "3745",
+        "DETAIL": "ST. REGIS HOTEL"
+    },
+    {
+        "MCC": "3746",
+        "DETAIL": "THE ELIOT HOTEL"
+    },
+    {
+        "MCC": "3747",
+        "DETAIL": "CLUB CORP / CLUB RESORTS"
+    },
+    {
+        "MCC": "3748",
+        "DETAIL": "WELLESLEY INNS"
+    },
+    {
+        "MCC": "3749",
+        "DETAIL": "THE BEVERLY HILLS HOTEL"
+    },
+    {
+        "MCC": "3750",
+        "DETAIL": "CROWNE PLAZA HOTELS"
+    },
+    {
+        "MCC": "3751",
+        "DETAIL": "HOMEWOOD SUITES"
+    },
+    {
+        "MCC": "3752",
+        "DETAIL": "PEABODY HOTELS"
+    },
+    {
+        "MCC": "3753",
+        "DETAIL": "GREENBRIAR RESORTS"
+    },
+    {
+        "MCC": "3754",
+        "DETAIL": "AMELIA ISLAND PLANTATION"
+    },
+    {
+        "MCC": "3755",
+        "DETAIL": "THE HOMESTEAD"
+    },
+    {
+        "MCC": "3756",
+        "DETAIL": "SOUTH SEAS RESORTS"
+    },
+    {
+        "MCC": "3757",
+        "DETAIL": "CANYON RANCH"
+    },
+    {
+        "MCC": "3758",
+        "DETAIL": "KAHALA MANDARIN ORIENTAL HOTEL"
+    },
+    {
+        "MCC": "3759",
+        "DETAIL": "THE ORCHID AT MAUNA LANI"
+    },
+    {
+        "MCC": "3760",
+        "DETAIL": "HALEKULANI HOTEL/WAIKIKI PARC"
+    },
+    {
+        "MCC": "3761",
+        "DETAIL": "PRIMADONNA HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3762",
+        "DETAIL": "WHISKEY PETE�S HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3763",
+        "DETAIL": "CHATEAU ELAN WINERY AND RESORT"
+    },
+    {
+        "MCC": "3764",
+        "DETAIL": "BEAU RIVAGE HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3765",
+        "DETAIL": "BELLAGIO"
+    },
+    {
+        "MCC": "3766",
+        "DETAIL": "FREMONT HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3767",
+        "DETAIL": "MAIN STREET STATION HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3768",
+        "DETAIL": "SILVER STAR HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3769",
+        "DETAIL": "STRATOSPHERE HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3770",
+        "DETAIL": "SPRINGHILL SUITES"
+    },
+    {
+        "MCC": "3771",
+        "DETAIL": "CAESAR�S HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3772",
+        "DETAIL": "NEMACOLIN WOODLANDS"
+    },
+    {
+        "MCC": "3773",
+        "DETAIL": "THE VENETIAN RESORT HOTEL CASINO"
+    },
+    {
+        "MCC": "3774",
+        "DETAIL": "NEW YORK-NEW YORK HOTEL AND CASINO"
+    },
+    {
+        "MCC": "3775",
+        "DETAIL": "SANDS RESORT"
+    },
+    {
+        "MCC": "3776",
+        "DETAIL": "NEVELE GRAND RESORT AND COUNTRY CLUB"
+    },
+    {
+        "MCC": "3777",
+        "DETAIL": "MANDALAY BAY RESORT"
+    },
+    {
+        "MCC": "3778",
+        "DETAIL": "FOUR POINTS HOTELS"
+    },
+    {
+        "MCC": "3779",
+        "DETAIL": "W HOTELS"
+    },
+    {
+        "MCC": "3780",
+        "DETAIL": "DISNEY RESORTS"
+    },
+    {
+        "MCC": "3781",
+        "DETAIL": "PATRICIA GRAND RESORT HOTELS"
+    },
+    {
+        "MCC": "3782",
+        "DETAIL": "ROSEN HOTELS AND RESORTS"
+    },
+    {
+        "MCC": "3783",
+        "DETAIL": "TOWN AND COUNTRY RESORT"
+    },
+    {
+        "MCC": "3784",
+        "DETAIL": "FIRST HOSPITALITY HOTELS"
+    },
+    {
+        "MCC": "3785",
+        "DETAIL": "OUTRIGGER HOTELS AND RESORTS"
+    },
+    {
+        "MCC": "3786",
+        "DETAIL": "OHANA HOTELS OF HAWAII"
+    },
+    {
+        "MCC": "3787",
+        "DETAIL": "CARIBE ROYALE RESORTS"
+    },
+    {
+        "MCC": "3788",
+        "DETAIL": "ALA MOANA HOTEL"
+    },
+    {
+        "MCC": "3789",
+        "DETAIL": "SMUGGLER�S NOTCH RESORT"
+    },
+    {
+        "MCC": "3790",
+        "DETAIL": "RAFFLES HOTELS"
+    },
+    {
+        "MCC": "3791",
+        "DETAIL": "STAYBRIDGE SUITES"
+    },
+    {
+        "MCC": "3792",
+        "DETAIL": "CLARIDGE CASINO HOTEL"
+    },
+    {
+        "MCC": "3793",
+        "DETAIL": "FLAMINGO HOTELS"
+    },
+    {
+        "MCC": "3794",
+        "DETAIL": "GRAND CASINO HOTELS"
+    },
+    {
+        "MCC": "3795",
+        "DETAIL": "PARIS LAS VEGAS HOTEL"
+    },
+    {
+        "MCC": "3796",
+        "DETAIL": "PEPPERMILL HOTEL CASINO"
+    },
+    {
+        "MCC": "3797",
+        "DETAIL": "ATLANTIC CITY HILTON RESORTS"
+    },
+    {
+        "MCC": "3798",
+        "DETAIL": "EMBASSY VACATION RESORT"
+    },
+    {
+        "MCC": "3799",
+        "DETAIL": "HALE KOA HOTEL"
+    },
+    {
+        "MCC": "3800",
+        "DETAIL": "HOMESTEAD SUITES"
+    },
+    {
+        "MCC": "3801",
+        "DETAIL": "WILDERNESS HOTEL AND RESORT"
+    },
+    {
+        "MCC": "3802",
+        "DETAIL": "THE PALACE HOTEL"
+    },
+    {
+        "MCC": "3803",
+        "DETAIL": "THE WIGMAM GOLF RESORT AND SPA"
+    },
+    {
+        "MCC": "3804",
+        "DETAIL": "THE DIPLOMAT COUNTRY CLUB SPA"
+    },
+    {
+        "MCC": "3805",
+        "DETAIL": "THE ATLANTIC"
+    },
+    {
+        "MCC": "3806",
+        "DETAIL": "PRINCEVILLE RESORT"
+    },
+    {
+        "MCC": "3807",
+        "DETAIL": "ELEMENT"
+    },
+    {
+        "MCC": "3808",
+        "DETAIL": "LXR (Luxury Resorts)"
+    },
+    {
+        "MCC": "3809",
+        "DETAIL": "SETTLE INN"
+    },
+    {
+        "MCC": "3810",
+        "DETAIL": "LA COSTA RESORT"
+    },
+    {
+        "MCC": "3811",
+        "DETAIL": "PREMIER INN"
+    },
+    {
+        "MCC": "3812",
+        "DETAIL": "HYATT PLACE"
+    },
+    {
+        "MCC": "3813",
+        "DETAIL": "HOTEL INDIGO"
+    },
+    {
+        "MCC": "3814",
+        "DETAIL": "THE ROOSEVELT HOTEL NY"
+    },
+    {
+        "MCC": "3815",
+        "DETAIL": "NICKELODEON FAMILY SUITES BY HOLIDAY INN"
+    },
+    {
+        "MCC": "3817",
+        "DETAIL": "AFFINIA"
+    },
+    {
+        "MCC": "3818",
+        "DETAIL": "MAINSTAY SUITES"
+    },
+    {
+        "MCC": "3819",
+        "DETAIL": "OXFORD SUITES"
+    },
+    {
+        "MCC": "3820",
+        "DETAIL": "JUMEIRAH ESSEX HOUSE"
+    },
+    {
+        "MCC": "3821",
+        "DETAIL": "CARIBE ROYALE"
+    },
+    {
+        "MCC": "3822",
+        "DETAIL": "CROSSLAND"
+    },
+    {
+        "MCC": "3823",
+        "DETAIL": "GRAND SIERRA RESORT"
+    },
+    {
+        "MCC": "3824",
+        "DETAIL": "ARIA"
+    },
+    {
+        "MCC": "3825",
+        "DETAIL": "VDARA"
+    },
+    {
+        "MCC": "3826",
+        "DETAIL": "AUTOGRAPH"
+    },
+    {
+        "MCC": "3827",
+        "DETAIL": "GALT HOUSE"
+    },
+    {
+        "MCC": "3828",
+        "DETAIL": "COSMOPOLITAN OF LAS VEGAS"
+    },
+    {
+        "MCC": "4011",
+        "DETAIL": "RAILROADS � FREIGHT"
+    },
+    {
+        "MCC": "4111",
+        "DETAIL": "LOCAL AND SUBURBAN COMMUTER PASSENGER TRANSPORTATION, INCLUDING FERRIES"
+    },
+    {
+        "MCC": "4112",
+        "DETAIL": "PASSENGER RAILWAYS"
+    },
+    {
+        "MCC": "4119",
+        "DETAIL": "AMBULANCE SERVICES"
+    },
+    {
+        "MCC": "4121",
+        "DETAIL": "TAXICABS & LIMOUSINES"
+    },
+    {
+        "MCC": "4131",
+        "DETAIL": "BUS LINES, INCLUDING CHARTERS, TOUR BUSES # TOUR BUSES"
+    },
+    {
+        "MCC": "4214",
+        "DETAIL": "MOTOR FREIGHT CARRIERS & TRUCKING"
+    },
+    {
+        "MCC": "4215",
+        "DETAIL": "COURIER SERVICES"
+    },
+    {
+        "MCC": "4225",
+        "DETAIL": "PUBLIC WAREHOUSING"
+    },
+    {
+        "MCC": "4225",
+        "DETAIL": "PUBLIC WAREHOUSING & STORAGE"
+    },
+    {
+        "MCC": "4411",
+        "DETAIL": "STEAMSHIP & CRUISE LINES"
+    },
+    {
+        "MCC": "4457",
+        "DETAIL": "BOAT RENTALS & LEASES"
+    },
+    {
+        "MCC": "4468",
+        "DETAIL": "MARINAS MARINE SERVICE & SUPPLIES"
+    },
+    {
+        "MCC": "4511",
+        "DETAIL": "AIRLINES & AIR CARRIERS (NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "4582",
+        "DETAIL": "AIRPORTS, FLYING FIELDS, & AIRPORT TERMINALS"
+    },
+    {
+        "MCC": "4722",
+        "DETAIL": "TRAVEL AGENCIES & TOUR OPERATORS"
+    },
+    {
+        "MCC": "4723",
+        "DETAIL": "PACKAGE TOUR OPERATORS - GERMANY ONLY"
+    },
+    {
+        "MCC": "4761",
+        "DETAIL": "TELEMARKETING OF TRAVEL RELATED SERVICES AND V"
+    },
+    {
+        "MCC": "4784",
+        "DETAIL": "TOLL AND BRIDGE FEES"
+    },
+    {
+        "MCC": "4789",
+        "DETAIL": "TRANSPORTATION SERVICES (NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "4812",
+        "DETAIL": "TELECOMMUNICATION EQUIPMENT & TELEPHONE SALES"
+    },
+    {
+        "MCC": "4813",
+        "DETAIL": "SPECIAL TELECOM MERCHANT"
+    },
+    {
+        "MCC": "4814",
+        "DETAIL": "TELECOMMUNICATION SERVICES, INCLUDING LOCAL AND LONG DISTANCE CALLS, CREDIT CARD CALLS, CALLS THROUGH USE OF MAGNETIC STRIPE READING TELEPHONES AND FAX SERVICES"
+    },
+    {
+        "MCC": "4815",
+        "DETAIL": "VISAPHONE"
+    },
+    {
+        "MCC": "4816",
+        "DETAIL": "COMPUTER NETWORK / INFORMATION SERVICES"
+    },
+    {
+        "MCC": "4821",
+        "DETAIL": "TELEGRAPH SERVICES"
+    },
+    {
+        "MCC": "4829",
+        "DETAIL": "WIRE TRANSFER MONEY ORDERS (WTMOs)"
+    },
+    {
+        "MCC": "4899",
+        "DETAIL": "CABLE SATELLITE & OTHER PAY TELEVISION & RADIO SERVICES"
+    },
+    {
+        "MCC": "4900",
+        "DETAIL": "UTILITIES-ELECTRIC, GAS, WATER, SANITARY"
+    },
+    {
+        "MCC": "5013",
+        "DETAIL": "MOTOR VEHICLE SUPPPLIES & NEW PARTS"
+    },
+    {
+        "MCC": "5021",
+        "DETAIL": "OFFICE & COMMERCIAL FURNITURE"
+    },
+    {
+        "MCC": "5039",
+        "DETAIL": "CONSTRUCTION MATERIALS (NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "5044",
+        "DETAIL": "PHOTOGRAPHIC PHOTOCOPY MICROFILM EQUIPMENT & SUPPLIES"
+    },
+    {
+        "MCC": "5045",
+        "DETAIL": "COMPUTERS & COMPUTER PERIPHERAL EQUIPMENT & SERVICES"
+    },
+    {
+        "MCC": "5046",
+        "DETAIL": "COMMERCIAL EQUIPMENT (NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "5047",
+        "DETAIL": "MEDICAL DENTAL OPHTHALMIC & HOSPITAL EQUIPMENT & SUPPLIES"
+    },
+    {
+        "MCC": "5051",
+        "DETAIL": "METAL SERVICE CENTERS & OFFICES"
+    },
+    {
+        "MCC": "5065",
+        "DETAIL": "ELECTRICAL PARTS AND EQUIPMENT"
+    },
+    {
+        "MCC": "5072",
+        "DETAIL": "HARDWARE, EQUIPMNT AND SUPPLIES"
+    },
+    {
+        "MCC": "5074",
+        "DETAIL": "PLUMBING AND HEATING EQUIPMENT & SUPPLIES"
+    },
+    {
+        "MCC": "5085",
+        "DETAIL": "INDUSTRIAL SUPPLIES (NOT ELSEWHERE CLSSIFIED)"
+    },
+    {
+        "MCC": "5094",
+        "DETAIL": "PRECIOUS STONES, METALS, WATCHES, & JEWELRY"
+    },
+    {
+        "MCC": "5099",
+        "DETAIL": "DURABLE GOODS (NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "5111",
+        "DETAIL": "STATIONERY STORES OFFICE & SCHOOL SUPPLY STORES"
+    },
+    {
+        "MCC": "5122",
+        "DETAIL": "DRUGS DRUG PROPRIETARIES & DRUGGIST SUNDRIES"
+    },
+    {
+        "MCC": "5131",
+        "DETAIL": "PIECE GOODS, NOTIONS, AND OTHER DRY GOODS"
+    },
+    {
+        "MCC": "5137",
+        "DETAIL": "MEN'S, WOMEN'S, & CHILDREN'S UNIFORMS, & COMMERCIAL CLOTHING"
+    },
+    {
+        "MCC": "5139",
+        "DETAIL": "COMMERCIAL FOOTWEAR"
+    },
+    {
+        "MCC": "5169",
+        "DETAIL": "CHEMICALS & ALLIED PRODUCTS (NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "5172",
+        "DETAIL": "PETROLEUM & PETROLEUM PRODUCTS"
+    },
+    {
+        "MCC": "5192",
+        "DETAIL": "BOOKS, PERIODICALS, & NEWSPAPERS"
+    },
+    {
+        "MCC": "5193",
+        "DETAIL": "FLORIST SUPPLIES, NURSERY STOCK, & FLOWERS"
+    },
+    {
+        "MCC": "5198",
+        "DETAIL": "PAINT, VARNISHES, & SUPPLIES"
+    },
+    {
+        "MCC": "5199",
+        "DETAIL": "NONDURABLE GOODS (NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "5200",
+        "DETAIL": "HOME SUPPLY WAREHOUSE STORES"
+    },
+    {
+        "MCC": "5211",
+        "DETAIL": "LUMBER & BUILDING MATERIALS STORES"
+    },
+    {
+        "MCC": "5231",
+        "DETAIL": "GLASS, PAINT, & WALLPAPER STORES"
+    },
+    {
+        "MCC": "5251",
+        "DETAIL": "HARDWARE STORES"
+    },
+    {
+        "MCC": "5261",
+        "DETAIL": "NURSERIES & LAWN & GARDEN SUPPLY STORES"
+    },
+    {
+        "MCC": "5271",
+        "DETAIL": "MOBILE HOME DEALERS"
+    },
+    {
+        "MCC": "5300",
+        "DETAIL": "WHOLESALE CLUB"
+    },
+    {
+        "MCC": "5309",
+        "DETAIL": "DUTY FREE STORES"
+    },
+    {
+        "MCC": "5310",
+        "DETAIL": "DISCOUNT STORES"
+    },
+    {
+        "MCC": "5311",
+        "DETAIL": "DEPARTMENT STORES"
+    },
+    {
+        "MCC": "5331",
+        "DETAIL": "VARIETY STORES"
+    },
+    {
+        "MCC": "5399",
+        "DETAIL": "MISCELLANEOUS GENERAL MERCHANDISE"
+    },
+    {
+        "MCC": "5407",
+        "DETAIL": "SECURITY CREDIT"
+    },
+    {
+        "MCC": "5411",
+        "DETAIL": "GROCERY STORES & SUPERMARKETS"
+    },
+    {
+        "MCC": "5422",
+        "DETAIL": "FREEZER & LOCKER MEAT PROVISIONERS"
+    },
+    {
+        "MCC": "5441",
+        "DETAIL": "CANDY, NUT, & CONFECTIONERY STORES"
+    },
+    {
+        "MCC": "5451",
+        "DETAIL": "DAIRY PRODUCTS STORES"
+    },
+    {
+        "MCC": "5462",
+        "DETAIL": "BAKERIES"
+    },
+    {
+        "MCC": "5499",
+        "DETAIL": "MISCELLANEOUS FOOD STORES-CONVENIENCE STORES & SPECIALTY MARKETS"
+    },
+    {
+        "MCC": "5511",
+        "DETAIL": "CAR & TRUCK DEALERS (NEW & USED) SALES SERVICE REPAIRS PARTS & LEASING"
+    },
+    {
+        "MCC": "5521",
+        "DETAIL": "CAR & TRUCK DEALERS (USED ONLY) SALES SERVICE REPAIRS PARTS & LEASING"
+    },
+    {
+        "MCC": "5531",
+        "DETAIL": "AUTO & HOME SUPPLY STORES (NO LONGER VALID MCC)"
+    },
+    {
+        "MCC": "5532",
+        "DETAIL": "AUTOMOTIVE TIRE STORES"
+    },
+    {
+        "MCC": "5533",
+        "DETAIL": "AUTOMOTIVE PARTS & ACCESSORIES STORES"
+    },
+    {
+        "MCC": "5537",
+        "DETAIL": "OTHERS-NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+        "MCC": "5541",
+        "DETAIL": "SERVICE STATIONS"
+    },
+    {
+        "MCC": "5542",
+        "DETAIL": "AUTOMATED FUEL DISPENSERS"
+    },
+    {
+        "MCC": "5555",
+        "DETAIL": "OTHERS-NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+        "MCC": "5561",
+        "DETAIL": "CAMPER, RECREATIONAL & UTILITY TRAILER DEALERS"
+    },
+    {
+        "MCC": "5571",
+        "DETAIL": "MOTORCYCLE DEALERS"
+    },
+    {
+        "MCC": "5592",
+        "DETAIL": "MOTOR HOMES DEALERS"
+    },
+    {
+        "MCC": "5598",
+        "DETAIL": "SNOWMOBILE DEALERS"
+    },
+    {
+        "MCC": "5599",
+        "DETAIL": "MISCELLANEOUS AUTOMOTIVE , AIRCRAFT, & FARM EQUIPMENT DEALERS (NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "5611",
+        "DETAIL": "MEN'S & BOY'S CLOTHING & ACCESSORIES STORES"
+    },
+    {
+        "MCC": "5612",
+        "DETAIL": "WOMENS READY-TO-WEAR STORES"
+    },
+    {
+        "MCC": "5621",
+        "DETAIL": "WOMENS READY-TO-WEAR STORES"
+    },
+    {
+        "MCC": "5631",
+        "DETAIL": "WOMEN'S ACCESSORY & SPECIALTY SHOPS"
+    },
+    {
+        "MCC": "5641",
+        "DETAIL": "CHILDREN'S AND INFANTS' WEAR"
+    },
+    {
+        "MCC": "5651",
+        "DETAIL": "FAMILY CLOTHING STORES"
+    },
+    {
+        "MCC": "5655",
+        "DETAIL": "SPORTS & RIDING APPAREL STORES"
+    },
+    {
+        "MCC": "5661",
+        "DETAIL": "SHOE STORES"
+    },
+    {
+        "MCC": "5681",
+        "DETAIL": "FURRIERS & FUR SHOPS"
+    },
+    {
+        "MCC": "5691",
+        "DETAIL": "MENS & BOYS CLOTHING & ACCESSORIES STORES"
+    },
+    {
+        "MCC": "5697",
+        "DETAIL": "TAILORS SEAMSTRESSES MENDING & ALTERATIONS"
+    },
+    {
+        "MCC": "5698",
+        "DETAIL": "WIG AND TOUPEE STORES"
+    },
+    {
+        "MCC": "5699",
+        "DETAIL": "MISCELLANEOUS APPAREL & ACCESSORY"
+    },
+    {
+        "MCC": "5712",
+        "DETAIL": "FURNITURE HOME FURNISHINGS & EQUIPMENT STORES EXCEPTING APPLIANCES"
+    },
+    {
+        "MCC": "5713",
+        "DETAIL": "FLOOR COVERING STORES"
+    },
+    {
+        "MCC": "5714",
+        "DETAIL": "DRAPERY, WINDOW COVERING, & UPHOLSTERY STORES"
+    },
+    {
+        "MCC": "5718",
+        "DETAIL": "FIREPLACE, FIREPLACE SCREENS & ACCESSORIES STORES"
+    },
+    {
+        "MCC": "5719",
+        "DETAIL": "MISCELLANEOUS HOME FURNISHING SPECIALTY STORES"
+    },
+    {
+        "MCC": "5722",
+        "DETAIL": "HOUSEHOLD APPLIANCE STORES"
+    },
+    {
+        "MCC": "5732",
+        "DETAIL": "ELECTRONICS STORES"
+    },
+    {
+        "MCC": "5733",
+        "DETAIL": "MUSIC STORES - MUSICAL INSTRUMENTS PIANOS & SHEET MUSIC"
+    },
+    {
+        "MCC": "5734",
+        "DETAIL": "COMPUTER SOFTWARE STORES"
+    },
+    {
+        "MCC": "5735",
+        "DETAIL": "RECORD STORES"
+    },
+    {
+        "MCC": "5811",
+        "DETAIL": "CATERERS"
+    },
+    {
+        "MCC": "5812",
+        "DETAIL": "EATING PLACES & RESTAURANTS"
+    },
+    {
+        "MCC": "5813",
+        "DETAIL": "DRINKING PLACES - BARS TAVERNS NIGHTCLUBS COCKTAIL LOUNGES & DISCOTHEQUES"
+    },
+    {
+        "MCC": "5814",
+        "DETAIL": "FAST FOOD RESTAURANTS"
+    },
+    {
+        "MCC": "5815",
+        "DETAIL": "Digital Goods Media - Books, Movies, Music *"
+    },
+    {
+        "MCC": "5816",
+        "DETAIL": "Digital Goods - Games *"
+    },
+    {
+        "MCC": "5817",
+        "DETAIL": "Digital Goods - Applications (Excludes Games) *"
+    },
+    {
+        "MCC": "5818",
+        "DETAIL": "Digital Goods - Large Digital Goods Merchant *"
+    },
+    {
+        "MCC": "5821",
+        "DETAIL": "OTHERS-NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+        "MCC": "5912",
+        "DETAIL": "DRUG STORES & PHARMACIES"
+    },
+    {
+        "MCC": "5921",
+        "DETAIL": "PACKAGE STORES - BEER, WINE & LIQUOR"
+    },
+    {
+        "MCC": "5931",
+        "DETAIL": "USED MERCHANDISE & SECONDHAND STORES"
+    },
+    {
+        "MCC": "5932",
+        "DETAIL": "ANTIQUE SHOPS - SALES REPAIRS & RESTORATION SERVICES"
+    },
+    {
+        "MCC": "5932",
+        "DETAIL": "ANTIQUE SHOPS"
+    },
+    {
+        "MCC": "5933",
+        "DETAIL": "PAWN SHOPS"
+    },
+    {
+        "MCC": "5935",
+        "DETAIL": "WRECKING AND SALVAGE YARDS"
+    },
+    {
+        "MCC": "5937",
+        "DETAIL": "ANTIQUE REPRODUCTIONS"
+    },
+    {
+        "MCC": "5940",
+        "DETAIL": "BICYCLE SHOPS-SALES & SERVICE"
+    },
+    {
+        "MCC": "5941",
+        "DETAIL": "SPORTING GOODS STORES"
+    },
+    {
+        "MCC": "5942",
+        "DETAIL": "BOOK STORES"
+    },
+    {
+        "MCC": "5943",
+        "DETAIL": "STATIONERY STORES"
+    },
+    {
+        "MCC": "5944",
+        "DETAIL": "JEWELRY STORES WATCHES CLOCKS & SILVERWARE STORES"
+    },
+    {
+        "MCC": "5945",
+        "DETAIL": "HOBBY TOY & GAME SHOPS"
+    },
+    {
+        "MCC": "5946",
+        "DETAIL": "CAMERA & PHOTOGRAPHIC SUPPLY STORES"
+    },
+    {
+        "MCC": "5947",
+        "DETAIL": "GIFT CARD NOVELTY & SOUVENIR SHOPS"
+    },
+    {
+        "MCC": "5948",
+        "DETAIL": "LUGGAGE & LEATHER GOODS STORES"
+    },
+    {
+        "MCC": "5949",
+        "DETAIL": "SEWING NEEDLEWORK, FABRIC, & PIECE GOODS STORES"
+    },
+    {
+        "MCC": "5950",
+        "DETAIL": "GLASSWARE / CRYSTAL STORES"
+    },
+    {
+        "MCC": "5960",
+        "DETAIL": "DIRECT MARKETING - INSURANCE SERVICES"
+    },
+    {
+        "MCC": "5961",
+        "DETAIL": "MAIL ORDER"
+    },
+    {
+        "MCC": "5962",
+        "DETAIL": "DIRECT MARKETING - TRAVEL-RELATED ARRANGEMENT SERVICES (HIGH RISK MCC)"
+    },
+    {
+        "MCC": "5963",
+        "DETAIL": "DOOR-TO-DOOR SALES"
+    },
+    {
+        "MCC": "5964",
+        "DETAIL": "DIRECT MARKETING - CATALOG MERCHANT"
+    },
+    {
+        "MCC": "5965",
+        "DETAIL": "DIRECT MARKETING - COMBINATION CATALOG AND RETAIL MERCHANT"
+    },
+    {
+        "MCC": "5966",
+        "DETAIL": "DIRECT MARKETING - OUTBOUND TELEMARKETING MERCHANT (HIGH RISK MCC)"
+    },
+    {
+        "MCC": "5967",
+        "DETAIL": "DIRECT MARKETING - INBOUND TELESERVICES MERCHANT (HIGH RISK MCC)"
+    },
+    {
+        "MCC": "5968",
+        "DETAIL": "DIRECT MARKETING - CONTINUITY/SUBSCRIPTION MERCH"
+    },
+    {
+        "MCC": "5969",
+        "DETAIL": "DIRECT MARKETING - OTHER DIRECT MARKETERS (NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "5970",
+        "DETAIL": "ARTISTS SUPPLY & CRAFT SHOPS"
+    },
+    {
+        "MCC": "5971",
+        "DETAIL": "ART DEALERS & GALLERIES"
+    },
+    {
+        "MCC": "5972",
+        "DETAIL": "STAMP AND COIN STORES - PHILATELIC AND NUMISMATIC SUPPLIES"
+    },
+    {
+        "MCC": "5973",
+        "DETAIL": "RELIGIOUS GOODS STORES"
+    },
+    {
+        "MCC": "5975",
+        "DETAIL": "HEARING AIDS - SALES SERVICE & SUPPLY"
+    },
+    {
+        "MCC": "5976",
+        "DETAIL": "ORTHOPEDIC GOODS - PROSTHETIC DEVICES"
+    },
+    {
+        "MCC": "5977",
+        "DETAIL": "COSMETIC STORES"
+    },
+    {
+        "MCC": "5978",
+        "DETAIL": "TYPEWRITER STORE-SALES, RENTALS, SERVICE"
+    },
+    {
+        "MCC": "5983",
+        "DETAIL": "FUEL DEALERS - FUEL OIL, WOOD, COAL, LIQUEFIED PETROLEUM"
+    },
+    {
+        "MCC": "5992",
+        "DETAIL": "FLORISTS"
+    },
+    {
+        "MCC": "5993",
+        "DETAIL": "CIGAR STORES AND STANDS"
+    },
+    {
+        "MCC": "5994",
+        "DETAIL": "NEWS DEALERS & NEWS STANDS"
+    },
+    {
+        "MCC": "5995",
+        "DETAIL": "PET SHOPS, PET FOODS & SUPPLY STORES"
+    },
+    {
+        "MCC": "5996",
+        "DETAIL": "SWIMMING POOLS - SALES & SERVICE"
+    },
+    {
+        "MCC": "5997",
+        "DETAIL": "ELECTRIC RAZOR STORES"
+    },
+    {
+        "MCC": "5998",
+        "DETAIL": "TENT AND AWNING SHOPS"
+    },
+    {
+        "MCC": "5999",
+        "DETAIL": "MISCELLANEOUS AND SPECIALTY RETAIL"
+    },
+    {
+        "MCC": "6010",
+        "DETAIL": "FINANCIAL INSTITUTIONS - MANUAL CASH DISBURSEMENTS"
+    },
+    {
+        "MCC": "6011",
+        "DETAIL": "FINANCIAL INSTITUTIONS AUTOMATED CASH DISBURSEMENTS"
+    },
+    {
+        "MCC": "6012",
+        "DETAIL": "FINANCIAL INSTITUTIONS MERCHANDISE & SERVICES"
+    },
+    {
+        "MCC": "6050",
+        "DETAIL": "QUASI CASH - MEMBER FINANCIAL INSTITUTION"
+    },
+    {
+        "MCC": "6051",
+        "DETAIL": "NON-FINANCIAL INSTITUTIONS-FOREIGN CURRENCY, MONEY ORDERS (NOT WIRE TRANSFER) AND TRAVELERS CHEQUE"
+    },
+    {
+        "MCC": "6211",
+        "DETAIL": "SECURITY BROKERS / DEALERS"
+    },
+    {
+        "MCC": "6300",
+        "DETAIL": "INSURANCE SALES UNDERWRITING & PREMIUMS"
+    },
+    {
+        "MCC": "6381",
+        "DETAIL": "INSURANCE PREMIUMS"
+    },
+    {
+        "MCC": "6399",
+        "DETAIL": "INSURANCE NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+        "MCC": "6513",
+        "DETAIL": "REAL ESTATE AGENTS, MANAGER & RENTAL"
+    },
+    {
+        "MCC": "6529",
+        "DETAIL": "QUASI CASH - REMOTE STORED VALUE LOAD - FINANCIAL INSTITUTE"
+    },
+    {
+        "MCC": "6530",
+        "DETAIL": "QUASI CASH - REMOTE STORED VALUE LOAD - MERCHANT"
+    },
+    {
+        "MCC": "6531",
+        "DETAIL": "PAYMENT SERVICE PROVIDER"
+    },
+    {
+        "MCC": "6532",
+        "DETAIL": "MEMBER FINANCIAL INSTITUTION--PAYMENT SERVICE PROVIDER--PAYMENT TRANSACTION"
+    },
+    {
+        "MCC": "6533",
+        "DETAIL": "MERCHANT--PAYMENT SERVICE PROVIDER--PAYMENT TRANSACTION"
+    },
+    {
+        "MCC": "6534",
+        "DETAIL": "QUASI CASH - MONEY TRANSFER - MEMBER FINANCIAL INSTITUTION"
+    },
+    {
+        "MCC": "6535",
+        "DETAIL": "VALUE PURCHASE--MEMBER FINANCIAL INSTITUTION"
+    },
+    {
+        "MCC": "6611",
+        "DETAIL": "OVERPAYMENTS"
+    },
+    {
+        "MCC": "6760",
+        "DETAIL": "SAVINGS BONDS"
+    },
+    {
+        "MCC": "7011",
+        "DETAIL": "LODGING - HOTELS MOTELS RESORTS & CENTRAL RESERVATION SERVICES (NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "7012",
+        "DETAIL": "TIMESHARES"
+    },
+    {
+        "MCC": "7032",
+        "DETAIL": "SPORTING & RECREATIONAL CAMPS"
+    },
+    {
+        "MCC": "7033",
+        "DETAIL": "TRAILER PARKS & CAMP SITES"
+    },
+    {
+        "MCC": "7210",
+        "DETAIL": "LAUNDRY, CLEANING, & GARMENT SERVICES"
+    },
+    {
+        "MCC": "7211",
+        "DETAIL": "LAUNDRIES - FAMILY & COMMERCIAL"
+    },
+    {
+        "MCC": "7216",
+        "DETAIL": "DRY CLEANERS"
+    },
+    {
+        "MCC": "7217",
+        "DETAIL": "CARPET AND UPHOLSTERY CLEANING"
+    },
+    {
+        "MCC": "7221",
+        "DETAIL": "PHOTOGRAPHIC STUDIOS-PORTRAITS"
+    },
+    {
+        "MCC": "7230",
+        "DETAIL": "BEAUTY & BARBER SHOPS"
+    },
+    {
+        "MCC": "7251",
+        "DETAIL": "SHOE REPAIR SHOPS SHOE SHINE PARLORS & HAT CLEANING SHOPS"
+    },
+    {
+        "MCC": "7261",
+        "DETAIL": "FUNERAL SERVICE & CREMATORIES"
+    },
+    {
+        "MCC": "7273",
+        "DETAIL": "DATING AND ESCORT SERVICES"
+    },
+    {
+        "MCC": "7276",
+        "DETAIL": "TAX PREPARATION SERVICE"
+    },
+    {
+        "MCC": "7277",
+        "DETAIL": "COUNSELING SERVICE"
+    },
+    {
+        "MCC": "7278",
+        "DETAIL": "BUYING & SHOPPING SERVICES AND CLUBS"
+    },
+    {
+        "MCC": "7295",
+        "DETAIL": "NO LONGER USED - VISA"
+    },
+    {
+        "MCC": "7296",
+        "DETAIL": "COSTUME RENTAL"
+    },
+    {
+        "MCC": "7296",
+        "DETAIL": "CLOTHING RENTAL - COSTUMES UNIFORMS & FORMAL WEAR"
+    },
+    {
+        "MCC": "7297",
+        "DETAIL": "MASSAGE PARLORS"
+    },
+    {
+        "MCC": "7298",
+        "DETAIL": "HEALTH & BEAUTY SPA"
+    },
+    {
+        "MCC": "7299",
+        "DETAIL": "MISCELLANEOUS PERSONAL SERVICES (NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "7311",
+        "DETAIL": "ADVERTISING SERVICES"
+    },
+    {
+        "MCC": "7321",
+        "DETAIL": "CONSUMER CREDIT REPORTING AGENCIES"
+    },
+    {
+        "MCC": "7322",
+        "DETAIL": "DEBT COLLECTION AGENCIES"
+    },
+    {
+        "MCC": "7332",
+        "DETAIL": "BLUEPRINTING AND PHOTOCOPYING SERVICES"
+    },
+    {
+        "MCC": "7333",
+        "DETAIL": "COMMERCIAL PHOTOGRAPHY ART & GRAPHICS"
+    },
+    {
+        "MCC": "7338",
+        "DETAIL": "QUICK COPY REPRODUCTION & BLUEPRINTING SERVICES"
+    },
+    {
+        "MCC": "7339",
+        "DETAIL": "STENOGRAPHIC & SECRETARIAL SUPPORT"
+    },
+    {
+        "MCC": "7341",
+        "DETAIL": "WINDOW CLEANING SERVICES"
+    },
+    {
+        "MCC": "7342",
+        "DETAIL": "EXTERMINATING & DISINFECTING SERVICES"
+    },
+    {
+        "MCC": "7349",
+        "DETAIL": "CLEANING MAINTENANCE & JANITORIAL SERVICES"
+    },
+    {
+        "MCC": "7361",
+        "DETAIL": "EMPLOYMENT AGENCIES & TEMPORARY HELP SERVICES"
+    },
+    {
+        "MCC": "7372",
+        "DETAIL": "COMPUTER PROGRAMMING DATA PROCESSING & INTEGRATED SYSTEMS DESIGN SERVICES"
+    },
+    {
+        "MCC": "7375",
+        "DETAIL": "INFORMATION RETRIEVAL SERVICES"
+    },
+    {
+        "MCC": "7379",
+        "DETAIL": "COMPUTER MAINTENANCE, REPAIR, & SERVICES (NOT ELSEWHERE CLASSFIED)"
+    },
+    {
+        "MCC": "7392",
+        "DETAIL": "MANAGEMENT, CONSULTING, & PUBLIC RELATIONS SERVICES"
+    },
+    {
+        "MCC": "7393",
+        "DETAIL": "PROTECTIVE AND SECURITY SERVICES - INCLUDING ARMORED CARS AND GUARD DOGS"
+    },
+    {
+        "MCC": "7394",
+        "DETAIL": "EQUIPMENT, TOOL, FURNITURE, & APPLIANCE RENTAL AND LEASING"
+    },
+    {
+        "MCC": "7395",
+        "DETAIL": "PHOTOFINISHING LABORATORIES & PHOTO DEVELOPING"
+    },
+    {
+        "MCC": "7399",
+        "DETAIL": "BUSINESS SERVICES (NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "7511",
+        "DETAIL": "QUASI CASH - TRUCK STOP TRANSACTIONS"
+    },
+    {
+        "MCC": "7512",
+        "DETAIL": "AUTOMOBILE RENTAL AGENCY"
+    },
+    {
+        "MCC": "7513",
+        "DETAIL": "TRUCK AND UTILITY TRAILER RENTALS"
+    },
+    {
+        "MCC": "7519",
+        "DETAIL": "MOTOR HOME & RECREATIONAL VEHICLE RENTALS"
+    },
+    {
+        "MCC": "7523",
+        "DETAIL": "PARKING LOTS & GARAGES"
+    },
+    {
+        "MCC": "7524",
+        "DETAIL": "EXPRESS PAYMENT SERVICE MERCHANTS - PARKING LOTS AND GARAGES"
+    },
+    {
+        "MCC": "7531",
+        "DETAIL": "AUTOMOTIVE TOP AND BODY REPAIR"
+    },
+    {
+        "MCC": "7534",
+        "DETAIL": "TIRE RETREADING & REPAIR SHOPS"
+    },
+    {
+        "MCC": "7535",
+        "DETAIL": "PAINT SHOPS-AUTOMOTIVE"
+    },
+    {
+        "MCC": "7538",
+        "DETAIL": "AUTOMOTIVE SERVICE SHOPS (NON-DEALER)"
+    },
+    {
+        "MCC": "7542",
+        "DETAIL": "CAR WASHES"
+    },
+    {
+        "MCC": "7549",
+        "DETAIL": "TOWING SERVICES"
+    },
+    {
+        "MCC": "7622",
+        "DETAIL": "ELECTRONICS REPAIR SHOPS"
+    },
+    {
+        "MCC": "7623",
+        "DETAIL": "AIR CONDITIONING & REFRIGERATION REPAIR SHOPS"
+    },
+    {
+        "MCC": "7629",
+        "DETAIL": "ELECTRICAL & SMALL APPLIANCE REPAIR SHOPS"
+    },
+    {
+        "MCC": "7631",
+        "DETAIL": "WATCH, CLOCK & JEWELRY REPAIR"
+    },
+    {
+        "MCC": "7641",
+        "DETAIL": "FURNITURE - REUPHOLSTERY, REPAIR, & REFINISHING"
+    },
+    {
+        "MCC": "7692",
+        "DETAIL": "WELDING SERVICES"
+    },
+    {
+        "MCC": "7699",
+        "DETAIL": "MISCELLANEOUS REPAIR SHOPS & RELATED SERVICES"
+    },
+    {
+        "MCC": "7778",
+        "DETAIL": "CITISHARE CASH ADVANCE"
+    },
+    {
+        "MCC": "7829",
+        "DETAIL": "MOTION PICTURE & VIDEO TAPE PRODUCTION & DISTRIBUTION"
+    },
+    {
+        "MCC": "7832",
+        "DETAIL": "MOTION PICTURE THEATERS"
+    },
+    {
+        "MCC": "7833",
+        "DETAIL": "EXPRESS PAYMENT SERVICE MERCHANTS--MOTION PICT"
+    },
+    {
+        "MCC": "7841",
+        "DETAIL": "MOTION PICTURE & VIDEO TAPE PRODUCTION"
+    },
+    {
+        "MCC": "7911",
+        "DETAIL": "DANCE HALLS, STUDIOS AND SCHOOLS"
+    },
+    {
+        "MCC": "7922",
+        "DETAIL": "THEATRICAL PRODUCERS (EXCEPT MOTION PICTURES) AND TICKET AGENCIES"
+    },
+    {
+        "MCC": "7929",
+        "DETAIL": "BANDS, ORCHESTRAS, AND MISCELLANEOUS ENTERTAINERS (NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "7932",
+        "DETAIL": "BILLARD AND POOL ESTABLISHMENTS"
+    },
+    {
+        "MCC": "7933",
+        "DETAIL": "BOWLING ALLEYS"
+    },
+    {
+        "MCC": "7941",
+        "DETAIL": "COMMERCIAL SPORTS PROFESSIONAL SPORTS CLUBS ATHLETIC FIELDS & SPORTS PROMOTERS"
+    },
+    {
+        "MCC": "7991",
+        "DETAIL": "TOURIST ATTRACTIONS & EXHIBITS"
+    },
+    {
+        "MCC": "7992",
+        "DETAIL": "GOLF COURSES - PUBLIC"
+    },
+    {
+        "MCC": "7993",
+        "DETAIL": "VIDEO AMUSEMENT GAME SUPPLIES"
+    },
+    {
+        "MCC": "7994",
+        "DETAIL": "VIDEO GAME ARCADES / ESTABLISHMENTS"
+    },
+    {
+        "MCC": "7995",
+        "DETAIL": "BETTING, INCLUDING LOTTERY TICKETS, CASINO GAMING CHIPS, OFF-TRACK BETTING & WAGERS AT RACE TRACKS"
+    },
+    {
+        "MCC": "7996",
+        "DETAIL": "AMUSEMENT PARKS, CARNIVALS, CIRCUSES, FORTUNE TELLERS"
+    },
+    {
+        "MCC": "7997",
+        "DETAIL": "MEMBERSHIP CLUBS COUNTRY CLUBS & PRIVATE GOLF COURSES"
+    },
+    {
+        "MCC": "7998",
+        "DETAIL": "AQUARIUMS, SEA-AQUARIUMS, DOLPHINARIUMS"
+    },
+    {
+        "MCC": "7999",
+        "DETAIL": "AMUSEMENT & RECREATION SERVICES"
+    },
+    {
+        "MCC": "8011",
+        "DETAIL": "DOCTORS & PHYSICIANS (NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "8021",
+        "DETAIL": "DENTISTS & ORTHODONTISTS"
+    },
+    {
+        "MCC": "8031",
+        "DETAIL": "OSTEOPATHS"
+    },
+    {
+        "MCC": "8041",
+        "DETAIL": "CHIROPRACTORS"
+    },
+    {
+        "MCC": "8042",
+        "DETAIL": "OPTOMETRISTS & OPHTHALMOLOGISTS"
+    },
+    {
+        "MCC": "8043",
+        "DETAIL": "OPTICIANS OPTICAL GOODS & EYEGLASSES"
+    },
+    {
+        "MCC": "8044",
+        "DETAIL": "OPTICAL GOODS AND EYEGLASSES"
+    },
+    {
+        "MCC": "8049",
+        "DETAIL": "CHIROPODISTS, PODIATRISTS"
+    },
+    {
+        "MCC": "8050",
+        "DETAIL": "NURSING & PERSONAL CARE FACILITIES"
+    },
+    {
+        "MCC": "8062",
+        "DETAIL": "HOSPITALS"
+    },
+    {
+        "MCC": "8071",
+        "DETAIL": "MEDICAL & DENTAL LABORATORIES"
+    },
+    {
+        "MCC": "8099",
+        "DETAIL": "MEDICAL SERVICES AND HEALTH PRACTITIONERS (NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "8111",
+        "DETAIL": "LEGAL SERVICES & ATTORNEYS"
+    },
+    {
+        "MCC": "8211",
+        "DETAIL": "ELEMENTARY & SECONDARY SCHOOLS"
+    },
+    {
+        "MCC": "8220",
+        "DETAIL": "COLLEGES, JUNIOR COLLEGES, UNIVERSITIES, AND PROFESSIONAL SCHOOLS"
+    },
+    {
+        "MCC": "8241",
+        "DETAIL": "CORRESPONDENCE SCHOOLS"
+    },
+    {
+        "MCC": "8244",
+        "DETAIL": "BUSINESS & SECRETARIAL SCHOOLS"
+    },
+    {
+        "MCC": "8249",
+        "DETAIL": "VOCATIONAL & TRADE SCHOOLS"
+    },
+    {
+        "MCC": "8299",
+        "DETAIL": "SCHOOLS & EDUCATIONAL SERVICES (NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "8351",
+        "DETAIL": "CHILD CARE SERVICES"
+    },
+    {
+        "MCC": "8398",
+        "DETAIL": "CHARITABLE & SOCIAL SERVICE ORGANIZATIONS"
+    },
+    {
+        "MCC": "8602",
+        "DETAIL": "OTHERS-NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+        "MCC": "8641",
+        "DETAIL": "CIVIC, SOCIAL, & FRATERNAL ASSOC."
+    },
+    {
+        "MCC": "8651",
+        "DETAIL": "POLITICAL ORGANIZATIONS"
+    },
+    {
+        "MCC": "8661",
+        "DETAIL": "RELIGIOUS ORGANIZATIONS"
+    },
+    {
+        "MCC": "8675",
+        "DETAIL": "AUTOMOBILE ASSOCIATIONS"
+    },
+    {
+        "MCC": "8699",
+        "DETAIL": "MEMBERSHIP ORGANIZATIONS (NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "8734",
+        "DETAIL": "TESTING LABORATORIES (NON-MEDICAL TESTING)"
+    },
+    {
+        "MCC": "8911",
+        "DETAIL": "ARCHITECTURAL, ENGINEERING, & SURVEYING SERVICES"
+    },
+    {
+        "MCC": "8931",
+        "DETAIL": "ACCOUNTING, AUDITING, & BOOKKEEPING SERVICES"
+    },
+    {
+        "MCC": "8999",
+        "DETAIL": "PROFESSIONAL SEVICES (NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "9211",
+        "DETAIL": "COURT COSTS, INCLUDING ALIMONY & CHILD SUPPORT"
+    },
+    {
+        "MCC": "9222",
+        "DETAIL": "FINES"
+    },
+    {
+        "MCC": "9223",
+        "DETAIL": "BAIL AND BOND PAYMENTS"
+    },
+    {
+        "MCC": "9311",
+        "DETAIL": "TAX PAYMENTS"
+    },
+    {
+        "MCC": "9399",
+        "DETAIL": "GOVERNMENT SERVICES ( NOT ELSEWHERE CLASSIFIED)"
+    },
+    {
+        "MCC": "9401",
+        "DETAIL": "I-PURCHASING"
+    },
+    {
+        "MCC": "9402",
+        "DETAIL": "POSTAL SERVICES - GOVERNMENT ONLY"
+    },
+    {
+        "MCC": "9405",
+        "DETAIL": "U.S. FEDERAL GOVERNMENT AGENCIES OR DEPARTMENTS"
+    },
+    {
+        "MCC": "9411",
+        "DETAIL": "GOVERNMENT LOAN PAYMENTS"
+    },
+    {
+        "MCC": "9700",
+        "DETAIL": "AUTOMATED REFERRAL SERVICE"
+    },
+    {
+        "MCC": "9701",
+        "DETAIL": "VISA CREDENTIAL SERVER"
+    },
+    {
+        "MCC": "9701",
+        "DETAIL": "COOPERATION"
+    },
+    {
+        "MCC": "9702",
+        "DETAIL": "EMERGENCY SERVICES (GCAS)"
+    },
+    {
+        "MCC": "9703",
+        "DETAIL": "BPR/RURAL BANK"
+    },
+    {
+        "MCC": "9704",
+        "DETAIL": "PYRAMID OR MULTI LEVEL MARKETING DISTRIBUTION COMPANIES"
+    },
+    {
+        "MCC": "9705",
+        "DETAIL": "THIRD PARTY PROCESSORS (AGGREGATORS)"
+    },
+    {
+        "MCC": "9751",
+        "DETAIL": "U.K. SUPERMARKETS ELECTRONIC HOT FILE"
+    },
+    {
+        "MCC": "9752",
+        "DETAIL": "U.K. PETROL STATIONS, ELECTRONIC HOT FILE"
+    },
+    {
+        "MCC": "9753",
+        "DETAIL": "INTRA-COMPANY PURCHASES"
+    },
+    {
+        "MCC": "9754",
+        "DETAIL": "QUASI CASH - GAMBLING - HORSE RACING, DOG RACING, STATE LOTTERIES"
+    },
+    {
+        "MCC": "9950",
+        "DETAIL": "INTRA-COMPANY PURCHASES"
+    },
+    {
+        "MCC": "5262",
+        "DETAIL": "Marketplaces"
+    },
+    {
+        "MCC": "5551",
+        "DETAIL": "Boat dealers"
+    }
+]

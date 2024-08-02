@@ -1,0 +1,105 @@
+---
+title: Register Your Merchant for QRIS
+---
+
+# Register Your Merchant for QRIS
+
+To enable QRIS payments for your business, you need to register your merchant with our payment gateway. Follow the steps below to complete the registration process.
+
+## Step 1: Prepare Required Information
+
+Before registering, ensure you have the following details ready:
+
+| Field                  | Mandatory | Description                                                        | Note                                                                   |
+| ---------------------- | --------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| **fullName**           | Yes       | The full name of the business owner or representative.             |                                                                        |
+| **businessName**       | Yes       | The name of your business.                                         | Should be unique.                                                      |
+| **categoryId**         | Yes       | The category identifier for your business type.                    | [Click here to view the category IDs](/dataReference/categoryId)       |
+| **criteriaId**         | Yes       | The criteria ID, such as UMI (Usaha Mikro Indonesia).              | [Click here to view the criteria IDs](/dataReference/criteriaId)       |
+| **stateId**            | Yes       | The identifier for the state where your business is located.       | [Click here to view the state IDs](/dataReference/stateId)             |
+| **cityId**             | Yes       | The identifier for the city where your business is located.        | [Click here to view the city IDs](/dataReference/cityId)               |
+| **subdistrictId**      | Yes       | The identifier for the subdistrict where your business is located. | [Click here to view the subdistrict IDs](/dataReference/subdistrictId) |
+| **villageId**          | Yes       | The identifier for the village where your business is located.     | [Click here to view the village IDs](/dataReference/villageId)         |
+| **type**               | Yes       | The type of business (e.g., BUSINESS, PERSONAL).                   |                                                                        |
+| **taxIdUrl**           | Yes       | The URL to an image of your business's Tax ID document.            |                                                                        |
+| **identityCardUrl**    | Yes       | The URL to an image of the business owner's identity card.         |                                                                        |
+| **taxIdNumber**        | Yes       | The Tax ID number for your business (NPWP).                        |                                                                        |
+| **identityCardNumber** | Yes       | The identity card number of the business owner (KTP).              |                                                                        |
+
+## Step 2: Send a Registration Request
+
+To register your merchant, you need to send a POST request to our registration endpoint with the required information in the request body.
+
+## Endpoint URL
+
+```plaintext copy
+https://api.zipay.com/merchant/register
+```
+
+## Request
+
+To register a merchant for QRIS, use the following API endpoint. Make sure to include your Bearer token in the request header for authorization.
+
+- **URL**: `https://api.zipay.com/merchant/register`
+- **Method**: `POST`
+- **Headers**:
+  - `Content-Type`: `application/json`
+  - `Authorization`: `Bearer <YOUR_BEARER_TOKEN>`
+
+### Request Body
+
+#### Example Request
+
+```json
+{
+  "fullName": "VIRA YULIANA",
+  "businessName": "ZHX GUITAR STORE3",
+  "categoryId": "6532",
+  "criteriaId": "UMI",
+  "stateId": "11",
+  "cityId": "159",
+  "subdistrictId": "1997",
+  "villageId": "25739",
+  "type": "BUSINESS",
+  "taxIdUrl": "https://i.ibb.co.com/Jy3fwy2/LOGO-2.png",
+  "identityCardUrl": "https://i.ibb.co.com/Jy3fwy2/LOGO-2.png",
+  "taxIdNumber": "412679169522000",
+  "identityCardNumber": "3301085907020001"
+}
+```
+
+### Response
+
+#### Example Response
+
+```json
+{
+  "status": 200,
+  "success": true,
+  "data": {
+    "merchant": {
+      "merchantId": 3,
+      "merchantKey": "a1398c51-ed9c-48f9-954c-80b8d93963c6",
+      "fullName": "VIRA YULIANA",
+      "mid": "ZPM142031234617",
+      "mpan": "9360082500823836936",
+      "status": "NON ACTIVE",
+      "qrString": "00020101021126640012ID.ZIPAY.WWW01189360082500823836930215ZPM1420312346170303UMI51420012ID.ZIPAY.WWW0215ZPM1420312346170303UMI5204653253033605802ID5917ZHX GUITAR STORE36015JAKARTA SELATAN61051214062140510QRST-5130363049DAA"
+    },
+    "message": "Success Register Merchant"
+  }
+}
+```
+
+| Field       | Description                                                                       |
+| ----------- | --------------------------------------------------------------------------------- |
+| status      | The HTTP status code indicating the result of the request.                        |
+| success     | A boolean value indicating whether the request was successful.                    |
+| merchantId  | The unique identifier for the merchant.                                           |
+| merchantKey | A unique key associated with the merchant.                                        |
+| fullName    | The full name of the merchant.                                                    |
+| mid         | -                                                                                 |
+| mpan        | -                                                                                 |
+| status      | The current activation status of the merchant account. (e.g., NON ACTIVE, ACTIVE) |
+| qrString    | A QR code string containing merchant details and payment information.             |
+| message     | A message indicating the result of the registration process.                      |

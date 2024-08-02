@@ -1,0 +1,9 @@
+---
+title: Village ID
+---
+
+import { DataTable } from "../../components/datatable/data-table";
+import { villageColumn } from "../../components/datatable/villageColumn";
+import data from "../../static/data/kelurahan.json";
+
+<DataTable columns={villageColumn} data={data} key={"SubdistrictId"} />

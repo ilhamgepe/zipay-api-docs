@@ -1,0 +1,29 @@
+---
+title: Blog
+---
+
+# Response codes
+
+Zipay uses standard HTTP response codes to show if an API request was successful or not. Generally:
+
+- Codes in the 2xx range mean the request was successful.
+- Codes in the 4xx range mean there was an error due to the information provided.
+- Codes in the 5xx range mean there was a problem with Zipay's servers (these are rare).
+
+Some 4xx errors include a code that briefly explains the error, which can be handled programmatically.
+
+## Status code
+
+| Code                               | Description                                                                                      |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 200, 201 - OK                      | Everything worked as expected.                                                                   |
+| 400 - Bad Request                  | The request was unacceptable, often due to missing a required parameter.                         |
+| 401 - Unauthorized                 | No valid token provided.                                                                         |
+| 402 - Request Failed               | The parameters were valid but the request failed.                                                |
+| 403 - Forbidden                    | The token doesn't have permissions to perform the request.                                       |
+| 404 - Not Found                    | The requested resource doesn't exist.                                                            |
+| 405 - Method Not Allowed           | The resource does not have the specified method. (e.g. PUT on transmissions).                    |
+| 409 - Conflict                     | The request conflicts with another request (perhaps due to using the same idempotent key).       |
+| 422 - Unprocessable Entity         | Sending unrecognized properties as well or unknown data.                                         |
+| 429 - Too Many Requests            | Too many requests hit the API too quickly. We recommend an exponential backoff of your requests. |
+| 500, 502, 503, 504 - Server Errors | Something went wrong on Purwantara's end. (These are rare).                                      |

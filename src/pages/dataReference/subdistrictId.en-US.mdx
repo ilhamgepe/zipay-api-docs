@@ -1,0 +1,9 @@
+---
+title: Subdistrict ID
+---
+
+import { DataTable } from "../../components/datatable/data-table";
+import { subdistrictColumn } from "../../components/datatable/subdistrictColumn";
+import data from "../../static/data/kecamatan.json";
+
+<DataTable columns={subdistrictColumn} data={data} key={"SubdistrictId"} />

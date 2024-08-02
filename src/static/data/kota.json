@@ -1,0 +1,4628 @@
+[
+  {
+    "kode_kemendagri": "11.01",
+    "kota": "Kabupaten Aceh Selatan",
+    "provinsi": "Aceh",
+    "lintang": 4.695135,
+    "bujur": 96.7493993,
+    "elevasi": 1051,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.02",
+    "kota": "Kabupaten Aceh Tenggara",
+    "provinsi": "Aceh",
+    "lintang": 4.695135,
+    "bujur": 96.7493993,
+    "elevasi": 1051,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.03",
+    "kota": "Kabupaten Aceh Timur",
+    "provinsi": "Aceh",
+    "lintang": 4.695135,
+    "bujur": 96.7493993,
+    "elevasi": 1051,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.04",
+    "kota": "Kabupaten Aceh Tengah",
+    "provinsi": "Aceh",
+    "lintang": 4.695135,
+    "bujur": 96.7493993,
+    "elevasi": 1051,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.05",
+    "kota": "Kabupaten Aceh Barat",
+    "provinsi": "Aceh",
+    "lintang": 4.695135,
+    "bujur": 96.7493993,
+    "elevasi": 1051,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.06",
+    "kota": "Kabupaten Aceh Besar",
+    "provinsi": "Aceh",
+    "lintang": 4.695135,
+    "bujur": 96.7493993,
+    "elevasi": 1051,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.07",
+    "kota": "Kabupaten Pidie",
+    "provinsi": "Aceh",
+    "lintang": 5.0742659,
+    "bujur": 95.940971,
+    "elevasi": 1119,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.08",
+    "kota": "Kabupaten Aceh Utara",
+    "provinsi": "Aceh",
+    "lintang": 4.695135,
+    "bujur": 96.7493993,
+    "elevasi": 1051,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.09",
+    "kota": "Kabupaten Simeulue",
+    "provinsi": "Aceh",
+    "lintang": 2.6439724,
+    "bujur": 96.0255738,
+    "elevasi": 53,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.10",
+    "kota": "Kabupaten Aceh Singkil",
+    "provinsi": "Aceh",
+    "lintang": 4.695135,
+    "bujur": 96.7493993,
+    "elevasi": 1051,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.11",
+    "kota": "Kabupaten Bireuen",
+    "provinsi": "Aceh",
+    "lintang": 5.1086446,
+    "bujur": 96.663812,
+    "elevasi": 118,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.12",
+    "kota": "Kabupaten Aceh Barat Daya",
+    "provinsi": "Aceh",
+    "lintang": 3.7963426,
+    "bujur": 97.0068393,
+    "elevasi": 1274,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.13",
+    "kota": "Kabupaten Gayo Lues",
+    "provinsi": "Aceh",
+    "lintang": 3.955165,
+    "bujur": 97.3516558,
+    "elevasi": 973,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.14",
+    "kota": "Kabupaten Aceh Jaya",
+    "provinsi": "Aceh",
+    "lintang": 4.695135,
+    "bujur": 96.7493993,
+    "elevasi": 1051,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.15",
+    "kota": "Kabupaten Nagan Raya",
+    "provinsi": "Aceh",
+    "lintang": 4.1248406,
+    "bujur": 96.4929797,
+    "elevasi": 77,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.16",
+    "kota": "Kabupaten Aceh Tamiang",
+    "provinsi": "Aceh",
+    "lintang": 4.695135,
+    "bujur": 96.7493993,
+    "elevasi": 1051,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.17",
+    "kota": "Kabupaten Bener Meriah",
+    "provinsi": "Aceh",
+    "lintang": 4.8317115,
+    "bujur": 96.7253164,
+    "elevasi": 810,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.18",
+    "kota": "Kabupaten Pidie Jaya",
+    "provinsi": "Aceh",
+    "lintang": 5.1548063,
+    "bujur": 96.195132,
+    "elevasi": 181,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.71",
+    "kota": "Kota Banda Aceh",
+    "provinsi": "Aceh",
+    "lintang": 5.5482904,
+    "bujur": 95.3237559,
+    "elevasi": 10,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.72",
+    "kota": "Kota Sabang",
+    "provinsi": "Aceh",
+    "lintang": 5.8926053,
+    "bujur": 95.3237608,
+    "elevasi": 43,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.73",
+    "kota": "Kota Lhokseumawe",
+    "provinsi": "Aceh",
+    "lintang": 5.1811638,
+    "bujur": 97.1413222,
+    "elevasi": 4,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.74",
+    "kota": "Kota Langsa",
+    "provinsi": "Aceh",
+    "lintang": 4.4725348,
+    "bujur": 97.9756343,
+    "elevasi": 8,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "11.75",
+    "kota": "Kota Subulussalam",
+    "provinsi": "Aceh",
+    "lintang": 2.7121164,
+    "bujur": 97.9157099,
+    "elevasi": 34,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.01",
+    "kota": "Kabupaten Tapanuli Tengah",
+    "provinsi": "Sumatera Utara",
+    "lintang": 1.8493299,
+    "bujur": 98.704075,
+    "elevasi": 160,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.02",
+    "kota": "Kabupaten Tapanuli Utara",
+    "provinsi": "Sumatera Utara",
+    "lintang": 2.0405246,
+    "bujur": 99.1013498,
+    "elevasi": 1207,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.03",
+    "kota": "Kabupaten Tapanuli Selatan",
+    "provinsi": "Sumatera Utara",
+    "lintang": 1.5774933,
+    "bujur": 99.2785583,
+    "elevasi": 1070,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.04",
+    "kota": "Kabupaten Nias",
+    "provinsi": "Sumatera Utara",
+    "lintang": 1.0869444,
+    "bujur": 97.7416703,
+    "elevasi": 25,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.05",
+    "kota": "Kabupaten Langkat",
+    "provinsi": "Sumatera Utara",
+    "lintang": 3.8653916,
+    "bujur": 98.3088441,
+    "elevasi": 47,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.06",
+    "kota": "Kabupaten Karo",
+    "provinsi": "Sumatera Utara",
+    "lintang": 2.9397267,
+    "bujur": 98.5093057,
+    "elevasi": 1459,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.07",
+    "kota": "Kabupaten Deli Serdang",
+    "provinsi": "Sumatera Utara",
+    "lintang": 3.4201802,
+    "bujur": 98.704075,
+    "elevasi": 104,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.08",
+    "kota": "Kabupaten Simalungun",
+    "provinsi": "Sumatera Utara",
+    "lintang": 2.9781612,
+    "bujur": 99.2785583,
+    "elevasi": 120,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.09",
+    "kota": "Kabupaten Asahan",
+    "provinsi": "Sumatera Utara",
+    "lintang": 2.8174722,
+    "bujur": 99.634135,
+    "elevasi": 37,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.10",
+    "kota": "Kabupaten Labuhanbatu",
+    "provinsi": "Sumatera Utara",
+    "lintang": 2.3439863,
+    "bujur": 100.1703257,
+    "elevasi": 8,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.11",
+    "kota": "Kabupaten Dairi",
+    "provinsi": "Sumatera Utara",
+    "lintang": 2.8675801,
+    "bujur": 98.265058,
+    "elevasi": 525,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.12",
+    "kota": "Kabupaten Toba",
+    "provinsi": "Sumatera Utara",
+    "lintang": 2.3502398,
+    "bujur": 99.2785583,
+    "elevasi": 1243,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.13",
+    "kota": "Kabupaten Mandailing Natal",
+    "provinsi": "Sumatera Utara",
+    "lintang": 0.7432372,
+    "bujur": 99.3673084,
+    "elevasi": 846,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.14",
+    "kota": "Kabupaten Nias Selatan",
+    "provinsi": "Sumatera Utara",
+    "lintang": 0.7086091,
+    "bujur": 97.8286368,
+    "elevasi": 154,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.15",
+    "kota": "Kabupaten Pakpak Bharat",
+    "provinsi": "Sumatera Utara",
+    "lintang": 2.5135376,
+    "bujur": 98.2212979,
+    "elevasi": 635,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.16",
+    "kota": "Kabupaten Humbang Hasundutan",
+    "provinsi": "Sumatera Utara",
+    "lintang": 2.1988508,
+    "bujur": 98.5721016,
+    "elevasi": 1077,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.17",
+    "kota": "Kabupaten Samosir",
+    "provinsi": "Sumatera Utara",
+    "lintang": 2.6274431,
+    "bujur": 98.7921836,
+    "elevasi": 1521,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.18",
+    "kota": "Kabupaten Serdang Bedagai",
+    "provinsi": "Sumatera Utara",
+    "lintang": 3.3371694,
+    "bujur": 99.0571089,
+    "elevasi": 41,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.19",
+    "kota": "Kabupaten Batu Bara",
+    "provinsi": "Sumatera Utara",
+    "lintang": 3.1740979,
+    "bujur": 99.5006143,
+    "elevasi": 20,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.20",
+    "kota": "Kabupaten Padang Lawas Utara",
+    "provinsi": "Sumatera Utara",
+    "lintang": 1.5758644,
+    "bujur": 99.634135,
+    "elevasi": 193,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.21",
+    "kota": "Kabupaten Padang Lawas",
+    "provinsi": "Sumatera Utara",
+    "lintang": 1.1186977,
+    "bujur": 99.8124935,
+    "elevasi": 213,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.22",
+    "kota": "Kabupaten Labuhanbatu Selatan",
+    "provinsi": "Sumatera Utara",
+    "lintang": 1.8799353,
+    "bujur": 100.1703257,
+    "elevasi": 19,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.23",
+    "kota": "Kabupaten Labuhanbatu Utara",
+    "provinsi": "Sumatera Utara",
+    "lintang": 2.3465638,
+    "bujur": 99.8124935,
+    "elevasi": 26,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.24",
+    "kota": "Kabupaten Nias Utara",
+    "provinsi": "Sumatera Utara",
+    "lintang": 1.3166036,
+    "bujur": 97.394882,
+    "elevasi": 152,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.25",
+    "kota": "Kabupaten Nias Barat",
+    "provinsi": "Sumatera Utara",
+    "lintang": 1.0116383,
+    "bujur": 97.4814163,
+    "elevasi": 59,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.71",
+    "kota": "Kota Medan",
+    "provinsi": "Sumatera Utara",
+    "lintang": 3.5951956,
+    "bujur": 98.6722227,
+    "elevasi": 23,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.72",
+    "kota": "Kota Pematangsiantar",
+    "provinsi": "Sumatera Utara",
+    "lintang": 2.970042,
+    "bujur": 99.0681668,
+    "elevasi": 381,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.73",
+    "kota": "Kota Sibolga",
+    "provinsi": "Sumatera Utara",
+    "lintang": 1.7368371,
+    "bujur": 98.7851121,
+    "elevasi": 6,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.74",
+    "kota": "Kota Tanjung Balai",
+    "provinsi": "Sumatera Utara",
+    "lintang": 2.9659488,
+    "bujur": 99.7983506,
+    "elevasi": 4,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.75",
+    "kota": "Kota Binjai",
+    "provinsi": "Sumatera Utara",
+    "lintang": 3.6135482,
+    "bujur": 98.5025286,
+    "elevasi": 31,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.76",
+    "kota": "Kota Tebing Tinggi",
+    "provinsi": "Sumatera Utara",
+    "lintang": 3.3262879,
+    "bujur": 99.1566855,
+    "elevasi": 20,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.77",
+    "kota": "Kota Padangsidimpuan",
+    "provinsi": "Sumatera Utara",
+    "lintang": 1.4437644,
+    "bujur": 99.2563859,
+    "elevasi": 531,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "12.78",
+    "kota": "Kota Gunungsitoli",
+    "provinsi": "Sumatera Utara",
+    "lintang": 1.2804692,
+    "bujur": 97.6146757,
+    "elevasi": 16,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "13.01",
+    "kota": "Kabupaten Pesisir Selatan",
+    "provinsi": "Sumatera Barat",
+    "lintang": -1.7223147,
+    "bujur": 100.8903099,
+    "elevasi": 259,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "13.02",
+    "kota": "Kabupaten Solok",
+    "provinsi": "Sumatera Barat",
+    "lintang": -0.9643838,
+    "bujur": 100.8903099,
+    "elevasi": 484,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "13.03",
+    "kota": "Kabupaten Sijunjung",
+    "provinsi": "Sumatera Barat",
+    "lintang": -0.6647007,
+    "bujur": 101.0711758,
+    "elevasi": 499,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "13.04",
+    "kota": "Kabupaten Tanah Datar",
+    "provinsi": "Sumatera Barat",
+    "lintang": -0.4797043,
+    "bujur": 100.5746224,
+    "elevasi": 571,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "13.05",
+    "kota": "Kabupaten Padang Pariaman",
+    "provinsi": "Sumatera Barat",
+    "lintang": -0.5546757,
+    "bujur": 100.2151578,
+    "elevasi": 122,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "13.06",
+    "kota": "Kabupaten Agam",
+    "provinsi": "Sumatera Barat",
+    "lintang": -0.2209392,
+    "bujur": 100.1703257,
+    "elevasi": 972,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "13.07",
+    "kota": "Kabupaten Lima Puluh Kota",
+    "provinsi": "Sumatera Barat",
+    "lintang": 0.0734192,
+    "bujur": 100.5296115,
+    "elevasi": 390,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "13.08",
+    "kota": "Kabupaten Pasaman",
+    "provinsi": "Sumatera Barat",
+    "lintang": 0.2209392,
+    "bujur": 100.1703257,
+    "elevasi": 1228,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "13.09",
+    "kota": "Kabupaten Kepulauan Mentawai",
+    "provinsi": "Sumatera Barat",
+    "lintang": -2.1292625065662,
+    "bujur": 99.573362017776,
+    "elevasi": 61,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "13.10",
+    "kota": "Kabupaten Dharmasraya",
+    "provinsi": "Sumatera Barat",
+    "lintang": -1.1120568,
+    "bujur": 101.6157773,
+    "elevasi": 117,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "13.11",
+    "kota": "Kabupaten Solok Selatan",
+    "provinsi": "Sumatera Barat",
+    "lintang": -1.4157329,
+    "bujur": 101.2523792,
+    "elevasi": 607,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "13.12",
+    "kota": "Kabupaten Pasaman Barat",
+    "provinsi": "Sumatera Barat",
+    "lintang": 0.2213005,
+    "bujur": 99.634135,
+    "elevasi": 19,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "13.71",
+    "kota": "Kota Padang",
+    "provinsi": "Sumatera Barat",
+    "lintang": -0.9470832,
+    "bujur": 100.417181,
+    "elevasi": 57,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "13.72",
+    "kota": "Kota Solok",
+    "provinsi": "Sumatera Barat",
+    "lintang": -0.7885335,
+    "bujur": 100.6549823,
+    "elevasi": 391,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "13.73",
+    "kota": "Kota Sawahlunto",
+    "provinsi": "Sumatera Barat",
+    "lintang": -0.5966387,
+    "bujur": 100.7360203,
+    "elevasi": 234,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "13.74",
+    "kota": "Kota Padang Panjang",
+    "provinsi": "Sumatera Barat",
+    "lintang": -0.4660955,
+    "bujur": 100.3984148,
+    "elevasi": 778,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "13.75",
+    "kota": "Kota Bukittinggi",
+    "provinsi": "Sumatera Barat",
+    "lintang": -0.3039178,
+    "bujur": 100.383479,
+    "elevasi": 928,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "13.76",
+    "kota": "Kota Payakumbuh",
+    "provinsi": "Sumatera Barat",
+    "lintang": -0.2246548,
+    "bujur": 100.6318006,
+    "elevasi": 514,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "13.77",
+    "kota": "Kota Pariaman",
+    "provinsi": "Sumatera Barat",
+    "lintang": -0.6256517,
+    "bujur": 100.1233396,
+    "elevasi": 8,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "14.01",
+    "kota": "Kabupaten Kampar",
+    "provinsi": "Riau",
+    "lintang": 0.146671,
+    "bujur": 101.1617356,
+    "elevasi": 52,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "14.02",
+    "kota": "Kabupaten Indragiri Hulu",
+    "provinsi": "Riau",
+    "lintang": -0.7361181,
+    "bujur": 102.2547919,
+    "elevasi": 43,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "14.03",
+    "kota": "Kabupaten Bengkalis",
+    "provinsi": "Riau",
+    "lintang": 1.4139187,
+    "bujur": 101.6157773,
+    "elevasi": 43,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "14.04",
+    "kota": "Kabupaten Indragiri Hilir",
+    "provinsi": "Riau",
+    "lintang": -0.1456733,
+    "bujur": 102.989615,
+    "elevasi": 24,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "14.05",
+    "kota": "Kabupaten Pelalawan",
+    "provinsi": "Riau",
+    "lintang": 0.1460923,
+    "bujur": 102.2547919,
+    "elevasi": 31,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "14.06",
+    "kota": "Kabupaten Rokan Hulu",
+    "provinsi": "Riau",
+    "lintang": 1.0410934,
+    "bujur": 100.439656,
+    "elevasi": 37,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "14.07",
+    "kota": "Kabupaten Rokan Hilir",
+    "provinsi": "Riau",
+    "lintang": 1.6463978,
+    "bujur": 100.8000051,
+    "elevasi": 21,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "14.08",
+    "kota": "Kabupaten Siak",
+    "provinsi": "Riau",
+    "lintang": 0.8118812,
+    "bujur": 101.7979613,
+    "elevasi": 22,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "14.09",
+    "kota": "Kabupaten Kuantan Singingi",
+    "provinsi": "Riau",
+    "lintang": -0.4411596,
+    "bujur": 101.5248055,
+    "elevasi": 105,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "14.10",
+    "kota": "Kabupaten Kepulauan Meranti",
+    "provinsi": "Riau",
+    "lintang": 0.9208765,
+    "bujur": 102.6675575,
+    "elevasi": 12,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "14.71",
+    "kota": "Kota Pekanbaru",
+    "provinsi": "Riau",
+    "lintang": 0.5070677,
+    "bujur": 101.4477793,
+    "elevasi": 17,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "14.72",
+    "kota": "Kota Dumai",
+    "provinsi": "Riau",
+    "lintang": 1.6666349,
+    "bujur": 101.4001855,
+    "elevasi": 7,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "15.01",
+    "kota": "Kabupaten Kerinci",
+    "provinsi": "Jambi",
+    "lintang": -1.8720467,
+    "bujur": 101.4339148,
+    "elevasi": 1310,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "15.02",
+    "kota": "Kabupaten Merangin",
+    "provinsi": "Jambi",
+    "lintang": -2.1752789,
+    "bujur": 101.9804613,
+    "elevasi": 299,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "15.03",
+    "kota": "Kabupaten Sarolangun",
+    "provinsi": "Jambi",
+    "lintang": -2.3230422,
+    "bujur": 102.7135121,
+    "elevasi": 47,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "15.04",
+    "kota": "Kabupaten Batanghari",
+    "provinsi": "Jambi",
+    "lintang": -1.7083922,
+    "bujur": 103.0817903,
+    "elevasi": 28,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "15.05",
+    "kota": "Kabupaten Muaro Jambi",
+    "provinsi": "Jambi",
+    "lintang": -1.47546,
+    "bujur": 103.668111,
+    "elevasi": 21,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "15.06",
+    "kota": "Kabupaten Tanjung Jabung Barat",
+    "provinsi": "Jambi",
+    "lintang": -1.105846,
+    "bujur": 103.0817903,
+    "elevasi": 15,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "15.07",
+    "kota": "Kabupaten Tanjung Jabung Timur",
+    "provinsi": "Jambi",
+    "lintang": -1.1024367,
+    "bujur": 103.8216261,
+    "elevasi": 6,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "15.08",
+    "kota": "Kabupaten Bungo",
+    "provinsi": "Jambi",
+    "lintang": -1.6401338,
+    "bujur": 101.8891721,
+    "elevasi": 142,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "15.09",
+    "kota": "Kabupaten Tebo",
+    "provinsi": "Jambi",
+    "lintang": -1.2592999,
+    "bujur": 102.3463875,
+    "elevasi": 72,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "15.71",
+    "kota": "Kota Jambi",
+    "provinsi": "Jambi",
+    "lintang": -1.6101229,
+    "bujur": 103.6131203,
+    "elevasi": 25,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "15.72",
+    "kota": "Kota Sungai Penuh",
+    "provinsi": "Jambi",
+    "lintang": -2.0634335,
+    "bujur": 101.3947481,
+    "elevasi": 826,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "16.01",
+    "kota": "Kabupaten Ogan Komering Ulu",
+    "provinsi": "Sumatera Selatan",
+    "lintang": -4.0283486,
+    "bujur": 104.0072348,
+    "elevasi": 177,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "16.02",
+    "kota": "Kabupaten Ogan Komering Ilir",
+    "provinsi": "Sumatera Selatan",
+    "lintang": -3.4559744,
+    "bujur": 105.2194808,
+    "elevasi": 11,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "16.03",
+    "kota": "Kabupaten Muara Enim",
+    "provinsi": "Sumatera Selatan",
+    "lintang": -3.6632234,
+    "bujur": 103.7781606,
+    "elevasi": 45,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "16.04",
+    "kota": "Kabupaten Lahat",
+    "provinsi": "Sumatera Selatan",
+    "lintang": -3.8008893,
+    "bujur": 103.3587288,
+    "elevasi": 203,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "16.05",
+    "kota": "Kabupaten Musi Rawas",
+    "provinsi": "Sumatera Selatan",
+    "lintang": -3.0956537,
+    "bujur": 103.0817903,
+    "elevasi": 39,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "16.06",
+    "kota": "Kabupaten Musi Banyuasin",
+    "provinsi": "Sumatera Selatan",
+    "lintang": -2.5442029,
+    "bujur": 103.7289167,
+    "elevasi": 26,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "16.07",
+    "kota": "Kabupaten Banyuasin",
+    "provinsi": "Sumatera Selatan",
+    "lintang": -2.6095639,
+    "bujur": 104.7520939,
+    "elevasi": 6,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "16.08",
+    "kota": "Kabupaten Ogan Komering Ulu Timur",
+    "provinsi": "Sumatera Selatan",
+    "lintang": -3.8567934,
+    "bujur": 104.7520939,
+    "elevasi": 37,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "16.09",
+    "kota": "Kabupaten Ogan Komering Ulu Selatan",
+    "provinsi": "Sumatera Selatan",
+    "lintang": -4.6681951,
+    "bujur": 104.0072348,
+    "elevasi": 263,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "16.10",
+    "kota": "Kabupaten Ogan Ilir",
+    "provinsi": "Sumatera Selatan",
+    "lintang": -3.426544,
+    "bujur": 104.6121475,
+    "elevasi": 27,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "16.11",
+    "kota": "Kabupaten Empat Lawang",
+    "provinsi": "Sumatera Selatan",
+    "lintang": -3.7286029,
+    "bujur": 102.8975098,
+    "elevasi": 673,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "16.12",
+    "kota": "Kabupaten Penukal Abab Lematang Ilir",
+    "provinsi": "Sumatera Selatan",
+    "lintang": -3.239825,
+    "bujur": 104.0072348,
+    "elevasi": 37,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "16.13",
+    "kota": "Kabupaten Musi Rawas Utara",
+    "provinsi": "Sumatera Selatan",
+    "lintang": -2.787759,
+    "bujur": 102.7135121,
+    "elevasi": 73,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "16.71",
+    "kota": "Kota Palembang",
+    "provinsi": "Sumatera Selatan",
+    "lintang": -2.9760735,
+    "bujur": 104.7754307,
+    "elevasi": 7,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "16.72",
+    "kota": "Kota Pagar Alam",
+    "provinsi": "Sumatera Selatan",
+    "lintang": -4.0419617,
+    "bujur": 103.2278845,
+    "elevasi": 793,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "16.73",
+    "kota": "Kota Lubuk Linggau",
+    "provinsi": "Sumatera Selatan",
+    "lintang": -3.2995858,
+    "bujur": 102.857236,
+    "elevasi": 144,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "16.74",
+    "kota": "Kota Prabumulih",
+    "provinsi": "Sumatera Selatan",
+    "lintang": -3.4213707,
+    "bujur": 104.2436833,
+    "elevasi": 50,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "17.01",
+    "kota": "Kabupaten Bengkulu Selatan",
+    "provinsi": "Bengkulu",
+    "lintang": -3.5778471,
+    "bujur": 102.3463875,
+    "elevasi": 121,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "17.02",
+    "kota": "Kabupaten Rejang Lebong",
+    "provinsi": "Bengkulu",
+    "lintang": -3.4548154,
+    "bujur": 102.6675575,
+    "elevasi": 1040,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "17.03",
+    "kota": "Kabupaten Bengkulu Utara",
+    "provinsi": "Bengkulu",
+    "lintang": -3.2663246,
+    "bujur": 101.9804613,
+    "elevasi": 100,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "17.04",
+    "kota": "Kabupaten Kaur",
+    "provinsi": "Bengkulu",
+    "lintang": -4.5215978,
+    "bujur": 103.2663479,
+    "elevasi": 185,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "17.05",
+    "kota": "Kabupaten Seluma",
+    "provinsi": "Bengkulu",
+    "lintang": -4.0499387,
+    "bujur": 102.7135121,
+    "elevasi": 199,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "17.06",
+    "kota": "Kabupaten Muko Muko",
+    "provinsi": "Bengkulu",
+    "lintang": -2.6449114,
+    "bujur": 101.4339148,
+    "elevasi": 166,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "17.07",
+    "kota": "Kabupaten Lebong",
+    "provinsi": "Bengkulu",
+    "lintang": -3.1455094,
+    "bujur": 102.2090224,
+    "elevasi": 411,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "17.08",
+    "kota": "Kabupaten Kepahiang",
+    "provinsi": "Bengkulu",
+    "lintang": -3.6130091,
+    "bujur": 102.6675575,
+    "elevasi": 961,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "17.09",
+    "kota": "Kabupaten Bengkulu Tengah",
+    "provinsi": "Bengkulu",
+    "lintang": -3.5778471,
+    "bujur": 102.3463875,
+    "elevasi": 121,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "17.71",
+    "kota": "Kota Bengkulu",
+    "provinsi": "Bengkulu",
+    "lintang": -3.7928451,
+    "bujur": 102.2607641,
+    "elevasi": 22,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "18.01",
+    "kota": "Kabupaten Lampung Selatan",
+    "provinsi": "Lampung",
+    "lintang": -5.5622614,
+    "bujur": 105.5474373,
+    "elevasi": 28,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "18.02",
+    "kota": "Kabupaten Lampung Tengah",
+    "provinsi": "Lampung",
+    "lintang": -4.5585849,
+    "bujur": 105.4068079,
+    "elevasi": 24,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "18.03",
+    "kota": "Kabupaten Lampung Utara",
+    "provinsi": "Lampung",
+    "lintang": -4.5585849,
+    "bujur": 105.4068079,
+    "elevasi": 24,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "18.04",
+    "kota": "Kabupaten Lampung Barat",
+    "provinsi": "Lampung",
+    "lintang": -4.5585849,
+    "bujur": 105.4068079,
+    "elevasi": 24,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "18.05",
+    "kota": "Kabupaten Tulang Bawang",
+    "provinsi": "Lampung",
+    "lintang": -4.3176576,
+    "bujur": 105.5005483,
+    "elevasi": 25,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "18.06",
+    "kota": "Kabupaten Tanggamus",
+    "provinsi": "Lampung",
+    "lintang": -5.3027489,
+    "bujur": 104.5655273,
+    "elevasi": 900,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "18.07",
+    "kota": "Kabupaten Lampung Timur",
+    "provinsi": "Lampung",
+    "lintang": -4.5585849,
+    "bujur": 105.4068079,
+    "elevasi": 24,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "18.08",
+    "kota": "Kabupaten Way Kanan",
+    "provinsi": "Lampung",
+    "lintang": -4.4963689,
+    "bujur": 104.5655273,
+    "elevasi": 98,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "18.09",
+    "kota": "Kabupaten Pesawaran",
+    "provinsi": "Lampung",
+    "lintang": -5.4680885,
+    "bujur": 105.0192148,
+    "elevasi": 195,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "18.10",
+    "kota": "Kabupaten Pringsewu",
+    "provinsi": "Lampung",
+    "lintang": -5.3331186,
+    "bujur": 104.9856176,
+    "elevasi": 96,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "18.11",
+    "kota": "Kabupaten Mesuji",
+    "provinsi": "Lampung",
+    "lintang": -4.0044783,
+    "bujur": 105.3131185,
+    "elevasi": 33,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "18.12",
+    "kota": "Kabupaten Tulang Bawang Barat",
+    "provinsi": "Lampung",
+    "lintang": -4.5256967,
+    "bujur": 105.0791228,
+    "elevasi": 38,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "18.13",
+    "kota": "Kabupaten Pesisir Barat",
+    "provinsi": "Lampung",
+    "lintang": -5.2928191,
+    "bujur": 104.1233667,
+    "elevasi": 273,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "18.71",
+    "kota": "Kota Bandar Lampung",
+    "provinsi": "Lampung",
+    "lintang": -5.3971396,
+    "bujur": 105.2667887,
+    "elevasi": 102,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "18.72",
+    "kota": "Kota Metro",
+    "provinsi": "Lampung",
+    "lintang": -5.1178394,
+    "bujur": 105.3072646,
+    "elevasi": 57,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "19.01",
+    "kota": "Kabupaten Bangka",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "lintang": -1.874294,
+    "bujur": 105.92299,
+    "elevasi": 70,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "19.02",
+    "kota": "Kabupaten Belitung",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "lintang": -2.7216743,
+    "bujur": 107.763621,
+    "elevasi": 48,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "19.03",
+    "kota": "Kabupaten Bangka Selatan",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "lintang": -2.7410513,
+    "bujur": 106.4405872,
+    "elevasi": 29,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "19.04",
+    "kota": "Kabupaten Bangka Tengah",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "lintang": -2.4007823,
+    "bujur": 106.2051484,
+    "elevasi": 19,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "19.05",
+    "kota": "Kabupaten Bangka Barat",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "lintang": -1.8405046,
+    "bujur": 105.5005483,
+    "elevasi": 7,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "19.06",
+    "kota": "Kabupaten Belitung Timur",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "lintang": -2.8678037,
+    "bujur": 108.1428669,
+    "elevasi": 20,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "19.71",
+    "kota": "Kota Pangkal Pinang",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "lintang": -2.1316266,
+    "bujur": 106.1169299,
+    "elevasi": 4,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "21.01",
+    "kota": "Kabupaten Bintan",
+    "provinsi": "Kepulauan Riau",
+    "lintang": 1.0619173,
+    "bujur": 104.5189214,
+    "elevasi": 26,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "21.02",
+    "kota": "Kabupaten Karimun",
+    "provinsi": "Kepulauan Riau",
+    "lintang": 0.7697665,
+    "bujur": 103.4049445,
+    "elevasi": 35,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "21.03",
+    "kota": "Kabupaten Natuna",
+    "provinsi": "Kepulauan Riau",
+    "lintang": 4,
+    "bujur": 108.25,
+    "elevasi": 56,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "21.04",
+    "kota": "Kabupaten Lingga",
+    "provinsi": "Kepulauan Riau",
+    "lintang": -0.4726065,
+    "bujur": 104.4257533,
+    "elevasi": 62,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "21.05",
+    "kota": "Kabupaten Kepulauan Anambas",
+    "provinsi": "Kepulauan Riau",
+    "lintang": 3.1055459,
+    "bujur": 105.6537231,
+    "elevasi": 101,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "21.71",
+    "kota": "Kota Batam",
+    "provinsi": "Kepulauan Riau",
+    "lintang": 1.1261413,
+    "bujur": 104.0408632,
+    "elevasi": 7,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "21.72",
+    "kota": "Kota Tanjung Pinang",
+    "provinsi": "Kepulauan Riau",
+    "lintang": 0.9185504,
+    "bujur": 104.4665072,
+    "elevasi": 1,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "31.01",
+    "kota": "Kabupaten Administarsi Kepulauan Seribu",
+    "provinsi": "DKI Jakarta",
+    "lintang": -5.7392014,
+    "bujur": 106.5996686,
+    "elevasi": 5,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "31.71",
+    "kota": "Kota Administarsi Jakarta Pusat",
+    "provinsi": "DKI Jakarta",
+    "lintang": -6.1876883,
+    "bujur": 106.8162264,
+    "elevasi": 11,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "31.72",
+    "kota": "Kota Administarsi Jakarta Utara",
+    "provinsi": "DKI Jakarta",
+    "lintang": -6.1554057,
+    "bujur": 106.8926634,
+    "elevasi": -2,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "31.73",
+    "kota": "Kota Administarsi Jakarta Barat",
+    "provinsi": "DKI Jakarta",
+    "lintang": -6.1876883,
+    "bujur": 106.8162264,
+    "elevasi": 11,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "31.74",
+    "kota": "Kota Administarsi Jakarta Selatan",
+    "provinsi": "DKI Jakarta",
+    "lintang": -6.1876883,
+    "bujur": 106.8162264,
+    "elevasi": 11,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "31.75",
+    "kota": "Kota Administarsi Jakarta Timur",
+    "provinsi": "DKI Jakarta",
+    "lintang": -6.2250138,
+    "bujur": 106.9004472,
+    "elevasi": 16,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.01",
+    "kota": "Kabupaten Bogor",
+    "provinsi": "Jawa Barat",
+    "lintang": -6.5517758,
+    "bujur": 106.6291304,
+    "elevasi": 171,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.02",
+    "kota": "Kabupaten Sukabumi",
+    "provinsi": "Jawa Barat",
+    "lintang": -6.8791499,
+    "bujur": 106.9474101,
+    "elevasi": 880,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.03",
+    "kota": "Kabupaten Cianjur",
+    "provinsi": "Jawa Barat",
+    "lintang": -7.3579773,
+    "bujur": 107.1957203,
+    "elevasi": 117,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.04",
+    "kota": "Kabupaten Bandung",
+    "provinsi": "Jawa Barat",
+    "lintang": -7.1340702,
+    "bujur": 107.6215321,
+    "elevasi": 1942,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.05",
+    "kota": "Kabupaten Garut",
+    "provinsi": "Jawa Barat",
+    "lintang": -7.5012204,
+    "bujur": 107.763621,
+    "elevasi": 968,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.06",
+    "kota": "Kabupaten Tasikmalaya",
+    "provinsi": "Jawa Barat",
+    "lintang": -7.6513306,
+    "bujur": 108.1428669,
+    "elevasi": 254,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.07",
+    "kota": "Kabupaten Ciamis",
+    "provinsi": "Jawa Barat",
+    "lintang": -7.3320773,
+    "bujur": 108.3492543,
+    "elevasi": 218,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.08",
+    "kota": "Kabupaten Kuningan",
+    "provinsi": "Jawa Barat",
+    "lintang": -6.9810103,
+    "bujur": 108.4928912,
+    "elevasi": 488,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.09",
+    "kota": "Kabupaten Cirebon",
+    "provinsi": "Jawa Barat",
+    "lintang": -6.6898876,
+    "bujur": 108.4750846,
+    "elevasi": 16,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.10",
+    "kota": "Kabupaten Majalengka",
+    "provinsi": "Jawa Barat",
+    "lintang": -6.7790605,
+    "bujur": 108.2852049,
+    "elevasi": 73,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.11",
+    "kota": "Kabupaten Sumedang",
+    "provinsi": "Jawa Barat",
+    "lintang": -6.832858,
+    "bujur": 107.9531836,
+    "elevasi": 545,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.12",
+    "kota": "Kabupaten Indramayu",
+    "provinsi": "Jawa Barat",
+    "lintang": -6.3488982,
+    "bujur": 108.3287361,
+    "elevasi": 0,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.13",
+    "kota": "Kabupaten Subang",
+    "provinsi": "Jawa Barat",
+    "lintang": -6.3487617,
+    "bujur": 107.763621,
+    "elevasi": 12,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.14",
+    "kota": "Kabupaten Purwakarta",
+    "provinsi": "Jawa Barat",
+    "lintang": -6.5649241,
+    "bujur": 107.4321959,
+    "elevasi": 101,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.15",
+    "kota": "Kabupaten Karawang",
+    "provinsi": "Jawa Barat",
+    "lintang": -6.3227303,
+    "bujur": 107.3375791,
+    "elevasi": 13,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.16",
+    "kota": "Kabupaten Bekasi",
+    "provinsi": "Jawa Barat",
+    "lintang": -6.366723,
+    "bujur": 107.1735638,
+    "elevasi": 53,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.17",
+    "kota": "Kabupaten Bandung Barat",
+    "provinsi": "Jawa Barat",
+    "lintang": -6.8652214,
+    "bujur": 107.4919767,
+    "elevasi": 668,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.18",
+    "kota": "Kabupaten Pangandaran",
+    "provinsi": "Jawa Barat",
+    "lintang": -7.6150611,
+    "bujur": 108.4988269,
+    "elevasi": 151,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.71",
+    "kota": "Kota Bogor",
+    "provinsi": "Jawa Barat",
+    "lintang": -6.5971469,
+    "bujur": 106.8060388,
+    "elevasi": 263,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.72",
+    "kota": "Kota Sukabumi",
+    "provinsi": "Jawa Barat",
+    "lintang": -6.9277361,
+    "bujur": 106.9299579,
+    "elevasi": 575,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.73",
+    "kota": "Kota Bandung",
+    "provinsi": "Jawa Barat",
+    "lintang": -6.885969,
+    "bujur": 107.616301,
+    "elevasi": 776,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.74",
+    "kota": "Kota Cirebon",
+    "provinsi": "Jawa Barat",
+    "lintang": -6.7320229,
+    "bujur": 108.5523164,
+    "elevasi": 7,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.75",
+    "kota": "Kota Bekasi",
+    "provinsi": "Jawa Barat",
+    "lintang": -6.2733758,
+    "bujur": 106.9830865,
+    "elevasi": 23,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.76",
+    "kota": "Kota Depok",
+    "provinsi": "Jawa Barat",
+    "lintang": -6.4024844,
+    "bujur": 106.7942405,
+    "elevasi": 86,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.77",
+    "kota": "Kota Cimahi",
+    "provinsi": "Jawa Barat",
+    "lintang": -6.8840816,
+    "bujur": 107.5413039,
+    "elevasi": 748,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.78",
+    "kota": "Kota Tasikmalaya",
+    "provinsi": "Jawa Barat",
+    "lintang": -7.3505808,
+    "bujur": 108.2171633,
+    "elevasi": 358,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "32.79",
+    "kota": "Kota Banjar",
+    "provinsi": "Jawa Barat",
+    "lintang": -7.3706874,
+    "bujur": 108.5342487,
+    "elevasi": 38,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.01",
+    "kota": "Kabupaten Cilacap",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.6982991,
+    "bujur": 109.023521,
+    "elevasi": 8,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.02",
+    "kota": "Kabupaten Banyumas",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.4832133,
+    "bujur": 109.140438,
+    "elevasi": 87,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.03",
+    "kota": "Kabupaten Purbalingga",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.3058578,
+    "bujur": 109.4259114,
+    "elevasi": 149,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.04",
+    "kota": "Kabupaten Banjarnegara",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.3794368,
+    "bujur": 109.6163185,
+    "elevasi": 230,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.05",
+    "kota": "Kabupaten Kebumen",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.6709292,
+    "bujur": 109.6608012,
+    "elevasi": 27,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.06",
+    "kota": "Kabupaten Purworejo",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.6964509,
+    "bujur": 109.9989416,
+    "elevasi": 46,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.07",
+    "kota": "Kabupaten Wonosobo",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.3684995,
+    "bujur": 109.8984085,
+    "elevasi": 764,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.08",
+    "kota": "Kabupaten Magelang",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.4305237,
+    "bujur": 110.2832217,
+    "elevasi": 477,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.09",
+    "kota": "Kabupaten Boyolali",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.4317773,
+    "bujur": 110.6883536,
+    "elevasi": 184,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.10",
+    "kota": "Kabupaten Klaten",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.7034032,
+    "bujur": 110.6005039,
+    "elevasi": 168,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.11",
+    "kota": "Kabupaten Sukoharjo",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.6813417,
+    "bujur": 110.8320626,
+    "elevasi": 100,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.12",
+    "kota": "Kabupaten Wonogiri",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.8137085,
+    "bujur": 110.9239477,
+    "elevasi": 137,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.13",
+    "kota": "Kabupaten Karanganyar",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.6387228,
+    "bujur": 111.0460407,
+    "elevasi": 410,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.14",
+    "kota": "Kabupaten Sragen",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.43027,
+    "bujur": 111.0091855,
+    "elevasi": 85,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.15",
+    "kota": "Kabupaten Grobogan",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.1541672,
+    "bujur": 110.9506636,
+    "elevasi": 46,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.16",
+    "kota": "Kabupaten Blora",
+    "provinsi": "Jawa Tengah",
+    "lintang": -6.9691276,
+    "bujur": 111.4186704,
+    "elevasi": 90,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.17",
+    "kota": "Kabupaten Rembang",
+    "provinsi": "Jawa Tengah",
+    "lintang": -6.8082115,
+    "bujur": 111.4275888,
+    "elevasi": 43,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.18",
+    "kota": "Kabupaten Pati",
+    "provinsi": "Jawa Tengah",
+    "lintang": -6.7449635,
+    "bujur": 111.0460407,
+    "elevasi": 14,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.19",
+    "kota": "Kabupaten Kudus",
+    "provinsi": "Jawa Tengah",
+    "lintang": -6.7726186,
+    "bujur": 110.8791343,
+    "elevasi": 50,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.20",
+    "kota": "Kabupaten Jepara",
+    "provinsi": "Jawa Tengah",
+    "lintang": -6.582711,
+    "bujur": 110.6786933,
+    "elevasi": 9,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.21",
+    "kota": "Kabupaten Demak",
+    "provinsi": "Jawa Tengah",
+    "lintang": -6.9238879,
+    "bujur": 110.6645683,
+    "elevasi": 6,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.22",
+    "kota": "Kabupaten Semarang",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.1764785,
+    "bujur": 110.4738762,
+    "elevasi": 343,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.23",
+    "kota": "Kabupaten Temanggung",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.3173282,
+    "bujur": 110.1804877,
+    "elevasi": 579,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.24",
+    "kota": "Kabupaten Kendal",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.0265442,
+    "bujur": 110.1879106,
+    "elevasi": 101,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.25",
+    "kota": "Kabupaten Batang",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.032551,
+    "bujur": 109.7986045,
+    "elevasi": 383,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.26",
+    "kota": "Kabupaten Pekalongan",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.0517128,
+    "bujur": 109.6163185,
+    "elevasi": 125,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.27",
+    "kota": "Kabupaten Pemalang",
+    "provinsi": "Jawa Tengah",
+    "lintang": -6.8899072,
+    "bujur": 109.3824243,
+    "elevasi": 10,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.28",
+    "kota": "Kabupaten Tegal",
+    "provinsi": "Jawa Tengah",
+    "lintang": -6.9902371,
+    "bujur": 109.140438,
+    "elevasi": 44,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.29",
+    "kota": "Kabupaten Brebes",
+    "provinsi": "Jawa Tengah",
+    "lintang": -6.9591793,
+    "bujur": 108.902683,
+    "elevasi": 16,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.71",
+    "kota": "Kota Magelang",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.4797342,
+    "bujur": 110.2176941,
+    "elevasi": 383,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.72",
+    "kota": "Kota Surakarta",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.5754887,
+    "bujur": 110.8243272,
+    "elevasi": 96,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.73",
+    "kota": "Kota Salatiga",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.3305234,
+    "bujur": 110.5084366,
+    "elevasi": 602,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.74",
+    "kota": "Kota Semarang",
+    "provinsi": "Jawa Tengah",
+    "lintang": -7.0051453,
+    "bujur": 110.4381254,
+    "elevasi": 12,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.75",
+    "kota": "Kota Pekalongan",
+    "provinsi": "Jawa Tengah",
+    "lintang": -6.8898362,
+    "bujur": 109.6745916,
+    "elevasi": 9,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "33.76",
+    "kota": "Kota Tegal",
+    "provinsi": "Jawa Tengah",
+    "lintang": -6.8797041,
+    "bujur": 109.1255917,
+    "elevasi": 8,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "34.01",
+    "kota": "Kabupaten Kulon Progo",
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "lintang": -7.8266798,
+    "bujur": 110.1640846,
+    "elevasi": 33,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "34.02",
+    "kota": "Kabupaten Bantul",
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "lintang": -7.8926361,
+    "bujur": 110.3347369,
+    "elevasi": 45,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "34.03",
+    "kota": "Kabupaten Gunungkidul",
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "lintang": -8.0305091,
+    "bujur": 110.6168921,
+    "elevasi": 148,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "34.04",
+    "kota": "Kabupaten Sleman",
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "lintang": -7.7651539,
+    "bujur": 110.3443652,
+    "elevasi": 134,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "34.71",
+    "kota": "Kota Yogyakarta",
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "lintang": -7.7955798,
+    "bujur": 110.3694896,
+    "elevasi": 106,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.01",
+    "kota": "Kabupaten Pacitan",
+    "provinsi": "Jawa Timur",
+    "lintang": -8.1850094,
+    "bujur": 111.1031849,
+    "elevasi": 20,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.02",
+    "kota": "Kabupaten Ponorogo",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.864919,
+    "bujur": 111.4610988,
+    "elevasi": 102,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.03",
+    "kota": "Kabupaten Trenggalek",
+    "provinsi": "Jawa Timur",
+    "lintang": -8.0505332,
+    "bujur": 111.7090207,
+    "elevasi": 114,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.04",
+    "kota": "Kabupaten Tulungagung",
+    "provinsi": "Jawa Timur",
+    "lintang": -8.0598265,
+    "bujur": 111.9073351,
+    "elevasi": 92,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.05",
+    "kota": "Kabupaten Blitar",
+    "provinsi": "Jawa Timur",
+    "lintang": -8.0954627,
+    "bujur": 112.1609056,
+    "elevasi": 178,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.06",
+    "kota": "Kabupaten Kediri",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.8232397,
+    "bujur": 112.1907122,
+    "elevasi": 207,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.07",
+    "kota": "Kabupaten Malang",
+    "provinsi": "Jawa Timur",
+    "lintang": -8.242209,
+    "bujur": 112.7152125,
+    "elevasi": 379,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.08",
+    "kota": "Kabupaten Lumajang",
+    "provinsi": "Jawa Timur",
+    "lintang": -8.0943571,
+    "bujur": 113.1441558,
+    "elevasi": 243,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.09",
+    "kota": "Kabupaten Jember",
+    "provinsi": "Jawa Timur",
+    "lintang": -8.1844859,
+    "bujur": 113.6680747,
+    "elevasi": 76,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.10",
+    "kota": "Kabupaten Banyuwangi",
+    "provinsi": "Jawa Timur",
+    "lintang": -8.2190944,
+    "bujur": 114.3691416,
+    "elevasi": 19,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.11",
+    "kota": "Kabupaten Bondowoso",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.9145047,
+    "bujur": 113.8232058,
+    "elevasi": 259,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.12",
+    "kota": "Kabupaten Situbondo",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.7058776,
+    "bujur": 114.0059842,
+    "elevasi": 33,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.13",
+    "kota": "Kabupaten Probolinggo",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.8717562,
+    "bujur": 113.4776098,
+    "elevasi": 476,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.14",
+    "kota": "Kabupaten Pasuruan",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.7859961,
+    "bujur": 112.858217,
+    "elevasi": 244,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.15",
+    "kota": "Kabupaten Sidoarjo",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.4509979,
+    "bujur": 112.715437,
+    "elevasi": 5,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.16",
+    "kota": "Kabupaten Mojokerto",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.563831,
+    "bujur": 112.4768287,
+    "elevasi": 85,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.17",
+    "kota": "Kabupaten Jombang",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.5740867,
+    "bujur": 112.28609,
+    "elevasi": 42,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.18",
+    "kota": "Kabupaten Nganjuk",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.5943507,
+    "bujur": 111.9045541,
+    "elevasi": 59,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.19",
+    "kota": "Kabupaten Madiun",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.6093306,
+    "bujur": 111.6183755,
+    "elevasi": 89,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.20",
+    "kota": "Kabupaten Magetan",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.6433138,
+    "bujur": 111.356045,
+    "elevasi": 271,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.21",
+    "kota": "Kabupaten Ngawi",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.4068693,
+    "bujur": 111.431658,
+    "elevasi": 52,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.22",
+    "kota": "Kabupaten Bojonegoro",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.1595292,
+    "bujur": 111.8817607,
+    "elevasi": 22,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.23",
+    "kota": "Kabupaten Tuban",
+    "provinsi": "Jawa Timur",
+    "lintang": -6.8949099,
+    "bujur": 112.0416754,
+    "elevasi": 8,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.24",
+    "kota": "Kabupaten Lamongan",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.1269261,
+    "bujur": 112.3337769,
+    "elevasi": 10,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.25",
+    "kota": "Kabupaten Gresik",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.1650131,
+    "bujur": 112.6393997,
+    "elevasi": 32,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.26",
+    "kota": "Kabupaten Bangkalan",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.038375,
+    "bujur": 112.9136695,
+    "elevasi": 124,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.27",
+    "kota": "Kabupaten Sampang",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.0402326,
+    "bujur": 113.2394452,
+    "elevasi": 115,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.28",
+    "kota": "Kabupaten Pamekasan",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.1050857,
+    "bujur": 113.5252319,
+    "elevasi": 112,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.29",
+    "kota": "Kabupaten Sumenep",
+    "provinsi": "Jawa Timur",
+    "lintang": -6.9253999,
+    "bujur": 113.9060624,
+    "elevasi": 82,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.71",
+    "kota": "Kota Kediri",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.8480156,
+    "bujur": 112.0178286,
+    "elevasi": 77,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.72",
+    "kota": "Kota Blitar",
+    "provinsi": "Jawa Timur",
+    "lintang": -8.0954627,
+    "bujur": 112.1609056,
+    "elevasi": 178,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.73",
+    "kota": "Kota Malang",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.99338,
+    "bujur": 112.6199246,
+    "elevasi": 440,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.74",
+    "kota": "Kota Probolinggo",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.7764226,
+    "bujur": 113.2037131,
+    "elevasi": 26,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.75",
+    "kota": "Kota Pasuruan",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.6469193,
+    "bujur": 112.8999225,
+    "elevasi": 8,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.76",
+    "kota": "Kota Mojokerto",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.4704747,
+    "bujur": 112.4401329,
+    "elevasi": 26,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.77",
+    "kota": "Kota Madiun",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.6310587,
+    "bujur": 111.5300159,
+    "elevasi": 68,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.78",
+    "kota": "Kota Surabaya",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.225452,
+    "bujur": 112.7596424,
+    "elevasi": 5,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "35.79",
+    "kota": "Kota Batu",
+    "provinsi": "Jawa Timur",
+    "lintang": -7.8739658,
+    "bujur": 112.5224563,
+    "elevasi": 922,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "36.01",
+    "kota": "Kabupaten Pandeglang",
+    "provinsi": "Banten",
+    "lintang": -6.7482706,
+    "bujur": 105.6881788,
+    "elevasi": 156,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "36.02",
+    "kota": "Kabupaten Lebak",
+    "provinsi": "Banten",
+    "lintang": -6.5643956,
+    "bujur": 106.2522143,
+    "elevasi": 161,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "36.03",
+    "kota": "Kabupaten Tangerang",
+    "provinsi": "Banten",
+    "lintang": -6.1870007,
+    "bujur": 106.487658,
+    "elevasi": 23,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "36.04",
+    "kota": "Kabupaten Serang",
+    "provinsi": "Banten",
+    "lintang": -6.1397339,
+    "bujur": 106.040506,
+    "elevasi": 216,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "36.71",
+    "kota": "Kota Tangerang",
+    "provinsi": "Banten",
+    "lintang": -6.1701796,
+    "bujur": 106.6403236,
+    "elevasi": 11,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "36.72",
+    "kota": "Kota Cilegon",
+    "provinsi": "Banten",
+    "lintang": -6.0186516,
+    "bujur": 106.0558218,
+    "elevasi": 23,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "36.73",
+    "kota": "Kota Serang",
+    "provinsi": "Banten",
+    "lintang": -6.1169309,
+    "bujur": 106.1538519,
+    "elevasi": 29,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "36.74",
+    "kota": "Kota Tangerang Selatan",
+    "provinsi": "Banten",
+    "lintang": -6.2835218,
+    "bujur": 106.7112933,
+    "elevasi": 39,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "51.01",
+    "kota": "Kabupaten Jembrana",
+    "provinsi": "Bali",
+    "lintang": -8.3648684,
+    "bujur": 114.6197019,
+    "elevasi": 9,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "51.02",
+    "kota": "Kabupaten Tabanan",
+    "provinsi": "Bali",
+    "lintang": -8.4595561,
+    "bujur": 115.0465991,
+    "elevasi": 246,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "51.03",
+    "kota": "Kabupaten Badung",
+    "provinsi": "Bali",
+    "lintang": -8.5819296,
+    "bujur": 115.1770586,
+    "elevasi": 101,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "51.04",
+    "kota": "Kabupaten Gianyar",
+    "provinsi": "Bali",
+    "lintang": -8.5414995,
+    "bujur": 115.3273374,
+    "elevasi": 131,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "51.05",
+    "kota": "Kabupaten Klungkung",
+    "provinsi": "Bali",
+    "lintang": -8.727807,
+    "bujur": 115.5444231,
+    "elevasi": 487,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "51.06",
+    "kota": "Kabupaten Bangli",
+    "provinsi": "Bali",
+    "lintang": -8.2975884,
+    "bujur": 115.3548713,
+    "elevasi": 1173,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "51.07",
+    "kota": "Kabupaten Karangasem",
+    "provinsi": "Bali",
+    "lintang": -8.3465933,
+    "bujur": 115.5207358,
+    "elevasi": 2513,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "51.08",
+    "kota": "Kabupaten Buleleng",
+    "provinsi": "Bali",
+    "lintang": -8.2238968,
+    "bujur": 114.9516869,
+    "elevasi": 123,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "51.71",
+    "kota": "Kota Denpasar",
+    "provinsi": "Bali",
+    "lintang": -8.6588998,
+    "bujur": 115.2385405,
+    "elevasi": 22,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "52.01",
+    "kota": "Kabupaten Lombok Barat",
+    "provinsi": "Nusa Tenggara Barat",
+    "lintang": -8.6464599,
+    "bujur": 116.1123078,
+    "elevasi": 21,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "52.02",
+    "kota": "Kabupaten Lombok Tengah",
+    "provinsi": "Nusa Tenggara Barat",
+    "lintang": -8.694623,
+    "bujur": 116.2777073,
+    "elevasi": 125,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "52.03",
+    "kota": "Kabupaten Lombok Timur",
+    "provinsi": "Nusa Tenggara Barat",
+    "lintang": -8.5134471,
+    "bujur": 116.5609857,
+    "elevasi": 474,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "52.04",
+    "kota": "Kabupaten Sumbawa",
+    "provinsi": "Nusa Tenggara Barat",
+    "lintang": -8.6529334,
+    "bujur": 117.3616476,
+    "elevasi": 456,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "52.05",
+    "kota": "Kabupaten Dompu",
+    "provinsi": "Nusa Tenggara Barat",
+    "lintang": -8.5363958,
+    "bujur": 118.3461948,
+    "elevasi": 112,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "52.06",
+    "kota": "Kabupaten Bima",
+    "provinsi": "Nusa Tenggara Barat",
+    "lintang": -8.1388549,
+    "bujur": 117.7709799,
+    "elevasi": 12,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "52.07",
+    "kota": "Kabupaten Sumbawa Barat",
+    "provinsi": "Nusa Tenggara Barat",
+    "lintang": -8.9292907,
+    "bujur": 116.8910342,
+    "elevasi": 478,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "52.08",
+    "kota": "Kabupaten Lombok Utara",
+    "provinsi": "Nusa Tenggara Barat",
+    "lintang": -8.3739076,
+    "bujur": 116.2777073,
+    "elevasi": 703,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "52.71",
+    "kota": "Kota Mataram",
+    "provinsi": "Nusa Tenggara Barat",
+    "lintang": -8.5970808,
+    "bujur": 116.1004894,
+    "elevasi": 15,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "52.72",
+    "kota": "Kota Bima",
+    "provinsi": "Nusa Tenggara Barat",
+    "lintang": -8.4642661,
+    "bujur": 118.7449028,
+    "elevasi": 19,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.01",
+    "kota": "Kabupaten Kupang",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -9.9906166,
+    "bujur": 123.8857747,
+    "elevasi": 476,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.02",
+    "kota": "Kab Timor Tengah Selatan",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -9.7762816,
+    "bujur": 124.4198243,
+    "elevasi": 491,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.03",
+    "kota": "Kabupaten Timor Tengah Utara",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -9.4522647,
+    "bujur": 124.597132,
+    "elevasi": 447,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.04",
+    "kota": "Kabupaten Belu",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -9.1538978,
+    "bujur": 124.906551,
+    "elevasi": 382,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.05",
+    "kota": "Kabupaten Alor",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -8.2928427,
+    "bujur": 124.5528387,
+    "elevasi": 485,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.06",
+    "kota": "Kabupaten Flores Timur",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -8.3130942,
+    "bujur": 122.9663018,
+    "elevasi": 1410,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.07",
+    "kota": "Kabupaten Sikka",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -8.6766175,
+    "bujur": 122.1291843,
+    "elevasi": 318,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.08",
+    "kota": "Kabupaten Ende",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -8.6762912,
+    "bujur": 121.7195459,
+    "elevasi": 338,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.09",
+    "kota": "Kabupaten Ngada",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -8.7430424,
+    "bujur": 120.9876321,
+    "elevasi": 1125,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.10",
+    "kota": "Kabupaten Manggarai",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -8.6796987,
+    "bujur": 120.3896651,
+    "elevasi": 729,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.11",
+    "kota": "Kabupaten Sumba Timur",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -9.9802103,
+    "bujur": 120.3435506,
+    "elevasi": 793,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.12",
+    "kota": "Kabupaten Sumba Barat",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -9.6548326,
+    "bujur": 119.3947135,
+    "elevasi": 435,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.13",
+    "kota": "Kabupaten Lembata",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -8.4719075,
+    "bujur": 123.4831906,
+    "elevasi": 641,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.14",
+    "kota": "Kabupaten Rote Ndao",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -10.7386421,
+    "bujur": 123.1239049,
+    "elevasi": 231,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.15",
+    "kota": "Kabupaten Manggarai Barat",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -8.6688149,
+    "bujur": 120.0665236,
+    "elevasi": 400,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.16",
+    "kota": "Kabupaten Nagekeo",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -8.6753545,
+    "bujur": 121.3084088,
+    "elevasi": 518,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.17",
+    "kota": "Kabupaten Sumba Tengah",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -9.4879226,
+    "bujur": 119.6962677,
+    "elevasi": 412,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.18",
+    "kota": "Kabupaten Sumba Barat Daya",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -9.539139,
+    "bujur": 119.1390642,
+    "elevasi": 330,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.19",
+    "kota": "Kabupaten Manggarai Timur",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -8.6206712,
+    "bujur": 120.6199895,
+    "elevasi": 1546,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.20",
+    "kota": "Kabupaten Sabu Raijua",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -10.5541116,
+    "bujur": 121.8334868,
+    "elevasi": 157,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.21",
+    "kota": "Kabupaten Malaka",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -9.5308587,
+    "bujur": 124.906551,
+    "elevasi": 224,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "53.71",
+    "kota": "Kota Kupang",
+    "provinsi": "Nusa Tenggara Timur",
+    "lintang": -10.1771997,
+    "bujur": 123.6070329,
+    "elevasi": 103,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "61.01",
+    "kota": "Kabupaten Sambas",
+    "provinsi": "Kalimantan Barat",
+    "lintang": 1.3625191,
+    "bujur": 109.2831531,
+    "elevasi": 3,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "61.02",
+    "kota": "Kabupaten Mempawah",
+    "provinsi": "Kalimantan Barat",
+    "lintang": 0.3897139,
+    "bujur": 109.140438,
+    "elevasi": 17,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "61.03",
+    "kota": "Kabupaten Sanggau",
+    "provinsi": "Kalimantan Barat",
+    "lintang": 0.1400117,
+    "bujur": 110.5215459,
+    "elevasi": 123,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "61.04",
+    "kota": "Kabupaten Ketapang",
+    "provinsi": "Kalimantan Barat",
+    "lintang": -1.5697615,
+    "bujur": 110.5215459,
+    "elevasi": 19,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "61.05",
+    "kota": "Kabupaten Sintang",
+    "provinsi": "Kalimantan Barat",
+    "lintang": -0.1378068,
+    "bujur": 112.8105512,
+    "elevasi": 595,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "61.06",
+    "kota": "Kabupaten Kapuas Hulu",
+    "provinsi": "Kalimantan Barat",
+    "lintang": 0.8336697,
+    "bujur": 113.0011989,
+    "elevasi": 40,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "61.07",
+    "kota": "Kabupaten Bengkayang",
+    "provinsi": "Kalimantan Barat",
+    "lintang": 0.8304898,
+    "bujur": 109.4848335,
+    "elevasi": 83,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "61.08",
+    "kota": "Kabupaten Landak",
+    "provinsi": "Kalimantan Barat",
+    "lintang": 0.4237287,
+    "bujur": 109.7591675,
+    "elevasi": 45,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "61.09",
+    "kota": "Kabupaten Sekadau",
+    "provinsi": "Kalimantan Barat",
+    "lintang": -0.0697175,
+    "bujur": 110.9983515,
+    "elevasi": 35,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "61.10",
+    "kota": "Kabupaten Melawi",
+    "provinsi": "Kalimantan Barat",
+    "lintang": -0.7000681,
+    "bujur": 111.6660725,
+    "elevasi": 82,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "61.11",
+    "kota": "Kabupaten Kayong Utara",
+    "provinsi": "Kalimantan Barat",
+    "lintang": -0.9225877,
+    "bujur": 110.0449662,
+    "elevasi": 27,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "61.12",
+    "kota": "Kabupaten Kubu Raya",
+    "provinsi": "Kalimantan Barat",
+    "lintang": -0.3533938,
+    "bujur": 109.4735066,
+    "elevasi": 11,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "61.71",
+    "kota": "Kota Pontianak",
+    "provinsi": "Kalimantan Barat",
+    "lintang": -0.0263303,
+    "bujur": 109.3425039,
+    "elevasi": 7,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "61.72",
+    "kota": "Kota Singkawang",
+    "provinsi": "Kalimantan Barat",
+    "lintang": 0.9060204,
+    "bujur": 108.9872049,
+    "elevasi": 5,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "62.01",
+    "kota": "Kabupaten Kotawaringin Barat",
+    "provinsi": "Kalimantan Tengah",
+    "lintang": -2.5063419,
+    "bujur": 111.7614661,
+    "elevasi": 20,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "62.02",
+    "kota": "Kabupaten Kotawaringin Timur",
+    "provinsi": "Kalimantan Tengah",
+    "lintang": -2.1225475,
+    "bujur": 112.8105512,
+    "elevasi": 15,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "62.03",
+    "kota": "Kabupaten Kapuas",
+    "provinsi": "Kalimantan Tengah",
+    "lintang": -1.8116445,
+    "bujur": 114.3341432,
+    "elevasi": 26,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "62.04",
+    "kota": "Kabupaten Barito Selatan",
+    "provinsi": "Kalimantan Tengah",
+    "lintang": -1.875943,
+    "bujur": 114.8092691,
+    "elevasi": 19,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "62.05",
+    "kota": "Kabupaten Barito Utara",
+    "provinsi": "Kalimantan Tengah",
+    "lintang": -0.9587136,
+    "bujur": 115.094045,
+    "elevasi": 50,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "62.06",
+    "kota": "Kabupaten Katingan",
+    "provinsi": "Kalimantan Tengah",
+    "lintang": -0.9758379,
+    "bujur": 112.8105512,
+    "elevasi": 96,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "62.07",
+    "kota": "Kabupaten Seruyan",
+    "provinsi": "Kalimantan Tengah",
+    "lintang": -3.0123467,
+    "bujur": 112.4291464,
+    "elevasi": 6,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "62.08",
+    "kota": "Kabupaten Sukamara",
+    "provinsi": "Kalimantan Tengah",
+    "lintang": -2.6267517,
+    "bujur": 111.2368084,
+    "elevasi": 20,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "62.09",
+    "kota": "Kabupaten Lamandau",
+    "provinsi": "Kalimantan Tengah",
+    "lintang": -1.8526377,
+    "bujur": 111.2845025,
+    "elevasi": 106,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "62.10",
+    "kota": "Kabupaten Gunung Mas",
+    "provinsi": "Kalimantan Tengah",
+    "lintang": -1.2522464,
+    "bujur": 113.5728501,
+    "elevasi": 84,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "62.11",
+    "kota": "Kabupaten Pulang Pisau",
+    "provinsi": "Kalimantan Tengah",
+    "lintang": -2.7582411,
+    "bujur": 114.2657969,
+    "elevasi": 4,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "62.12",
+    "kota": "Kabupaten Murung Raya",
+    "provinsi": "Kalimantan Tengah",
+    "lintang": -0.1362171,
+    "bujur": 114.3341432,
+    "elevasi": 574,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "62.13",
+    "kota": "Kabupaten Barito Timur",
+    "provinsi": "Kalimantan Tengah",
+    "lintang": -2.0123999,
+    "bujur": 115.188916,
+    "elevasi": 54,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "62.71",
+    "kota": "Kota Palangkaraya",
+    "provinsi": "Kalimantan Tengah",
+    "lintang": -2.2161048,
+    "bujur": 113.913977,
+    "elevasi": 16,
+    "zona_waktu": "WIB"
+  },
+  {
+    "kode_kemendagri": "63.01",
+    "kota": "Kabupaten Tanah Laut",
+    "provinsi": "Kalimantan Selatan",
+    "lintang": -3.7694047,
+    "bujur": 114.8092691,
+    "elevasi": 23,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "63.02",
+    "kota": "Kabupaten Kotabaru",
+    "provinsi": "Kalimantan Selatan",
+    "lintang": -3.0029841,
+    "bujur": 115.9467997,
+    "elevasi": 85,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "63.03",
+    "kota": "Kabupaten Banjar",
+    "provinsi": "Kalimantan Selatan",
+    "lintang": -3.3200228,
+    "bujur": 114.9991464,
+    "elevasi": 17,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "63.04",
+    "kota": "Kabupaten Barito Kuala",
+    "provinsi": "Kalimantan Selatan",
+    "lintang": -3.0714738,
+    "bujur": 114.6667939,
+    "elevasi": 5,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "63.05",
+    "kota": "Kabupaten Tapin",
+    "provinsi": "Kalimantan Selatan",
+    "lintang": -2.9160746,
+    "bujur": 115.0465991,
+    "elevasi": 4,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "63.06",
+    "kota": "Kabupaten Hulu Sungai Selatan",
+    "provinsi": "Kalimantan Selatan",
+    "lintang": -2.7662681,
+    "bujur": 115.2363408,
+    "elevasi": 15,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "63.07",
+    "kota": "Kabupaten Hulu Sungai Tengah",
+    "provinsi": "Kalimantan Selatan",
+    "lintang": -2.6153162,
+    "bujur": 115.5207358,
+    "elevasi": 142,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "63.08",
+    "kota": "Kabupaten Hulu Sungai Utara",
+    "provinsi": "Kalimantan Selatan",
+    "lintang": -2.4421225,
+    "bujur": 115.188916,
+    "elevasi": 6,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "63.09",
+    "kota": "Kabupaten Tabalong",
+    "provinsi": "Kalimantan Selatan",
+    "lintang": -1.864302,
+    "bujur": 115.5681084,
+    "elevasi": 71,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "63.10",
+    "kota": "Kabupaten Tanah Bumbu",
+    "provinsi": "Kalimantan Selatan",
+    "lintang": -3.4512244,
+    "bujur": 115.5681084,
+    "elevasi": 50,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "63.11",
+    "kota": "Kabupaten Balangan",
+    "provinsi": "Kalimantan Selatan",
+    "lintang": -2.3260425,
+    "bujur": 115.6154732,
+    "elevasi": 49,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "63.71",
+    "kota": "Kota Banjarmasin",
+    "provinsi": "Kalimantan Selatan",
+    "lintang": -3.3123016,
+    "bujur": 114.5765846,
+    "elevasi": 7,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "63.72",
+    "kota": "Kota Banjarbaru",
+    "provinsi": "Kalimantan Selatan",
+    "lintang": -3.3123016,
+    "bujur": 114.5765846,
+    "elevasi": 7,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "64.01",
+    "kota": "Kabupaten Paser",
+    "provinsi": "Kalimantan Timur",
+    "lintang": -1.7175266,
+    "bujur": 115.9467997,
+    "elevasi": 153,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "64.02",
+    "kota": "Kabupaten Kutai Kartanegara",
+    "provinsi": "Kalimantan Timur",
+    "lintang": -0.1336655,
+    "bujur": 116.6081653,
+    "elevasi": 5,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "64.03",
+    "kota": "Kabupaten Berau",
+    "provinsi": "Kalimantan Timur",
+    "lintang": 2.2791966,
+    "bujur": 118.0908588,
+    "elevasi": 14,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "64.07",
+    "kota": "Kabupaten Kutai Barat",
+    "provinsi": "Kalimantan Timur",
+    "lintang": -0.1674584,
+    "bujur": 115.6253477,
+    "elevasi": 161,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "64.08",
+    "kota": "Kabupaten Kutai Timur",
+    "provinsi": "Kalimantan Timur",
+    "lintang": 0.9433774,
+    "bujur": 116.9852422,
+    "elevasi": 90,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "64.09",
+    "kota": "Kabupaten Penajam Paser Utara",
+    "provinsi": "Kalimantan Timur",
+    "lintang": -1.2917094,
+    "bujur": 116.5137964,
+    "elevasi": 55,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "64.11",
+    "kota": "Kabupaten Mahakam Ulu",
+    "provinsi": "Kalimantan Timur",
+    "lintang": 0.9616678,
+    "bujur": 114.7142918,
+    "elevasi": 218,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "64.71",
+    "kota": "Kota Balikpapan",
+    "provinsi": "Kalimantan Timur",
+    "lintang": -1.2379274,
+    "bujur": 116.8528526,
+    "elevasi": 20,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "64.72",
+    "kota": "Kota Samarinda",
+    "provinsi": "Kalimantan Timur",
+    "lintang": -0.4966137,
+    "bujur": 117.1616717,
+    "elevasi": 5,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "64.74",
+    "kota": "Kota Bontang",
+    "provinsi": "Kalimantan Timur",
+    "lintang": 0.120863,
+    "bujur": 117.4800445,
+    "elevasi": 15,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "65.01",
+    "kota": "Kabupaten Bulungan",
+    "provinsi": "Kalimantan Utara",
+    "lintang": 2.9042476,
+    "bujur": 116.9852422,
+    "elevasi": 296,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "65.02",
+    "kota": "Kabupaten Malinau",
+    "provinsi": "Kalimantan Utara",
+    "lintang": 3.0730929,
+    "bujur": 116.0413889,
+    "elevasi": 611,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "65.03",
+    "kota": "Kabupaten Nunukan",
+    "provinsi": "Kalimantan Utara",
+    "lintang": 4.0809649,
+    "bujur": 116.6081653,
+    "elevasi": 717,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "65.04",
+    "kota": "Kabupaten Tana Tidung",
+    "provinsi": "Kalimantan Utara",
+    "lintang": 3.551869,
+    "bujur": 117.0794082,
+    "elevasi": 25,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "65.71",
+    "kota": "Kota Tarakan",
+    "provinsi": "Kalimantan Utara",
+    "lintang": 3.3273599,
+    "bujur": 117.5785049,
+    "elevasi": 21,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "71.01",
+    "kota": "Kabupaten Bolaang Mongondow",
+    "provinsi": "Sulawesi Utara",
+    "lintang": 0.6870994,
+    "bujur": 124.0641419,
+    "elevasi": 590,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "71.02",
+    "kota": "Kabupaten Minahasa",
+    "provinsi": "Sulawesi Utara",
+    "lintang": 1.2168837,
+    "bujur": 124.8182593,
+    "elevasi": 821,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "71.03",
+    "kota": "Kabupaten Kepulauan Sangihe",
+    "provinsi": "Sulawesi Utara",
+    "lintang": 2.940319308852,
+    "bujur": 125.49974230881,
+    "elevasi": 0,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "71.04",
+    "kota": "Kabupaten Kepulauan Talaud",
+    "provinsi": "Sulawesi Utara",
+    "lintang": 4.2845612091425,
+    "bujur": 126.89968887042,
+    "elevasi": 36,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "71.05",
+    "kota": "Kabupaten Minahasa Selatan",
+    "provinsi": "Sulawesi Utara",
+    "lintang": 1.0946773,
+    "bujur": 124.4641848,
+    "elevasi": 585,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "71.06",
+    "kota": "Kabupaten Minahasa Utara",
+    "provinsi": "Sulawesi Utara",
+    "lintang": 1.5327973,
+    "bujur": 124.994751,
+    "elevasi": 219,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "71.07",
+    "kota": "Kabupaten Minahasa Tenggara",
+    "provinsi": "Sulawesi Utara",
+    "lintang": 1.0278551,
+    "bujur": 124.7298765,
+    "elevasi": 360,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "71.08",
+    "kota": "Kabupaten Bolaang Mongondow Utara",
+    "provinsi": "Sulawesi Utara",
+    "lintang": 0.9070359,
+    "bujur": 123.2657311,
+    "elevasi": 8,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "71.09",
+    "kota": "Kabupaten Kepulauan Siau Tagulandang Biaro",
+    "provinsi": "Sulawesi Utara",
+    "lintang": 2.345964,
+    "bujur": 125.4124355,
+    "elevasi": 299,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "71.10",
+    "kota": "Kabupaten Bolaang Mongondow Timur",
+    "provinsi": "Sulawesi Utara",
+    "lintang": 0.7152651,
+    "bujur": 124.4641848,
+    "elevasi": 1059,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "71.11",
+    "kota": "Kabupaten Bolaang Mongondow Selatan",
+    "provinsi": "Sulawesi Utara",
+    "lintang": 0.4439955,
+    "bujur": 124.2617614,
+    "elevasi": 27,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "71.71",
+    "kota": "Kota Manado",
+    "provinsi": "Sulawesi Utara",
+    "lintang": 1.4748305,
+    "bujur": 124.8420794,
+    "elevasi": 56,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "71.72",
+    "kota": "Kota Bitung",
+    "provinsi": "Sulawesi Utara",
+    "lintang": 1.4403744,
+    "bujur": 125.1216524,
+    "elevasi": 16,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "71.73",
+    "kota": "Kota Tomohon",
+    "provinsi": "Sulawesi Utara",
+    "lintang": 1.3271885,
+    "bujur": 124.8384833,
+    "elevasi": 773,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "71.74",
+    "kota": "Kota Kotamobagu",
+    "provinsi": "Sulawesi Utara",
+    "lintang": 0.7243733,
+    "bujur": 124.3199316,
+    "elevasi": 257,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "72.01",
+    "kota": "Kabupaten Banggai",
+    "provinsi": "Sulawesi Tengah",
+    "lintang": -0.956178,
+    "bujur": 122.6277455,
+    "elevasi": 1382,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "72.02",
+    "kota": "Kabupaten Poso",
+    "provinsi": "Sulawesi Tengah",
+    "lintang": -1.3949976,
+    "bujur": 120.753772,
+    "elevasi": 10,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "72.03",
+    "kota": "Kabupaten Donggala",
+    "provinsi": "Sulawesi Tengah",
+    "lintang": -0.4233155,
+    "bujur": 119.8352303,
+    "elevasi": 258,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "72.04",
+    "kota": "Kabupaten Toli Toli",
+    "provinsi": "Sulawesi Tengah",
+    "lintang": 0.8768231,
+    "bujur": 120.7579834,
+    "elevasi": 157,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "72.05",
+    "kota": "Kabupaten Buol",
+    "provinsi": "Sulawesi Tengah",
+    "lintang": 1.1348741,
+    "bujur": 121.4370471,
+    "elevasi": 7,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "72.06",
+    "kota": "Kabupaten Morowali",
+    "provinsi": "Sulawesi Tengah",
+    "lintang": -2.6987231,
+    "bujur": 121.9017954,
+    "elevasi": 478,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "72.07",
+    "kota": "Kabupaten Banggai Kepulauan",
+    "provinsi": "Sulawesi Tengah",
+    "lintang": -1.3075939,
+    "bujur": 123.0338767,
+    "elevasi": 231,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "72.08",
+    "kota": "Kabupaten Parigi Moutong",
+    "provinsi": "Sulawesi Tengah",
+    "lintang": 0.4856312,
+    "bujur": 120.9328208,
+    "elevasi": 12,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "72.09",
+    "kota": "Kabupaten Tojo Una Una",
+    "provinsi": "Sulawesi Tengah",
+    "lintang": -1.098757,
+    "bujur": 121.5370003,
+    "elevasi": 431,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "72.10",
+    "kota": "Kabupaten Sigi",
+    "provinsi": "Sulawesi Tengah",
+    "lintang": -1.3859904,
+    "bujur": 119.8815203,
+    "elevasi": 1590,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "72.11",
+    "kota": "Kabupaten Banggai Laut",
+    "provinsi": "Sulawesi Tengah",
+    "lintang": -1.6734525,
+    "bujur": 123.5504076,
+    "elevasi": 286,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "72.12",
+    "kota": "Kabupaten Morowali Utara",
+    "provinsi": "Sulawesi Tengah",
+    "lintang": -1.6311761,
+    "bujur": 121.3541631,
+    "elevasi": 1190,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "72.71",
+    "kota": "Kota Palu",
+    "provinsi": "Sulawesi Tengah",
+    "lintang": -0.9002915,
+    "bujur": 119.8779987,
+    "elevasi": 32,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.01",
+    "kota": "Kabupaten Kepulauan Selayar",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -6.2869786,
+    "bujur": 120.5048792,
+    "elevasi": 363,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.02",
+    "kota": "Kabupaten Bulukumba",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -5.4329368,
+    "bujur": 120.2051096,
+    "elevasi": 119,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.03",
+    "kota": "Kabupaten Bantaeng",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -5.5169316,
+    "bujur": 120.0202964,
+    "elevasi": 145,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.04",
+    "kota": "Kabupaten Jeneponto",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -5.554579,
+    "bujur": 119.6730939,
+    "elevasi": 122,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.05",
+    "kota": "Kabupaten Takalar",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -5.4162493,
+    "bujur": 119.4875668,
+    "elevasi": 14,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.06",
+    "kota": "Kabupaten Gowa",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -5.3102888,
+    "bujur": 119.742604,
+    "elevasi": 696,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.07",
+    "kota": "Kabupaten Sinjai",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -5.2171961,
+    "bujur": 120.112735,
+    "elevasi": 325,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.08",
+    "kota": "Kabupaten Bone",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -4.7443383,
+    "bujur": 120.0665236,
+    "elevasi": 113,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.09",
+    "kota": "Kabupaten Maros",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -5.0549145,
+    "bujur": 119.6962677,
+    "elevasi": 198,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.10",
+    "kota": "Kabupaten Pangkajene Kepulauan",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -4.805035,
+    "bujur": 119.5571677,
+    "elevasi": 3,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.11",
+    "kota": "Kabupaten Barru",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -4.436417,
+    "bujur": 119.6499162,
+    "elevasi": 120,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.12",
+    "kota": "Kabupaten Soppeng",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -4.3518541,
+    "bujur": 119.9277947,
+    "elevasi": 39,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.13",
+    "kota": "Kabupaten Wajo",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -4.022229,
+    "bujur": 120.0665236,
+    "elevasi": 57,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.14",
+    "kota": "Kabupaten Sidenreng Rappang",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -3.7738981,
+    "bujur": 120.0202964,
+    "elevasi": 51,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.15",
+    "kota": "Kabupaten Pinrang",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -3.6483486,
+    "bujur": 119.5571677,
+    "elevasi": 105,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.16",
+    "kota": "Kabupaten Enrekang",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -3.4590744,
+    "bujur": 119.8815203,
+    "elevasi": 969,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.17",
+    "kota": "Kabupaten Luwu",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -3.3052214,
+    "bujur": 120.2512728,
+    "elevasi": 65,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.18",
+    "kota": "Kabupaten Tana Toraja",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -3.0753003,
+    "bujur": 119.742604,
+    "elevasi": 1095,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.22",
+    "kota": "Kabupaten Luwu Utara",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -2.2690446,
+    "bujur": 119.9740534,
+    "elevasi": 1220,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.24",
+    "kota": "Kabupaten Luwu Timur",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -2.5825518,
+    "bujur": 121.1710389,
+    "elevasi": 1151,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.26",
+    "kota": "Kabupaten Toraja Utara",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -2.8621942,
+    "bujur": 119.8352303,
+    "elevasi": 1542,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.71",
+    "kota": "Kota Makassar",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -5.1831744,
+    "bujur": 119.4192385,
+    "elevasi": 8,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.72",
+    "kota": "Kota Pare Pare",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -4.0096221,
+    "bujur": 119.6290617,
+    "elevasi": 14,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "73.73",
+    "kota": "Kota Palopo",
+    "provinsi": "Sulawesi Selatan",
+    "lintang": -3.0016343,
+    "bujur": 120.1985141,
+    "elevasi": 10,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "74.01",
+    "kota": "Kabupaten Kolaka",
+    "provinsi": "Sulawesi Tenggara",
+    "lintang": -4.0673734,
+    "bujur": 121.6207639,
+    "elevasi": 8,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "74.02",
+    "kota": "Kabupaten Konawe",
+    "provinsi": "Sulawesi Tenggara",
+    "lintang": -3.9380432,
+    "bujur": 122.0837445,
+    "elevasi": 31,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "74.03",
+    "kota": "Kabupaten Muna",
+    "provinsi": "Sulawesi Tenggara",
+    "lintang": -4.901629,
+    "bujur": 122.6277455,
+    "elevasi": 202,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "74.04",
+    "kota": "Kabupaten Buton",
+    "provinsi": "Sulawesi Tenggara",
+    "lintang": -5.3096355,
+    "bujur": 122.9888319,
+    "elevasi": 130,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "74.05",
+    "kota": "Kabupaten Konawe Selatan",
+    "provinsi": "Sulawesi Tenggara",
+    "lintang": -4.2027915,
+    "bujur": 122.4467238,
+    "elevasi": 277,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "74.06",
+    "kota": "Kabupaten Bombana",
+    "provinsi": "Sulawesi Tenggara",
+    "lintang": -4.6543462,
+    "bujur": 121.9017954,
+    "elevasi": 81,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "74.07",
+    "kota": "Kabupaten Wakatobi",
+    "provinsi": "Sulawesi Tenggara",
+    "lintang": -5.67046665,
+    "bujur": 123.79394565,
+    "elevasi": 0,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "74.08",
+    "kota": "Kabupaten Kolaka Utara",
+    "provinsi": "Sulawesi Tenggara",
+    "lintang": -3.1347227,
+    "bujur": 121.1710389,
+    "elevasi": 546,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "74.09",
+    "kota": "Kabupaten Konawe Utara",
+    "provinsi": "Sulawesi Tenggara",
+    "lintang": -3.3803291,
+    "bujur": 122.0837445,
+    "elevasi": 22,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "74.10",
+    "kota": "Kabupaten Buton Utara",
+    "provinsi": "Sulawesi Tenggara",
+    "lintang": -4.7023424,
+    "bujur": 123.0338767,
+    "elevasi": 13,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "74.11",
+    "kota": "Kabupaten Kolaka Timur",
+    "provinsi": "Sulawesi Tenggara",
+    "lintang": -4.2279225,
+    "bujur": 121.9017954,
+    "elevasi": 51,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "74.12",
+    "kota": "Kabupaten Konawe Kepulauan",
+    "provinsi": "Sulawesi Tenggara",
+    "lintang": -4.1361465,
+    "bujur": 123.1239049,
+    "elevasi": 646,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "74.13",
+    "kota": "Kabupaten Muna Barat",
+    "provinsi": "Sulawesi Tenggara",
+    "lintang": -4.7990321,
+    "bujur": 122.4969606,
+    "elevasi": 24,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "74.14",
+    "kota": "Kabupaten Buton Tengah",
+    "provinsi": "Sulawesi Tenggara",
+    "lintang": -5.291781,
+    "bujur": 122.3787597,
+    "elevasi": 90,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "74.15",
+    "kota": "Kabupaten Buton Selatan",
+    "provinsi": "Sulawesi Tenggara",
+    "lintang": -5.3096355,
+    "bujur": 122.9888319,
+    "elevasi": 130,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "74.71",
+    "kota": "Kota Kendari",
+    "provinsi": "Sulawesi Tenggara",
+    "lintang": -3.9984597,
+    "bujur": 122.5129742,
+    "elevasi": 3,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "74.72",
+    "kota": "Kota Bau Bau",
+    "provinsi": "Sulawesi Tenggara",
+    "lintang": -5.507078,
+    "bujur": 122.596901,
+    "elevasi": 287,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "75.01",
+    "kota": "Kabupaten Gorontalo",
+    "provinsi": "Gorontalo",
+    "lintang": 0.5435442,
+    "bujur": 123.0567693,
+    "elevasi": 7,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "75.02",
+    "kota": "Kabupaten Boalemo",
+    "provinsi": "Gorontalo",
+    "lintang": 0.4933486,
+    "bujur": 122.297008,
+    "elevasi": 8,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "75.03",
+    "kota": "Kabupaten Bone Bolango",
+    "provinsi": "Gorontalo",
+    "lintang": 0.5657885,
+    "bujur": 123.3486147,
+    "elevasi": 525,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "75.04",
+    "kota": "Kabupaten Pahuwato",
+    "provinsi": "Gorontalo",
+    "lintang": 0.7055278,
+    "bujur": 121.7195459,
+    "elevasi": 345,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "75.05",
+    "kota": "Kabupaten Gorontalo Utara",
+    "provinsi": "Gorontalo",
+    "lintang": 0.9252647,
+    "bujur": 122.4920088,
+    "elevasi": 1210,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "75.71",
+    "kota": "Kota Gorontalo",
+    "provinsi": "Gorontalo",
+    "lintang": 0.5435442,
+    "bujur": 123.0567693,
+    "elevasi": 7,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "76.01",
+    "kota": "Kabupaten Pasangkayu",
+    "provinsi": "Sulawesi Barat",
+    "lintang": -1.5264542,
+    "bujur": 119.5107708,
+    "elevasi": 170,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "76.02",
+    "kota": "Kabupaten Mamuju",
+    "provinsi": "Sulawesi Barat",
+    "lintang": -2.4920057,
+    "bujur": 119.3250347,
+    "elevasi": 200,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "76.03",
+    "kota": "Kabupaten Mamasa",
+    "provinsi": "Sulawesi Barat",
+    "lintang": -2.9429195,
+    "bujur": 119.3769057,
+    "elevasi": 1136,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "76.04",
+    "kota": "Kabupaten Polewali Mandar",
+    "provinsi": "Sulawesi Barat",
+    "lintang": -3.3419323,
+    "bujur": 119.1390642,
+    "elevasi": 24,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "76.05",
+    "kota": "Kabupaten Majene",
+    "provinsi": "Sulawesi Barat",
+    "lintang": -3.0297251,
+    "bujur": 118.9062794,
+    "elevasi": 388,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "76.06",
+    "kota": "Kabupaten Mamuju Tengah",
+    "provinsi": "Sulawesi Barat",
+    "lintang": -1.9354109,
+    "bujur": 119.5107708,
+    "elevasi": 485,
+    "zona_waktu": "WITA"
+  },
+  {
+    "kode_kemendagri": "81.01",
+    "kota": "Kabupaten Maluku Tengah",
+    "provinsi": "Maluku",
+    "lintang": -3.0166501,
+    "bujur": 129.4864411,
+    "elevasi": 352,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "81.02",
+    "kota": "Kabupaten Maluku Tenggara",
+    "provinsi": "Maluku",
+    "lintang": -3.2384616,
+    "bujur": 130.1452734,
+    "elevasi": 715,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "81.03",
+    "kota": "Kabupaten Kepulauan Tanimbar",
+    "provinsi": "Maluku",
+    "lintang": -7.5322642,
+    "bujur": 131.3611121,
+    "elevasi": 46,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "81.04",
+    "kota": "Kabupaten Buru",
+    "provinsi": "Maluku",
+    "lintang": -3.3307379,
+    "bujur": 126.6957216,
+    "elevasi": 534,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "81.05",
+    "kota": "Kabupaten Seram Bagian Timur",
+    "provinsi": "Maluku",
+    "lintang": -3.4233267,
+    "bujur": 130.2271243,
+    "elevasi": 165,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "81.06",
+    "kota": "Kabupaten Seram Bagian Barat",
+    "provinsi": "Maluku",
+    "lintang": -3.1271575,
+    "bujur": 128.4008357,
+    "elevasi": 755,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "81.07",
+    "kota": "Kabupaten Kepulauan Aru",
+    "provinsi": "Maluku",
+    "lintang": -6.206729431144,
+    "bujur": 134.47183940824,
+    "elevasi": 18,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "81.08",
+    "kota": "Kabupaten Maluku Barat Daya",
+    "provinsi": "Maluku",
+    "lintang": -7.7851588,
+    "bujur": 126.3498097,
+    "elevasi": 705,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "81.09",
+    "kota": "Kabupaten Buru Selatan",
+    "provinsi": "Maluku",
+    "lintang": -3.7273972,
+    "bujur": 126.6957216,
+    "elevasi": 808,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "81.71",
+    "kota": "Kota Ambon",
+    "provinsi": "Maluku",
+    "lintang": -3.6386665,
+    "bujur": 128.1688559,
+    "elevasi": 136,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "81.72",
+    "kota": "Kota Tual",
+    "provinsi": "Maluku",
+    "lintang": -5.626563,
+    "bujur": 132.7520867,
+    "elevasi": 30,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "82.01",
+    "kota": "Kabupaten Halmahera Barat",
+    "provinsi": "Maluku Utara",
+    "lintang": 1.3589663,
+    "bujur": 127.5960704,
+    "elevasi": 247,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "82.02",
+    "kota": "Kabupaten Halmahera Tengah",
+    "provinsi": "Maluku Utara",
+    "lintang": 0.4419543,
+    "bujur": 128.3587174,
+    "elevasi": 21,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "82.03",
+    "kota": "Kabupaten Halmahera Utara",
+    "provinsi": "Maluku Utara",
+    "lintang": 1.5074308,
+    "bujur": 127.8936663,
+    "elevasi": 100,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "82.04",
+    "kota": "Kabupaten Halmahera Selatan",
+    "provinsi": "Maluku Utara",
+    "lintang": -1.5109015,
+    "bujur": 127.7237678,
+    "elevasi": 1115,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "82.05",
+    "kota": "Kabupaten Kepulauan Sula",
+    "provinsi": "Maluku Utara",
+    "lintang": -2.1202688244058,
+    "bujur": 125.91284333639,
+    "elevasi": 342,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "82.06",
+    "kota": "Kabupaten Halmahera Timur",
+    "provinsi": "Maluku Utara",
+    "lintang": 1.3121235,
+    "bujur": 128.4849923,
+    "elevasi": 326,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "82.07",
+    "kota": "Kabupaten Pulau Morotai",
+    "provinsi": "Maluku Utara",
+    "lintang": 2.3656672,
+    "bujur": 128.4008357,
+    "elevasi": 549,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "82.08",
+    "kota": "Kabupaten Pulau Taliabu",
+    "provinsi": "Maluku Utara",
+    "lintang": -1.8268344,
+    "bujur": 124.7740793,
+    "elevasi": 589,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "82.71",
+    "kota": "Kota Ternate",
+    "provinsi": "Maluku Utara",
+    "lintang": 0.7710308,
+    "bujur": 127.3695176,
+    "elevasi": 42,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "82.72",
+    "kota": "Kota Tidore Kepulauan",
+    "provinsi": "Maluku Utara",
+    "lintang": 0.5060207,
+    "bujur": 127.681228,
+    "elevasi": 382,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "91.03",
+    "kota": "Kabupaten Jayapura",
+    "provinsi": "Papua",
+    "lintang": -2.987923,
+    "bujur": 139.8547266,
+    "elevasi": 600,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "91.05",
+    "kota": "Kabupaten Kepulauan Yapen",
+    "provinsi": "Papua",
+    "lintang": -1.7469359,
+    "bujur": 136.1709012,
+    "elevasi": 726,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "91.06",
+    "kota": "Kabupaten Biak Numfor",
+    "provinsi": "Papua",
+    "lintang": -1.0381022,
+    "bujur": 135.9800848,
+    "elevasi": 102,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "91.10",
+    "kota": "Kabupaten Sarmi",
+    "provinsi": "Papua",
+    "lintang": -1.8899839,
+    "bujur": 138.753058,
+    "elevasi": 10,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "91.11",
+    "kota": "Kabupaten Keerom",
+    "provinsi": "Papua",
+    "lintang": -3.3449536,
+    "bujur": 140.7624493,
+    "elevasi": 300,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "91.15",
+    "kota": "Kabupaten Waropen",
+    "provinsi": "Papua",
+    "lintang": -2.8435717,
+    "bujur": 136.670534,
+    "elevasi": 141,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "91.19",
+    "kota": "Kabupaten Supiori",
+    "provinsi": "Papua",
+    "lintang": -0.7295099,
+    "bujur": 135.6385125,
+    "elevasi": 119,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "91.20",
+    "kota": "Kabupaten Mamberamo Raya",
+    "provinsi": "Papua",
+    "lintang": -2.5331255,
+    "bujur": 137.7637565,
+    "elevasi": 622,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "91.71",
+    "kota": "Kota Jayapura",
+    "provinsi": "Papua",
+    "lintang": -2.5916025,
+    "bujur": 140.6689995,
+    "elevasi": 19,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "92.02",
+    "kota": "Kabupaten Manokwari",
+    "provinsi": "Papua Barat",
+    "lintang": -0.8614531,
+    "bujur": 134.0620421,
+    "elevasi": 23,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "92.03",
+    "kota": "Kabupaten Fak Fak",
+    "provinsi": "Papua Barat",
+    "lintang": -2.9301404,
+    "bujur": 132.3024382,
+    "elevasi": 30,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "92.06",
+    "kota": "Kabupaten Teluk Bintuni",
+    "provinsi": "Papua Barat",
+    "lintang": -1.9056848,
+    "bujur": 133.329466,
+    "elevasi": 71,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "92.07",
+    "kota": "Kabupaten Teluk Wondama",
+    "provinsi": "Papua Barat",
+    "lintang": -2.8551699,
+    "bujur": 134.3236557,
+    "elevasi": 671,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "92.08",
+    "kota": "Kabupaten Kaimana",
+    "provinsi": "Papua Barat",
+    "lintang": -3.288406,
+    "bujur": 133.9436788,
+    "elevasi": 1109,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "92.11",
+    "kota": "Kabupaten Manokwari Selatan",
+    "provinsi": "Papua Barat",
+    "lintang": -0.8912103,
+    "bujur": 134.046322,
+    "elevasi": 24,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "92.12",
+    "kota": "Kabupaten Pegunungan Arfak",
+    "provinsi": "Papua Barat",
+    "lintang": -1.1554562,
+    "bujur": 133.7142484,
+    "elevasi": 1985,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "93.01",
+    "kota": "Kabupaten Merauke",
+    "provinsi": "Papua Selatan",
+    "lintang": -8.4973832,
+    "bujur": 140.395268,
+    "elevasi": 9,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "93.02",
+    "kota": "Kabupaten Boven Digoel",
+    "provinsi": "Papua Selatan",
+    "lintang": -5.7400018,
+    "bujur": 140.3481835,
+    "elevasi": 57,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "93.03",
+    "kota": "Kabupaten Mappi",
+    "provinsi": "Papua Selatan",
+    "lintang": -6.7606468,
+    "bujur": 139.6911374,
+    "elevasi": 48,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "93.04",
+    "kota": "Kabupaten Asmat",
+    "provinsi": "Papua Selatan",
+    "lintang": -5.0573958,
+    "bujur": 138.3988186,
+    "elevasi": 11,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "94.01",
+    "kota": "Kabupaten Nabire",
+    "provinsi": "Papua Tengah",
+    "lintang": -3.5095462,
+    "bujur": 135.7520985,
+    "elevasi": 606,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "94.02",
+    "kota": "Kabupaten Puncak Jaya",
+    "provinsi": "Papua Tengah",
+    "lintang": -3.4467891,
+    "bujur": 137.8427298,
+    "elevasi": 1007,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "94.03",
+    "kota": "Kabupaten Paniai",
+    "provinsi": "Papua Tengah",
+    "lintang": -3.7876441,
+    "bujur": 136.3624686,
+    "elevasi": 1973,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "94.04",
+    "kota": "Kabupaten Mimika",
+    "provinsi": "Papua Tengah",
+    "lintang": -4.4553223,
+    "bujur": 137.1362125,
+    "elevasi": 165,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "94.05",
+    "kota": "Kabupaten Puncak",
+    "provinsi": "Papua Tengah",
+    "lintang": -3.8649098,
+    "bujur": 137.6061625,
+    "elevasi": 2333,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "94.06",
+    "kota": "Kabupaten Dogiyai",
+    "provinsi": "Papua Tengah",
+    "lintang": -4.0454139,
+    "bujur": 135.6763443,
+    "elevasi": 2289,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "94.07",
+    "kota": "Kabupaten Intan Jaya",
+    "provinsi": "Papua Tengah",
+    "lintang": -3.5076422,
+    "bujur": 136.7478493,
+    "elevasi": 2054,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "94.08",
+    "kota": "Kabupaten Deiyai",
+    "provinsi": "Papua Tengah",
+    "lintang": -4.0974893,
+    "bujur": 136.4393054,
+    "elevasi": 790,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "95.01",
+    "kota": "Kabupaten Jayawijaya",
+    "provinsi": "Papua Pegunungan",
+    "lintang": -4.0004481,
+    "bujur": 138.7995122,
+    "elevasi": 1776,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "95.02",
+    "kota": "Kabupaten Pegunungan Bintang",
+    "provinsi": "Papua Pegunungan",
+    "lintang": -4.5589872,
+    "bujur": 140.5135589,
+    "elevasi": 1868,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "95.03",
+    "kota": "Kabupaten Yahukimo",
+    "provinsi": "Papua Pegunungan",
+    "lintang": -4.4939717,
+    "bujur": 139.5279996,
+    "elevasi": 2634,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "95.04",
+    "kota": "Kabupaten Tolikara",
+    "provinsi": "Papua Pegunungan",
+    "lintang": -3.481132,
+    "bujur": 138.4787258,
+    "elevasi": 2973,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "95.05",
+    "kota": "Kabupaten Mamberamo Tengah",
+    "provinsi": "Papua Pegunungan",
+    "lintang": -2.3745692,
+    "bujur": 138.3190276,
+    "elevasi": 316,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "95.06",
+    "kota": "Kabupaten Yalimo",
+    "provinsi": "Papua Pegunungan",
+    "lintang": -3.7852847,
+    "bujur": 139.4466005,
+    "elevasi": 423,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "95.07",
+    "kota": "Kabupaten Lanny Jaya",
+    "provinsi": "Papua Pegunungan",
+    "lintang": -3.971033,
+    "bujur": 138.3190276,
+    "elevasi": 3067,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "95.08",
+    "kota": "Kabupaten Nduga",
+    "provinsi": "Papua Pegunungan",
+    "lintang": -4.4069496,
+    "bujur": 138.2393528,
+    "elevasi": 317,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "96.01",
+    "kota": "Kabupaten Sorong",
+    "provinsi": "Papua Barat Daya",
+    "lintang": -1.1223204,
+    "bujur": 131.4883373,
+    "elevasi": 11,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "96.04",
+    "kota": "Kabupaten Sorong Selatan",
+    "provinsi": "Papua Barat Daya",
+    "lintang": -1.7657744,
+    "bujur": 132.1572702,
+    "elevasi": 20,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "96.05",
+    "kota": "Kabupaten Raja Ampat",
+    "provinsi": "Papua Barat Daya",
+    "lintang": -1.0915151,
+    "bujur": 130.8778586,
+    "elevasi": 44,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "96.09",
+    "kota": "Kabupaten Tambrauw",
+    "provinsi": "Papua Barat Daya",
+    "lintang": -0.781856,
+    "bujur": 132.3938375,
+    "elevasi": 539,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "96.10",
+    "kota": "Kabupaten Maybrat",
+    "provinsi": "Papua Barat Daya",
+    "lintang": -1.2970979,
+    "bujur": 132.3150993,
+    "elevasi": 271,
+    "zona_waktu": "WIT"
+  },
+  {
+    "kode_kemendagri": "96.71",
+    "kota": "Kota Sorong",
+    "provinsi": "Papua Barat Daya",
+    "lintang": -0.8761629,
+    "bujur": 131.255828,
+    "elevasi": 13,
+    "zona_waktu": "WIT"
+  }
+]

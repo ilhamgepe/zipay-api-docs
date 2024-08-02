@@ -1,0 +1,11 @@
+---
+title: Category ID
+---
+
+# Category ID
+
+import { DataTable } from "../../components/datatable/data-table";
+import { categoryColumns } from "../../components/datatable/categoryColumn";
+import data from "../../static/data/mcc.json";
+
+<DataTable columns={categoryColumns} data={data} key={"categoryId"} />

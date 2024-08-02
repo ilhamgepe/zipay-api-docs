@@ -1,0 +1,268 @@
+[
+  {
+    "kode_kemendagri": "11",
+    "provinsi": "Aceh",
+    "zona_waktu": "WIB",
+    "lintang": 4.695135,
+    "bujur": 96.7493993
+  },
+  {
+    "kode_kemendagri": "12",
+    "provinsi": "Sumatera Utara",
+    "zona_waktu": "WIB",
+    "lintang": 2.1153547,
+    "bujur": 99.5450974
+  },
+  {
+    "kode_kemendagri": "13",
+    "provinsi": "Sumatera Barat",
+    "zona_waktu": "WIB",
+    "lintang": -0.7399397,
+    "bujur": 100.8000051
+  },
+  {
+    "kode_kemendagri": "14",
+    "provinsi": "Riau",
+    "zona_waktu": "WIB",
+    "lintang": -6.9067461,
+    "bujur": 107.6079607
+  },
+  {
+    "kode_kemendagri": "15",
+    "provinsi": "Jambi",
+    "zona_waktu": "WIB",
+    "lintang": -1.6101229,
+    "bujur": 103.6131203
+  },
+  {
+    "kode_kemendagri": "16",
+    "provinsi": "Sumatera Selatan",
+    "zona_waktu": "WIB",
+    "lintang": -3.3194374,
+    "bujur": 103.914399
+  },
+  {
+    "kode_kemendagri": "17",
+    "provinsi": "Bengkulu",
+    "zona_waktu": "WIB",
+    "lintang": -3.7928451,
+    "bujur": 102.2607641
+  },
+  {
+    "kode_kemendagri": "18",
+    "provinsi": "Lampung",
+    "zona_waktu": "WIB",
+    "lintang": -4.5585849,
+    "bujur": 105.4068079
+  },
+  {
+    "kode_kemendagri": "19",
+    "provinsi": "Kepulauan Bangka Belitung",
+    "zona_waktu": "WIB",
+    "lintang": -2.7410513,
+    "bujur": 106.4405872
+  },
+  {
+    "kode_kemendagri": "21",
+    "provinsi": "Kepulauan Riau",
+    "zona_waktu": "WIB",
+    "lintang": 3.9456514,
+    "bujur": 108.1428669
+  },
+  {
+    "kode_kemendagri": "31",
+    "provinsi": "DKI Jakarta",
+    "zona_waktu": "WIB",
+    "lintang": -6.2087634,
+    "bujur": 106.845599
+  },
+  {
+    "kode_kemendagri": "32",
+    "provinsi": "Jawa Barat",
+    "zona_waktu": "WIB",
+    "lintang": -7.090911,
+    "bujur": 107.668887
+  },
+  {
+    "kode_kemendagri": "33",
+    "provinsi": "Jawa Tengah",
+    "zona_waktu": "WIB",
+    "lintang": -7.150975,
+    "bujur": 110.1402594
+  },
+  {
+    "kode_kemendagri": "34",
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "zona_waktu": "WIB",
+    "lintang": -7.8753849,
+    "bujur": 110.4262088
+  },
+  {
+    "kode_kemendagri": "35",
+    "provinsi": "Jawa Timur",
+    "zona_waktu": "WIB",
+    "lintang": -7.5360639,
+    "bujur": 112.2384017
+  },
+  {
+    "kode_kemendagri": "36",
+    "provinsi": "Banten",
+    "zona_waktu": "WIB",
+    "lintang": -6.4058172,
+    "bujur": 106.0640179
+  },
+  {
+    "kode_kemendagri": "51",
+    "provinsi": "Bali",
+    "zona_waktu": "WITA",
+    "lintang": -8.4095178,
+    "bujur": 115.188916
+  },
+  {
+    "kode_kemendagri": "52",
+    "provinsi": "Nusa Tenggara Barat",
+    "zona_waktu": "WITA",
+    "lintang": -8.6529334,
+    "bujur": 117.3616476
+  },
+  {
+    "kode_kemendagri": "53",
+    "provinsi": "Nusa Tenggara Timur",
+    "zona_waktu": "WITA",
+    "lintang": -8.6573819,
+    "bujur": 121.0793705
+  },
+  {
+    "kode_kemendagri": "61",
+    "provinsi": "Kalimantan Barat",
+    "zona_waktu": "WIB",
+    "lintang": -0.2787808,
+    "bujur": 111.4752851
+  },
+  {
+    "kode_kemendagri": "62",
+    "provinsi": "Kalimantan Tengah",
+    "zona_waktu": "WIB",
+    "lintang": -1.6814878,
+    "bujur": 113.3823545
+  },
+  {
+    "kode_kemendagri": "63",
+    "provinsi": "Kalimantan Selatan",
+    "zona_waktu": "WITA",
+    "lintang": -3.0926415,
+    "bujur": 115.2837585
+  },
+  {
+    "kode_kemendagri": "64",
+    "provinsi": "Kalimantan Timur",
+    "zona_waktu": "WITA",
+    "lintang": 0.5386586,
+    "bujur": 116.419389
+  },
+  {
+    "kode_kemendagri": "65",
+    "provinsi": "Kalimantan Utara",
+    "zona_waktu": "WITA",
+    "lintang": 3.0730929,
+    "bujur": 116.0413889
+  },
+  {
+    "kode_kemendagri": "71",
+    "provinsi": "Sulawesi Utara",
+    "zona_waktu": "WITA",
+    "lintang": 0.6246932,
+    "bujur": 123.9750018
+  },
+  {
+    "kode_kemendagri": "72",
+    "provinsi": "Sulawesi Tengah",
+    "zona_waktu": "WITA",
+    "lintang": -1.4300254,
+    "bujur": 121.4456179
+  },
+  {
+    "kode_kemendagri": "73",
+    "provinsi": "Sulawesi Selatan",
+    "zona_waktu": "WITA",
+    "lintang": -7.7664389,
+    "bujur": 110.3386386
+  },
+  {
+    "kode_kemendagri": "74",
+    "provinsi": "Sulawesi Tenggara",
+    "zona_waktu": "WITA",
+    "lintang": -1.8479,
+    "bujur": 120.5279
+  },
+  {
+    "kode_kemendagri": "75",
+    "provinsi": "Gorontalo",
+    "zona_waktu": "WITA",
+    "lintang": 0.5435442,
+    "bujur": 123.0567693
+  },
+  {
+    "kode_kemendagri": "76",
+    "provinsi": "Sulawesi Barat",
+    "zona_waktu": "WITA",
+    "lintang": -2.8441371,
+    "bujur": 119.2320784
+  },
+  {
+    "kode_kemendagri": "81",
+    "provinsi": "Maluku",
+    "zona_waktu": "WIT",
+    "lintang": -3.2384616,
+    "bujur": 130.1452734
+  },
+  {
+    "kode_kemendagri": "82",
+    "provinsi": "Maluku Utara",
+    "zona_waktu": "WIT",
+    "lintang": 1.5709993,
+    "bujur": 127.8087693
+  },
+  {
+    "kode_kemendagri": "91",
+    "provinsi": "Papua",
+    "zona_waktu": "WIT",
+    "lintang": -4.269928,
+    "bujur": 138.0803529
+  },
+  {
+    "kode_kemendagri": "92",
+    "provinsi": "Papua Barat",
+    "zona_waktu": "WIT",
+    "lintang": -1.3361154,
+    "bujur": 133.1747162
+  },
+  {
+    "kode_kemendagri": "93",
+    "provinsi": "Papua Selatan",
+    "zona_waktu": "WIT",
+    "lintang": -4.269928,
+    "bujur": 138.0803529
+  },
+  {
+    "kode_kemendagri": "94",
+    "provinsi": "Papua Tengah",
+    "zona_waktu": "WIT",
+    "lintang": -4.269928,
+    "bujur": 138.0803529
+  },
+  {
+    "kode_kemendagri": "95",
+    "provinsi": "Papua Pegunungan",
+    "zona_waktu": "WIT",
+    "lintang": -4.269928,
+    "bujur": 138.0803529
+  },
+  {
+    "kode_kemendagri": "96",
+    "provinsi": "Papua Barat Daya",
+    "zona_waktu": "WIT",
+    "lintang": -0.8761629,
+    "bujur": 131.255828
+  }
+]

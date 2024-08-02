@@ -1,0 +1,12 @@
+{
+  "introduction": "Introduction",
+  "-- Data-Reference": {
+    "type": "separator",
+    "title": "Data Reference"
+  },
+  "categoryId": "Category ID",
+  "criteriaId": "Criteria ID",
+  "stateId": "State ID",
+  "subdistrictId": "Subdistrict ID",
+  "villageId": "Village ID"
+}

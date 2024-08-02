@@ -1,0 +1,9 @@
+---
+title: State ID
+---
+
+import { DataTable } from "../../components/datatable/data-table";
+import { stateColumn } from "../../components/datatable/stateColumn";
+import data from "../../static/data/kota.json";
+
+<DataTable columns={stateColumn} data={data} key={"stateId"} />
